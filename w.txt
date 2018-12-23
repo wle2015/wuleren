@@ -1,5 +1,5 @@
 ﻿[Adblock Plus2.0]
-! title: 黑白过滤规则
+! title: wuleren 黑白过滤规则
 ! Version: 20181121
 *://*&adid=*
 *://*&dartsite=*
