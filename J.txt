@@ -1,5 +1,5 @@
 ﻿[Adblock Plus2.0]
-! title: wuleren 隐藏规则
+! title: wuleren 元素隐藏隐藏规则
 ! Version: 20170923
 !------------CSS拉长拉宽-----------------
 www.downg.com##div[class="col2 software-view"]{width: 950px !important;}
