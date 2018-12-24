@@ -1,6 +1,6 @@
-﻿[Adblock Plus2.0]
-! title: wuleren 过滤-隐藏规则
-! Version: 20181122
+[Adblock Plus2.0]
+! title: wuleren过滤规则
+! Version: 20181121
 *&adid=*
 *&dartsite=*
 *&foiffs=*
@@ -692,7 +692,6 @@
 */adv_3b2g.js
 */images/sitead2.gif
 */js/promo/*
-||acs.*
 */gg_a.xml*
 */iframe/gd_xxg_ad.js
 */floatad_n.js
