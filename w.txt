@@ -6161,6 +6161,7 @@ https://www.80s.tw/80sad/*.js
 |http://www.36dm.com/images/*0acgsou.gif
 |http://www.36dm.com/images/bdjd.gif
 !--------6v电影下载网
+|http://www.hao6v.com/d/$script
 |http://www.6vhao.com/d/$script
 |http://www.6vhao.net/d/$script
 |http://www.dygang.com/d/$script
