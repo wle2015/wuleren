@@ -6166,6 +6166,8 @@ https://www.80s.tw/80sad/*.js
 |http://www.6vhao.net/d/$script
 |http://www.dygang.com/d/$script
 dygang.com,6vhao.com,6vhao.net###gd
+!--------迪克电影网
+|http://www.dikedy.com/runtime/js/fumeiti.js
 !-------其它
 |http://www.bookbao.cc/js/xx.js
 |http://j.sc1369.com/s.php*
@@ -6179,6 +6181,7 @@ dygang.com,6vhao.com,6vhao.net###gd
 |http://c.csdnimg.cn/public/common/toolbar/js/content_toolbar.js
 |http://js.a3p4.net/js/yp.js
 |http://bt.orzx.im/js/popc.js
+|http://bbs.hh010.com/1/*.*g*
 |http://bmp*.ali213.net/*.js
 *.se/?placement=*&async$domain=torrentkitty.net
 https://ss1.bdstatic.com/*/https/global/js/all_async_search_*.js$domain=baidu.com
