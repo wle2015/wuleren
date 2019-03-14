@@ -1,6 +1,6 @@
 [Adblock Plus2.0]
 ! title: wuleren过滤规则
-! Version: 20190212
+! Version: 20190314
 *&adid=*
 *&dartsite=*
 *&foiffs=*
@@ -4902,6 +4902,7 @@ https://s.tbcdn.cn/apps/login/static/swf/abc.swf
 |http://www.greenxf.com/count.js
 |http://www.greenxf.com/greenxfad/*
 !-------迅播影院
+https://www.22tu.cc/template/aoo/ads/$script
 https://www.22tu.cc/template/22tu/ads/*.js
 |http://www.22tu.cc/1.html
 |http://ve.tsdlp.com/js/fm_b.js
@@ -6043,6 +6044,9 @@ dygang.com,6vhao.com,6vhao.net###gd
 http://www.dikedy.com/runtime/js/fumeiti.js
 !--------BTrabbit
 http://www.btrabbit.vip/static/js/all.js
+!--------迅影网
+https://zz.bdstatic.com/linksubmit/push.js
+https://jc.4006825178.com:10442/*/*.js
 !-------其它
 |http://www.bookbao.cc/js/xx.js
 |http://j.sc1369.com/s.php*
