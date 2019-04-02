@@ -1,6 +1,6 @@
 [Adblock Plus2.0]
 ! title: wuleren 黑白过滤规则
-! Version: 20190314
+! Version: 20190402
 *&adid=*
 *&dartsite=*
 *&foiffs=*
@@ -5999,11 +5999,7 @@ https://code.zantainet.com/jscode/*.js
 |http://down.91wangmeng.com/down/*danji/az*.htm*$third-party,domain=99danji.com
 *.js$third-party,domain=99danji.com
 !--------Torrent Kitty
-*/apu.php$third-party,domain=torrentkitty.tv
-*.js*$domain=torrentkitty.tv
-https://*/*.ttf$domain=torrentkitty.tv
-https://*/*.woff*$domain=torrentkitty.tv
-https://*.php*$domain=torrentkitty.tv
+||torrentkitty.*/*$font,image,script
 !--------80s电影网
 https://www.80s.tw/80sad/*.js
 !-------西瓜影院
@@ -6047,6 +6043,12 @@ http://www.btrabbit.vip/static/js/all.js
 !--------迅影网
 https://zz.bdstatic.com/linksubmit/push.js
 https://jc.4006825178.com:10442/*/*.js
+!--------BT之家
+|http://*btbtt.*/imgs.js$~third-party
+|http://*btbtt.*/view/image/qt_qt.*$image
+!--------第一股票公式网
+|http://www.chnmoney.com/dfile/*$script,image
+http://www.chnmoney.com##[class="tonglan"]
 !-------其它
 |http://www.bookbao.cc/js/xx.js
 |http://j.sc1369.com/s.php*
@@ -6069,7 +6071,6 @@ https://ss1.bdstatic.com/*/https/global/js/all_async_search_*.js$domain=baidu.co
 |http://bdimg.share.baidu.com/static/api/js/share.js?v=*.js?cdnversion=*
 |http://www.tvapk.com/img/dangbei.png
 |http://eclkmpbn.com/adserve/*$domain=torrentkitty.net
-|http://www.torrentkitty.net/js/*.js$domain=torrentkitty.net
 |http://www.55atv.com/js/config.js
 |http://ecma.bdimg.com/public*/imageplus/sticker/pa_lu_nobtn.app.js?v=*
 |http://img.il8r.com/js/r/rich.js?*
