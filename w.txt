@@ -6000,6 +6000,11 @@ https://code.zantainet.com/jscode/*.js
 *.js$third-party,domain=99danji.com
 !--------Torrent Kitty
 ||torrentkitty.*/*$font,image,script
+*/apu.php$third-party,domain=torrentkitty.tv
+*.js*$domain=torrentkitty.tv
+https://*/*.ttf$domain=torrentkitty.tv
+https://*/*.woff*$domain=torrentkitty.tv
+https://*.php*$domain=torrentkitty.tv
 !--------80s电影网
 https://www.80s.tw/80sad/*.js
 !-------西瓜影院
@@ -6045,10 +6050,10 @@ https://zz.bdstatic.com/linksubmit/push.js
 https://jc.4006825178.com:10442/*/*.js
 !--------BT之家
 |http://*btbtt.*/imgs.js$~third-party
-|http://*btbtt.*/view/image/qt_qt.*$image
+|http://*btbtt.*/view/image/qt_qt.*
 !--------第一股票公式网
-|http://www.chnmoney.com/dfile/*$script,image
-http://www.chnmoney.com##[class="tonglan"]
+|http://www.chnmoney.com/dfile/*
+www.chnmoney.com##[class="tonglan"]
 !-------其它
 |http://www.bookbao.cc/js/xx.js
 |http://j.sc1369.com/s.php*
