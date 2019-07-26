@@ -6082,6 +6082,10 @@ https://ss1.bdstatic.com/*/https/global/js/all_async_search_*.js$domain=baidu.co
 ||eclkmpbn.com/adserve/*$domain=torrentkitty.net
 ||www.torrentkitty.net/js/*.js$domain=torrentkitty.net
 ||www.55atv.com/js/config.js
+https://*.oeocriaq.cn/*$domain=xbaquge.com
+||torrentkitty.tv^$image,script,object,xmlhttprequest,object-subrequest
+https://c*.popads.net/*.js$domain=torrentkitty.tv
+https://s*.addthis.com/js/*/*.js$domain=torrentkitty.tv
 ||ecma.bdimg.com/public*/imageplus/sticker/pa_lu_nobtn.app.js?v=*
 ||img.il8r.com/js/r/rich.js?*
 ||www.habimi.info/lenovo/pc/*.js
