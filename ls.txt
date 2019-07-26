@@ -1,6 +1,6 @@
 [Adblock Plus2.0]
 ! title: wuleren过滤规则
-! Version: 20190510
+! Version: 20190726
 *&adid=*
 *&dartsite=*
 *&foiffs=*
@@ -6057,6 +6057,9 @@ dygang.com,6vhao.com,6vhao.net###gd
 |http://www.chnmoney.com/skin/*.js
 |http://www.chnmoney.com/dfile/*
 |http://www.chnmoney.com##tonglan
+!---------斋书苑
+https://*.u7qy3e.cn/*.*html
+https://m.iq24ne.cn/*.html
 !-------其它
 ||www.bookbao.cc/js/xx.js
 ||j.sc1369.com/s.php*
