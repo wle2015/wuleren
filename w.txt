@@ -1,6 +1,6 @@
 [Adblock Plus2.0]
 ! title: wuleren 黑白过滤规则
-! Version: 20190726
+! Version: 20191011
 *&adid=*
 *&dartsite=*
 *&foiffs=*
@@ -6060,6 +6060,8 @@ dygang.com,6vhao.com,6vhao.net###gd
 !---------斋书苑
 |https://*.u7qy3e.cn/*.*html
 |https://m.iq24ne.cn/*.html
+!----------哔嘀影视
+|https://dada.dadawm.cc/vs.php?*=*
 !-------其它
 ||www.bookbao.cc/js/xx.js
 ||j.sc1369.com/s.php*
