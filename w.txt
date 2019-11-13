@@ -1,6 +1,6 @@
 [Adblock Plus2.0]
 ! title: wuleren 黑白过滤规则
-! Version: 20191011
+! Version: 20191112
 *&adid=*
 *&dartsite=*
 *&foiffs=*
@@ -4842,6 +4842,7 @@ https://s.tbcdn.cn/apps/login/static/swf/abc.swf
 !-------极速小说网
 *.186s.cn/tu*.gif
 !-------77神奇影院
+https://*.77ds.*/js/shichuang.js
 *77ds.net/js/*ad.js
 *77ds.net/js/fumeiti.js
 *77ds.net/js/index*.js
@@ -4903,6 +4904,7 @@ https://s.tbcdn.cn/apps/login/static/swf/abc.swf
 ||www.greenxf.com/count.js
 ||www.greenxf.com/greenxfad/*
 !-------迅播影院
+https://www.22tu.cc/template/aoo/spapp/js/*.js*
 https://www.22tu.cc/template/aoo/ads/$script
 https://www.22tu.cc/template/22tu/ads/*.js
 ||www.22tu.cc/1.html
@@ -6058,6 +6060,7 @@ dygang.com,6vhao.com,6vhao.net###gd
 |http://www.chnmoney.com/dfile/*
 |http://www.chnmoney.com##tonglan
 !---------斋书苑
+|https://vj.tianji520.cn/*.js
 |https://*.u7qy3e.cn/*.*html
 |https://m.iq24ne.cn/*.html
 !----------哔嘀影视
@@ -6068,16 +6071,18 @@ dygang.com,6vhao.com,6vhao.net###gd
 ||mini.eastday.com/mini/*.js
 ||www.xiaoyang.mobi/jscenter/get/*
 ||media.jointreport-switch.com/?uid=*
-||vip2.rwjfs.com/cpv/sdl*
+*//vip2.rwjfs.com/cpv/sdl*
 ||img6.sfxl.com.cn/*/*.gif
 ||www.torrentkitty.org/js/modernizr.custom.*.js
 ||bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=*
 ||c.csdnimg.cn/public/common/toolbar/js/content_toolbar.js
+*/template/default_pc//*.php$script
+http://*.*.*.*/*.js$script
 ||js.a3p4.net/js/yp.js
 ||bt.orzx.im/js/popc.js
 http://bbs.hh010.com/1/*.*g*
 ||bmp*.ali213.net/*.js
-|https://www.nrtvip.net/js/webgg.js
+https://www.nrtvip.net/js/webgg.js
 *.se/?placement=*&async$domain=torrentkitty.net
 https://ss1.bdstatic.com/*/https/global/js/all_async_search_*.js$domain=baidu.com
 ||static.360buyimg.com/jzt/temp/js/j.min.js$domain=x.jd.com
@@ -6087,9 +6092,10 @@ https://ss1.bdstatic.com/*/https/global/js/all_async_search_*.js$domain=baidu.co
 ||eclkmpbn.com/adserve/*$domain=torrentkitty.net
 ||www.torrentkitty.net/js/*.js$domain=torrentkitty.net
 ||www.55atv.com/js/config.js
+|https://*.oeocriaq.cn/*$domain=xbaquge.com
 ||torrentkitty.tv^$image,script,object,xmlhttprequest,object-subrequest
-https://c*.popads.net/*.js$domain=torrentkitty.tv
-https://s*.addthis.com/js/*/*.js$domain=torrentkitty.tv
+|https://c*.popads.net/*.js$domain=torrentkitty.tv
+|https://s*.addthis.com/js/*/*.js$domain=torrentkitty.tv
 ||ecma.bdimg.com/public*/imageplus/sticker/pa_lu_nobtn.app.js?v=*
 ||img.il8r.com/js/r/rich.js?*
 ||www.habimi.info/lenovo/pc/*.js
