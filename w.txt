@@ -1,6 +1,6 @@
 [Adblock Plus2.0]
 ! title: wuleren 黑白过滤规则
-! Version: 20191112
+! Version: 20191127
 *&adid=*
 *&dartsite=*
 *&foiffs=*
@@ -6060,27 +6060,42 @@ dygang.com,6vhao.com,6vhao.net###gd
 |http://www.chnmoney.com/dfile/*
 |http://www.chnmoney.com##tonglan
 !---------斋书苑
+|https://1450.chushoushijian.cn/*$domain=www.zhaishuyuan.com
 |https://vj.tianji520.cn/*.js
 |https://*.u7qy3e.cn/*.*html
 |https://m.iq24ne.cn/*.html
 !----------哔嘀影视
-|https://dada.dadawm.cc/vs.php?*=*
+|https://dada.dadawm.cc/vs.php*
+!---------6080电影网
+|http://www.6080w.com/zxj.js
+|http://www.6080w.com/template/mov/js/pc*.js
+|http://www.6080w.com/template/mov/js/*0*.js
+|http://705.chuzushijian.cn/music.php*
+!--------粤语网站电影港剧网
+|https://www.yuewz.com/style/js/foot.js
+|https://pc.gutouwang.net/k.html?*
+!-------一网天下
+|https://www.ywtx.cc/js/ads/*.js
+!-------智能电视网
+|https://www.znds.com/*/common/ad.*
+!------蓝奏云
+|https://statics.woozooo.com/img/m*.js
 !-------其它
 ||www.bookbao.cc/js/xx.js
 ||j.sc1369.com/s.php*
 ||mini.eastday.com/mini/*.js
 ||www.xiaoyang.mobi/jscenter/get/*
 ||media.jointreport-switch.com/?uid=*
-*//vip2.rwjfs.com/cpv/sdl*
+||vip2.rwjfs.com/cpv/sdl*
 ||img6.sfxl.com.cn/*/*.gif
 ||www.torrentkitty.org/js/modernizr.custom.*.js
 ||bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=*
 ||c.csdnimg.cn/public/common/toolbar/js/content_toolbar.js
+|http://www.vodxc.com/xcimg/js/img.Load.js
 */template/default_pc//*.php$script
-http://*.*.*.*/*.js$script
 ||js.a3p4.net/js/yp.js
 ||bt.orzx.im/js/popc.js
-http://bbs.hh010.com/1/*.*g*
+|http://bbs.hh010.com/1/*.*g*
 ||bmp*.ali213.net/*.js
 https://www.nrtvip.net/js/webgg.js
 *.se/?placement=*&async$domain=torrentkitty.net
