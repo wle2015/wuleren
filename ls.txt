@@ -1,9 +1,6 @@
 [Adblock Plus2.0]
 ! title: wuleren过滤规则
 ! Version: 20191205
-[Adblock Plus2.0]
-! title: wuleren过滤规则
-! Version: 20191205
 *&adid=*
 *&dartsite=*
 *&foiffs=*
