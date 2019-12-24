@@ -1,6 +1,6 @@
 [Adblock Plus2.0]
 ! title: wuleren 过滤规则
-! Version: 20191205
+! Version: 20191220
 *&adid=*
 *&dartsite=*
 *&foiffs=*
@@ -1176,6 +1176,7 @@ coral.qq.com##div[id^="PL_ad_cmt_"],div.mod-ad
 gd.qq.com###r_ad
 qq.com##div[bosszone=tymyd],div[id^=AdZone],#coo_qqBrowser,div.ad-banner,div.side_ad
 sports.qq.com##.ad-wrapper,#focus_jordon,.ad_r_85,div[class|=gg],div.layout.mt35,div[adconfig_charset]
+y.qq.com##div[class="popup_guide"]
 !-------迅雷&狗狗&快传
 |http://record.kuai.xunlei.com/*
 *.cpm.cm.sandai.net/*
@@ -1892,6 +1893,9 @@ blog.sina.cn##div.item_hide+div,#pl-blog-artad
 |http://icon.zol-img.com.cn/public/js/web_foot.js
 |http://p.zol-img.com.cn/*
 |http://dw.cbsi.com.cn/clear/*c.gif?*
+||dw.cbsi.com.cn/clear/*c.gif?*
+|https://p.zol-img.com.cn/*$script
+|https://icon.zol-img.com.cn/public/js/web_foot.js
 *pc3w.com/js/*
 !-------凡客诚品
 |http://www.vancl.com/websource/*
@@ -2266,6 +2270,8 @@ ifeng.com##.slide_popo_modal,div[class^=pao_],div[class^=adList],div[class^=adbo
 |http://file.ithome.com/images/tc-ad.png
 *win7china.com/script/win7elements/*
 *win7china.com/hitcount.aspx?*
+|http://changyan.sohu.com/api/*$domain=win7zhijia.cn
+|http://www.windows7en.com/statistics/*.js
 !-------站长助手
 *.baidu456.com/ggimages/*
 *baidu456.com/tcjs/*
@@ -5179,9 +5185,10 @@ https://*.77ds.*/js/shichuang.js
 |http://www.greenxf.com/count.js
 |http://www.greenxf.com/greenxfad/*
 !-------迅播影院
-https://www.22tu.cc/template/aoo/spapp/js/*.js*
-https://www.22tu.cc/template/aoo/ads/$script
-https://www.22tu.cc/template/22tu/ads/*.js
+|http://www.22tu.cc/template/aoo/spapp/*.js*
+|https://www.22tu.cc/template/aoo/spapp/js/*.js*
+|https://www.22tu.cc/template/aoo/ads/$script
+|https://www.22tu.cc/template/22tu/ads/*.js
 |http://www.22tu.cc/1.html
 |http://ve.tsdlp.com/js/fm_b.js
 |http://www.22tu.cc/d/js/acmsd/*.js
@@ -6331,7 +6338,7 @@ https://jc.4006825178.com:10442/*/*.js
 !--------第一股票公式网
 |http://www.chnmoney.com/skin/*.js
 |http://www.chnmoney.com/dfile/*
-|http://www.chnmoney.com##tonglan
+www.chnmoney.com##tonglan
 !---------斋书苑
 |https://1450.chushoushijian.cn/*$domain=www.zhaishuyuan.com
 |https://vj.tianji520.cn/*.js
@@ -6340,6 +6347,7 @@ https://jc.4006825178.com:10442/*/*.js
 !----------哔嘀影视
 |https://dada.dadawm.cc/vs.php*
 !---------6080电影网
+|http://js.penxiangge.com/*
 |http://www.6080w.com/zxj.js
 |http://www.6080w.com/template/mov/js/pc*.js
 |http://www.6080w.com/template/mov/js/*0*.js
@@ -6358,6 +6366,15 @@ www.znds.com###portal_block_288_content
 !------查询网
 |https://s.ssl.qhres.com/ssl/ab*.js
 |https://site.liantu.cn/script/index.asp?v=20*
+!-----神站
+||https://shenzhan444.com/view/img/kaishi.gif
+!-----小收影院
+|https://pic.cytcm.com/20*/*0-*0.gif
+www.p4vip.com##div[class="leaveNavInfo"]
+!------奇奇动漫
+|http://www.qiqidongman.com/js/common.js?*
+!-----小蛮兔动漫网
+|https://www.xiaomantu.com/static/img/dongman*.*g
 !-------其它
 |http://www.bookbao.cc/js/xx.js
 |http://j.sc1369.com/s.php*
@@ -6379,7 +6396,7 @@ https://ss1.bdstatic.com/*/https/global/js/all_async_search_*.js$domain=baidu.co
 |http://static.360buyimg.com/jzt/temp/js/j.min.js$domain=x.jd.com
 |http://bdimg.share.baidu.com/static/api/js/share.js?v=*.js?cdnversion=*
 |http://www.tvapk.com/img/dangbei.png
-*$script,image,font,domain=torrentkitty.se|torrentkitty.net|torrentkitty.org
+*$script,image,font,domain=torrentkitty.se|torrentkitty.net|torrentkitty.org|torrentkitty.me|torrentkitty.app
 *$script,image,font,domain=www.torrentkitty.~
 |http://www.55atv.com/js/config.js
 ||*.*.*.*/*.js$script,domain=9b9w.com|45k5.com
