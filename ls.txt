@@ -1,6 +1,6 @@
 [Adblock Plus2.0]
 ! title: wuleren 过滤规则
-! Version: 20191220
+! Version: 20200510
 *&adid=*
 *&dartsite=*
 *&foiffs=*
@@ -1653,6 +1653,7 @@ blog.sina.cn##div.item_hide+div,#pl-blog-artad
 |http://uestat.video.qiyi.com/*
 *.iqiyi.com/player/*/theatre*.swf
 |http://track.cupid.qiyi.com/*
+@@||data.video.iqiyi.com/videos/other/202*/*/*/*.f4v*
 !-------知音漫客
 *zymk.cn/public/upload/img/20*-*-*/20*.gif
 *zymk.cn/public/upload/img/20*-*-*/20*.jpg
@@ -6340,6 +6341,9 @@ https://jc.4006825178.com:10442/*/*.js
 |http://www.chnmoney.com/dfile/*
 www.chnmoney.com##tonglan
 !---------斋书苑
+|https://*.v4dwkcv.com/*.js$domain=www.zhaishuyuan.com
+|https://*.sdqoi2d.com/*.js$domain=www.zhaishuyuan.com
+|https://*.dlads.cn/alikes.php?*$third-party
 |https://1450.chushoushijian.cn/*$domain=www.zhaishuyuan.com
 |https://vj.tianji520.cn/*.js
 |https://*.u7qy3e.cn/*.*html
@@ -6375,6 +6379,30 @@ www.p4vip.com##div[class="leaveNavInfo"]
 |http://www.qiqidongman.com/js/common.js?*
 !-----小蛮兔动漫网
 |https://www.xiaomantu.com/static/img/dongman*.*g
+!-----爱迅播
+http://www.ixunbo.com/*/ads/*.js
+|https://img.czywssj.com/*/ixunbocom.js
+http://push.zhanzhang.baidu.com/*.js
+!------本地宝
+|http://j.s11.cn/*$domain=bendibao.com
+!-----闪电下载吧
+|https://www.sdbeta.com/statics/mystyle/js/1*.js
+!------键盘小说网
+|http://www.janpn.com/templets/pinglun.js
+!------乐读电子书
+|http://www.txtbook.com.cn/Public/skin/ledu/Home/public/js/push-*.js
+!------手机乐园市场
+|https://*.shouji.com.cn/static/*/js/appinfo.js
+!------月色TV
+|https://cbu01.alicdn.com/img/ibank/20*/*/*/*.jpg$third-party
+yuese90.com##div[style="max-width: 1240px; width: 100%; margin: 0px 0 0px 0;  padding: 1px 0 3px 0; font: bold 15px Arial, Helvetica; text-align: center; color: #ffbb00; margin-left: auto; margin-right: auto"]
+!------4438x
+|https://www.32jjjj.com/tpl/xxx//style/js/home.js
+|https://www.4438xa2.com/runtime/js/*.js
+www.32jjjj.com##div[class="dialog"],[id="download_dibu"]
+!------久久爱免费视频
+|https://261xd.com/js/tj.js
+|https://ad.*.com/*-*.js$third-party
 !-------其它
 |http://www.bookbao.cc/js/xx.js
 |http://j.sc1369.com/s.php*
