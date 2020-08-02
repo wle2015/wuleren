@@ -1,6 +1,6 @@
 [Adblock Plus2.0]
 ! title: wuleren 过滤规则
-! Version: 20200510
+! Version: 20200802
 *&adid=*
 *&dartsite=*
 *&foiffs=*
@@ -6393,16 +6393,11 @@ http://push.zhanzhang.baidu.com/*.js
 |http://www.txtbook.com.cn/Public/skin/ledu/Home/public/js/push-*.js
 !------手机乐园市场
 |https://*.shouji.com.cn/static/*/js/appinfo.js
-!------月色TV
-|https://cbu01.alicdn.com/img/ibank/20*/*/*/*.jpg$third-party
-yuese90.com##div[style="max-width: 1240px; width: 100%; margin: 0px 0 0px 0;  padding: 1px 0 3px 0; font: bold 15px Arial, Helvetica; text-align: center; color: #ffbb00; margin-left: auto; margin-right: auto"]
-!------4438x
-|https://www.32jjjj.com/tpl/xxx//style/js/home.js
-|https://www.4438xa2.com/runtime/js/*.js
-www.32jjjj.com##div[class="dialog"],[id="download_dibu"]
-!------久久爱免费视频
-|https://261xd.com/js/tj.js
-|https://ad.*.com/*-*.js$third-party
+!-------芊芊精典
+@@|https://pagead2.*$domain=myqqjd.com
+@@|https://s.myqqjd.com/*
+!-------搜搜GIF
+||www.guandianzhiku.com/media/vip_analysis/js/follow_pubpf.js
 !-------其它
 |http://www.bookbao.cc/js/xx.js
 |http://j.sc1369.com/s.php*
@@ -6463,6 +6458,22 @@ https://ae.bdstatic.com/msite/static/sdk/main.*.js
 |http://g.d8360.com/js/cpv_dl.js
 ||tanx.com^$third-party,domain=~1688.com|~alimama.com|~taobao.com|~tmall.com
 *.tanx.com/ex?i=mm_*_*_*
+|https://cbu01.alicdn.com/img/ibank/20*/*/*/*.jpg$third-party
+yuese90.com##div[style="max-width: 1240px; width: 100%; margin: 0px 0 0px 0;  padding: 1px 0 3px 0; font: bold 15px Arial, Helvetica; text-align: center; color: #ffbb00; margin-left: auto; margin-right: auto"]
+||www.32jjjj.com/tpl/xxx//style/js/home.js
+||www.4438xa2.com/runtime/js/*.js
+www.32jjjj.com##div[class="dialog"],[id="download_dibu"]
+|https://261xd.com/js/tj.js
+|https://ad.*.com/*-*.js$third-party
+||dm.519397.com/j/*.js
+||www.biyuwu.cc/js/m.js
+||www.46af.com/head.js
+||www.46af.com/bottom.js
+||www.46af.com/v*o*.js
+||www.46af.com/top.js
+||www.46af.com/pf.js
+||www.46af.com/indexhead.js
+|http://www.kcmrs.com/banner/topbanner.js
 https://www.hhh266.com/js/config.js
 https://www.hhh266.com/js/indextop.js
 |http://afpeng.alimama.com/ex?a=mm_1*_1*_*
