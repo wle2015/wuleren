@@ -1,6 +1,6 @@
 [Adblock Plus2.0]
 ! title: wuleren 过滤规则
-! Version: 20200820
+! Version: 20201030
 *&adid=*
 *&dartsite=*
 *&foiffs=*
@@ -5194,21 +5194,22 @@ https://*.77ds.*/js/shichuang.js
 |http://www.greenxf.com/count.js
 |http://www.greenxf.com/greenxfad/*
 !-------迅播影院
-|http://www.22tu.cc/template/aoo/spapp/*.js*
-|https://www.22tu.cc/template/aoo/spapp/js/*.js*
-|https://www.22tu.cc/template/aoo/ads/$script
-|https://www.22tu.cc/template/22tu/ads/*.js
-|http://www.22tu.cc/1.html
+||www.22tu.*/template/aoo/spapp/*$script
+||www.22tu.*/template/aoo/spapp/*.js*
+||www.22tu.*/template/aoo/spapp/js/*.js*
+||www.22tu.*/template/aoo/ads/$script
+||www.22tu.*/template/22tu/ads/*.js
+||www.22tu.*/1.html
 |http://ve.tsdlp.com/js/fm_b.js
-|http://www.22tu.cc/d/js/acmsd/*.js
+||www.22tu.*/d/js/acmsd/*.js
 |http://niu.code668.com/page/?s=*
 |http://j.qiqiww.com/cpm_static/qy20*_direct_*.js
 |http://j.qiqiww.com/blog/showdetail.php?z=*
-|http://www.22tu.cc/baiduad/*-*.html
-|http://www.22tu.cc/*/ads/*.js
-|http://www.22tu.cc/ad/tongji.js
-|http://c.2tu.cc/comment/js/base.js
-@@|http://www.22tu.cc/templet/add/ext/js/down*.js
+||www.22tu.*/baiduad/*-*.html
+||www.22tu.*/*/ads/*.js
+||www.22tu.*/ad/tongji.js
+||c.2tu.*/comment/js/base.js
+@@||www.22tu.*/templet/add/ext/js/down*.js
 !------小米网&论坛
 |http://bbs.xiaomi.com/static/js/common_extra.js*
 @@||hd.mi.com/x/*/js/script.min.js?v=*
@@ -6350,6 +6351,7 @@ https://jc.4006825178.com:10442/*/*.js
 |http://www.chnmoney.com/dfile/*
 www.chnmoney.com##tonglan
 !---------斋书苑
+|https://pc.weizhenwx.com/pc_w/*.js$domain=www.zhaishuyuan.com
 |https://pc.cathaycentury.com/pc/*.js$domain=www.zhaishuyuan.com
 |https://*.v4dwkcv.com/*.js$domain=www.zhaishuyuan.com
 |https://*.sdqoi2d.com/*.js$domain=www.zhaishuyuan.com
@@ -6456,6 +6458,13 @@ https://ss1.bdstatic.com/*/https/global/js/all_async_search_*.js$domain=baidu.co
 https://code.zantainet.com/jscode/*.js
 *55cpcp.com/js/layout.js$domain=55cpcp.com
 *55cpcp.com/js/indextop.js$domain=55cpcp.com
+|http://45.83.118.122/*.gif$domain=caizimy.com
+|http://caizimy.com/Template/laoe_005/images/bg*.jpg
+|https://www.gdfx9s.nl/js/jjj.htm
+|https://www.bv52oi.de/js/jjj.htm
+|http://www.c52d.com/image/ll/*.js
+|https://www.y777s.com/content/system.html
+|https://www.btp5.com/*_list.js
 |http://js.a3p4.net/page/*
 |http://img.chinesean.com/creative-image/*$domain=torrentkitty.tv
 https://www.torrentkitty.tv/images/*.gif$domain=torrentkitty.tv
