@@ -6351,8 +6351,8 @@ https://jc.4006825178.com:10442/*/*.js
 |http://www.chnmoney.com/dfile/*
 www.chnmoney.com##tonglan
 !---------斋书苑
-|https://pc.weizhenwx.com/pc_w/*.js$domain=www.zhaishuyuan.com
-|https://pc.cathaycentury.com/pc/*.js$domain=www.zhaishuyuan.com
+|https://pc.weizhenwx.com/pc_w/*.js
+|https://pc.cathaycentury.com/pc/*.js$image
 |https://*.v4dwkcv.com/*.js$domain=www.zhaishuyuan.com
 |https://*.sdqoi2d.com/*.js$domain=www.zhaishuyuan.com
 |https://*.dlads.cn/alikes.php?*$third-party
