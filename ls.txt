@@ -6434,6 +6434,8 @@ http://push.zhanzhang.baidu.com/*.js
 !-------极光下载站
 |http://www.xz7.com/theme/20*/js/xz7pc.js
 |http://www.xz7.com/theme/20*/xz7/*.png
+!-------彪马中国官方商城
+@@||cn.puma.com/pumacn/*/engine/loadviewdata.do
 !-------热影院
 |http://www.reying1.com/js/tji.js
 !------爱思助手官网
