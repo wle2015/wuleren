@@ -1,6 +1,6 @@
 [Adblock Plus2.0]
 ! title: wuleren 过滤规则
-! Version: 20201030
+! Version: 20210105
 *&adid=*
 *&dartsite=*
 *&foiffs=*
@@ -1168,6 +1168,7 @@
 @@||adsfile.qq.com/20*/*/qn_qsjb_20*.jpg
 @@||7.qq.com/*/*_union*.js
 @@|https://ssl.captcha.qq.com/*$domain=qq.com
+@@|https://t.captcha.qq.com/cap_union_*
 v.qq.com##div.mod_ad,div.mod_ads,div.pop_ads_wide,#QQlive_SP_RM,div.mod_float_pc,a[href*=".tmall.com/"],div.player_bg_ad
 www.qq.com##.adLeft,.adRight
 user.qzone.qq.com##div#idQbossHotbar.hotbar_wrap,div.icenter-right-ad,div#QM_100005_Body,div.fn-feed-mod-bd,div.ck-act,div#QM_Container_100005,div.gdtads_box,li.f-single-biz
@@ -1423,6 +1424,8 @@ blog.sina.cn##div.item_hide+div,#pl-blog-artad
 |https://qpb.sohu.com/jfhlod.js
 |https://upd11.sogoucdn.com/nstatic/js/info_flow.chunk.js?v=qe62bt
 |https://upd11.sogoucdn.com/nstatic/js/bottom_shopping.chunk.js?v=qe62bt
+|https://qpb.sohu.com/jfhlmk.js
+|https://s.go.sohu.com/adgtr/?callback=jQuery*
 123.sogou.com##div[id="AD_0"],div[id="AD_5"],div[id="AD_4"],div[class="m-9m"],[data-frag="bottom_shopping_pus"],[class="m-7 m"],[data-frag="bottom_videos"],[class="rowm-3-3"],[pbflag="rec_shop"],div[id="infoFlow"],[class="wp m-13"],[class="pos-navbar"],[class="tab-item list cf"],[class="adword"],[pbflag="fsad"]
 @@||v.aty.sohu.com/crossdomain.xml
 !-------酷狗音乐
@@ -4542,6 +4545,8 @@ mail.163.com,mail.126.com##.emailSuggest,#theme,.gWel-bottom
 *zzsky.cn/images/banner0.js
 *.wz05.com/wp-content/themes/inews-v2/image/ads*x*
 *sohoptc.com/image/20*/*/jyt_4*x*.gif
+|https://a2put.chinaz.com/propagate.js
+|https://img.chinaz.com/202*/js/*.js
 !-------58518网赚
 *58518.net.cn/tui/b-201*-4.gif
 !-------koo4
@@ -5195,7 +5200,6 @@ https://*.77ds.*/js/shichuang.js
 |http://www.greenxf.com/greenxfad/*
 !-------迅播影院
 ||www.22tu.*/template/aoo/spapp/*$script
-||www.22tu.*/template/aoo/spapp/*.js*
 ||www.22tu.*/template/aoo/spapp/js/*.js*
 ||www.22tu.*/template/aoo/ads/$script
 ||www.22tu.*/template/22tu/ads/*.js
@@ -5637,6 +5641,7 @@ https://*.77ds.*/js/shichuang.js
 |http://down.anxz.com/*146_284.gif
 |http://www.anxz.com/5*-*.gif
 !-------绿软家园
+||www.downg.com/img/*.js
 |http://pos.baidu.com/*$domain=downg.com
 |http://pos.baidu.com/acom?di=*=baidu_clb_exo_*=*&*
 *.downg.com/ggao/*.js
@@ -5947,6 +5952,8 @@ https://*.77ds.*/js/shichuang.js
 |http://www.sd173.com/images/sd*
 !-------80s手机电影
 |http://y80s.org/xiaoxin*.gif
+|http://yule.fulevmy.com/js/topinfo.js
+|http://pic.cytcm.com/20*/*-*.gif
 !-------系统之家
 |http://www.xp85.com/statics/js/all.js
 |http://www.xp85.com/caches/poster_js/*.js
@@ -6300,6 +6307,9 @@ https://code.zantainet.com/jscode/*.js
 https://*/*.ttf$domain=torrentkitty.tv
 https://*/*.woff*$domain=torrentkitty.tv
 https://*.php*$domain=torrentkitty.tv
+@@|https://www.torrentkitty.*/cdn-cgi/challenge-platform/h/g/orchestrate/jsch/*
+www.torrentkitty.app,www.torkitty.com,www.torrentkitty.lol##div[class="modal-body"],[id="vpnModal"]
+*$script,image,font,domain=torrentkitty.se|torrentkitty.net|torrentkitty.org|torrentkitty.me|torrentkitty.app|torrentkitty.vip|torrentkitty.tv|torrentkitty.net|torrentkitty.com|torrentkitty.io|www.torkitty.com|www.torrentkitty.lol
 !--------80s电影网
 https://www.80s.tw/80sad/*.js
 !-------西瓜影院
@@ -6352,11 +6362,11 @@ https://jc.4006825178.com:10442/*/*.js
 www.chnmoney.com##tonglan
 !---------斋书苑
 |https://pc.weizhenwx.com/pc_w/*.js
-|https://pc.cathaycentury.com/pc/*.js$image
-|https://*.v4dwkcv.com/*.js$domain=www.zhaishuyuan.com
-|https://*.sdqoi2d.com/*.js$domain=www.zhaishuyuan.com
+|https://pc.cathaycentury.com/pc/*.js
+|https://*.v4dwkcv.com/*.js
+|https://*.sdqoi2d.com/*.js
 |https://*.dlads.cn/alikes.php?*$third-party
-|https://1450.chushoushijian.cn/*$domain=www.zhaishuyuan.com
+|https://1450.chushoushijian.cn/*
 |https://vj.tianji520.cn/*.js
 |https://*.u7qy3e.cn/*.*html
 |https://m.iq24ne.cn/*.html
@@ -6396,7 +6406,9 @@ http://www.ixunbo.com/*/ads/*.js
 |https://img.czywssj.com/*/ixunbocom.js
 http://push.zhanzhang.baidu.com/*.js
 !------本地宝
-|http://j.s11.cn/*$domain=bendibao.com
+|http://*.s11.cn/*$domain=bendibao.com
+|http://d.s11.cn/*.js
+|http://bj.bendibao.com/template/v2015/right.js?20*
 !-----闪电下载吧
 |https://www.sdbeta.com/statics/mystyle/js/1*.js
 !------键盘小说网
@@ -6415,6 +6427,17 @@ http://push.zhanzhang.baidu.com/*.js
 ||afpmm.alicdn.com/g/*
 !--------5nd音乐网
 ||adjb.5nd.com/jfhlod.js
+!-------010动漫之家
+|https://go.dlads.cn/v*.php?*
+!-------酷知经验网
+|http://img.coozhi.com/scripts/coozhia.js
+!-------极光下载站
+|http://www.xz7.com/theme/20*/js/xz7pc.js
+|http://www.xz7.com/theme/20*/xz7/*.png
+!-------热影院
+|http://www.reying1.com/js/tji.js
+!------爱思助手官网
+@@|https://d-image.i4.cn/i4web/static2017/images/banner_*.png*
 !-------其它
 |http://www.bookbao.cc/js/xx.js
 |http://j.sc1369.com/s.php*
@@ -6432,11 +6455,13 @@ http://push.zhanzhang.baidu.com/*.js
 |http://bt.orzx.im/js/popc.js
 http://bbs.hh010.com/1/*.*g*
 |http://bmp*.ali213.net/*.js
+|https://www.cdx5.com/discor_list.js
+|https://www.cdx5.com/banner_list.js
+|https://data.wuseng.net/script/upantool.js
 https://ss1.bdstatic.com/*/https/global/js/all_async_search_*.js$domain=baidu.com
 |http://static.360buyimg.com/jzt/temp/js/j.min.js$domain=x.jd.com
 |http://bdimg.share.baidu.com/static/api/js/share.js?v=*.js?cdnversion=*
 |http://www.tvapk.com/img/dangbei.png
-*$script,image,font,domain=torrentkitty.se|torrentkitty.net|torrentkitty.org|torrentkitty.me|torrentkitty.app|torrentkitty.vip|torrentkitty.tv|torrentkitty.net|torrentkitty.com|torrentkitty.io
 *$script,image,font,domain=www.torrentkitty.~
 |http://www.55atv.com/js/config.js
 ||*.*.*.*/*.js$script,domain=9b9w.com|45k5.com
@@ -6468,6 +6493,8 @@ https://code.zantainet.com/jscode/*.js
 |http://js.a3p4.net/page/*
 |http://img.chinesean.com/creative-image/*$domain=torrentkitty.tv
 https://www.torrentkitty.tv/images/*.gif$domain=torrentkitty.tv
+www.32jjjj.com##div[class="dialog"]
+|https://daoen888.com/*-*/*/*_*.gif
 |http://tv.code.jjyx.com/jscode/*.js
 |http://cp.ggyapp.com/am/default.aspx?id=*
 |http://js.at98.com/*.js
