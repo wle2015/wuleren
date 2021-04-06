@@ -1,6 +1,6 @@
 [Adblock Plus2.0]
 ! title: wuleren 过滤规则
-! Version: 20210105
+! Version: 20210403
 *&adid=*
 *&dartsite=*
 *&foiffs=*
@@ -6309,7 +6309,9 @@ https://*/*.woff*$domain=torrentkitty.tv
 https://*.php*$domain=torrentkitty.tv
 @@|https://www.torrentkitty.*/cdn-cgi/challenge-platform/h/g/orchestrate/jsch/*
 www.torrentkitty.app,www.torkitty.com,www.torrentkitty.lol##div[class="modal-body"],[id="vpnModal"]
-*$script,image,font,domain=torrentkitty.se|torrentkitty.net|torrentkitty.org|torrentkitty.me|torrentkitty.app|torrentkitty.vip|torrentkitty.tv|torrentkitty.net|torrentkitty.com|torrentkitty.io|www.torkitty.com|www.torrentkitty.lol
+*$script,image,font,domain=torrentkitty.se|torrentkitty.net|torrentkitty.org|torrentkitty.me|torrentkitty.app|torrentkitty.vip|torrentkitty.tv|torrentkitty.net|torrentkitty.com|torrentkitty.io|www.torkitty.com|www.torrentkitty.lol|www.torrentkitty.club
+www.torrentkitty.club##[id="vpnModal"]
+@@||www.torrentkitty.*/cdn-cgi/challenge-platform/*/orchestrate/jsch/$script
 !--------80s电影网
 https://www.80s.tw/80sad/*.js
 !-------西瓜影院
@@ -6440,6 +6442,10 @@ http://push.zhanzhang.baidu.com/*.js
 |http://www.reying1.com/js/tji.js
 !------爱思助手官网
 @@|https://d-image.i4.cn/i4web/static2017/images/banner_*.png*
+!------侠客分享网
+|http://pc.weizhenwx.com/pc/*.js
+!------电子发烧友网
+|http://www.elecfans.com/skin-2012/js/elecfans_jquery.js
 !-------其它
 |http://www.bookbao.cc/js/xx.js
 |http://j.sc1369.com/s.php*
