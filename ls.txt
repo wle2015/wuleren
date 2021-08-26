@@ -6305,17 +6305,24 @@ https://code.zantainet.com/jscode/*.js
 !-------99安卓游戏
 |http://down.91wangmeng.com/down/*danji/az*.htm*$third-party,domain=99danji.com
 *.js$third-party,domain=99danji.com
-!--------Torrent Kitty
 */apu.php$third-party,domain=torrentkitty.tv
 *.js*$domain=torrentkitty.tv
 https://*/*.ttf$domain=torrentkitty.tv
 https://*/*.woff*$domain=torrentkitty.tv
 https://*.php*$domain=torrentkitty.tv
-@@|https://www.torrentkitty.*/cdn-cgi/challenge-platform/h/g/orchestrate/jsch/*
 www.torrentkitty.app,www.torkitty.com,www.torrentkitty.lol##div[class="modal-body"],[id="vpnModal"]
-*$script,image,font,domain=torrentkitty.se|torrentkitty.net|torrentkitty.org|torrentkitty.me|torrentkitty.app|torrentkitty.vip|torrentkitty.tv|torrentkitty.net|torrentkitty.com|torrentkitty.io|www.torkitty.com|www.torrentkitty.lol|www.torrentkitty.club
+|http://www.torrentkitty.org/js/modernizr.custom.*.js
+*$script,image,font,domain=www.torrentkitty.~
+|http://img.chinesean.com/creative-image/*$domain=torrentkitty.tv
+https://www.torrentkitty.tv/images/*.gif$domain=torrentkitty.tv
+*$script,image,font,domain=torrentkitty.se|torrentkitty.net|torrentkitty.org|torrentkitty.me|torrentkitty.app|torrentkitty.vip|torrentkitty.tv|torrentkitty.net|torrentkitty.com|torrentkitty.io|www.torkitty.com|www.torrentkitty.lol|www.torrentkitty.club|torrentkitty.io
+@@||www.torrentkitty.*/cdn-cgi/challenge-platform/h/*/orchestrate/jsch/*
+@@||www.torrentkitty.*/cdn-cgi/challenge-platform/h/*/orchestrate/managed/*
+@@||hcaptcha.com/*/api.js?*
+@@||newassets.hcaptcha.com/captcha/v*/*/hcaptcha.js
 www.torrentkitty.club##[id="vpnModal"]
-@@||www.torrentkitty.*/cdn-cgi/challenge-platform/*/orchestrate/jsch/$script
+www.torrentkitty.io##[id="vpnModal"]
+www.torrentkitty.app,www.torkitty.com,www.torrentkitty.lol##div[class="modal-body"],[id="vpnModal"]
 !--------80s电影网
 https://www.80s.tw/80sad/*.js
 !-------西瓜影院
@@ -6463,18 +6470,6 @@ http://push.zhanzhang.baidu.com/*.js
 www.zdfans.com##[id="gaosuxiazai1"]
 !---------铅笔小说
 |http://ad03.newym03.xyz:*/code/duilian.php?u=*
-!-------Torrent Kitty 
-|http://www.torrentkitty.org/js/modernizr.custom.*.js
-*$script,image,font,domain=www.torrentkitty.~
-|http://img.chinesean.com/creative-image/*$domain=torrentkitty.tv
-https://www.torrentkitty.tv/images/*.gif$domain=torrentkitty.tv
-*$script,image,font,domain=torrentkitty.se|torrentkitty.net|torrentkitty.org|torrentkitty.me|torrentkitty.app|torrentkitty.vip|torrentkitty.tv|torrentkitty.net|torrentkitty.com|torrentkitty.io|www.torkitty.com|www.torrentkitty.lol|www.torrentkitty.club|torrentkitty.io
-@@||www.torrentkitty.*/cdn-cgi/challenge-platform/h/*/orchestrate/jsch/*$script
-@@||www.torrentkitty.*/cdn-cgi/challenge-platform/h/g/orchestrate/managed/*$script
-@@||hcaptcha.com/*/api.js?*
-@@||newassets.hcaptcha.com/captcha/v*/*/hcaptcha.js
-www.torrentkitty.club##[id="vpnModal"]
-www.torrentkitty.io##[id="vpnModal"]
 !-------其它
 |http://www.bookbao.cc/js/xx.js
 |http://j.sc1369.com/s.php*
