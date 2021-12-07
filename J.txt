@@ -1,6 +1,6 @@
 ﻿[Adblock Plus2.0]
 ! title: wuleren 元素隐藏隐藏规则
-! Version: 20170923
+! Version: 20210214
 !------------CSS拉长拉宽-----------------
 www.downg.com##div[class="col2 software-view"]{width: 950px !important;}
 www.downg.com##div[class='content cols3 part1']>div[class='col2'] {width:930px !important;}
@@ -227,9 +227,55 @@ www.cao60.com##[src^="/images/"],[id^="ggs_"]
 www.shenmaxiaoshuo.com##[id="advt"]
 cq.house.163.com##[class="area"][style="position:relative;"]
 54ri.com,54men.com##[align="center"]
-www.baoliny.com##[class="guanggao"]
-===========================================
+www.orsoon.com##div[class="ad_show"]
+115.com##div.sub-qcode.bottom-qcode,div.top-banner,div.bottom-banner,div.banner-box
+17173.com##div[class^="ad-pn"],div.top-background-adv,div.middel_advers,.win17173,div[class^="banner"][class$="0"]
+21cn.com##div.xuantu,div.embedHzh,div.h-gg
+china.com##div.adclass,div#ep_tl.clearfix,div.gg265,div.gg960,div.gg,div.place.ggSpace
+china.com.cn##iframe#eeww,iframe#fq12,div.banner,iframe#gggg,div.Photos
+cn.msn.com##div.topAd.cf,div.left_Bg,div.right_Bg,div.bottomAd.cf
+dm5.com###float_tc_pop_299,div[adgroupid="0"],div.beitouc,div.cl760,div.cl970
+feng.com##div.wea_d_960_80,div[class^="wep_e_"][class$="0"],div.wep_e_wrap.clearfix
+fengniao.com##div.ad-div,div.adContainer
+google.com.hk##div#tadsdiv.top1:nth-child(2),div.m_ad,div.ad_ba
+it168.com##div.gg,div[id^="WADV_"],div[id^="ADV_"],div.lg_ad
+kdnet.net##div.banner.b-border
+kekenet.com##div.ad_catagory
+mil.sohu.com##div.godR
+mil.tiexue.net##div.banner
+mini.sohu.com##div.blockRB
+mydigit.cn##div[channelid="smzdm"],div.radio.mb10
+mydrivers.com##[class^=ad_],[id^=ad_],#thread_subject+div,div.adggg1
+|http://icons.mydrivers.com/news/201*.gif|
+neonan.com###razer_ad
+newhua.com##div.taobaoad,div.unionad,div.adr,div.ad_center,div[class^=ad_ritht_],div.ad_top,div.i1,div.i2,div.i3
+portable.easylife.tw##div.googleplus,div#ddr
+ptbus.com##div.ad300_250,div.weixin_ad,div.content14
+reboyc.com##div.ad96090
+rednet.cn###topbanner,object#FlashId_ad1
+ref.so##div#tg2_main
+renren.com##.wp-rrzm-popup
+sohu.com##div.adA,div.adB,#adList,div.ad-listB,div.ad680,div.ad300,div[id^=ad_],sohuadcode,#turn-ad,div.adarea,div.adtop,#vcr_60_1,#newsCommentBar~*,div[data-tongji]
+tianya.cn##div[id$="banner_950_90"].banner-img-mt10,div[id*="_AD_"],div[class*="_AD_"],embed[src^="http://80"],#travel_float
+tiexue.net##iframe[src^="http://x.tiexue.net/domain-policy/"],div.junph-new-tmp.mTop10
+trakt.tv##[id$=-ad]
+v.17173.com###playAdLeftTop,div.txt-ad,div.list-beauty,div.js-lol-ad,span.js-lol-adtime,div.ad03.col-r,div[id^=liveAdMiddle],div.focus_ad
+weather.com.cn##div#ccs,div[class^=ad]
+weibo.com###pl_content_biztips,#v6_pl_content_biztips
+www.7k7k.com##div.tools-ad
+www.fkzww.net##div.ad_textlink2,div.ad_textlink1
+www.hahade.com##span#loadimg.movieload
+www.kugou.com##div.adv,div.adv1,div.adv2
+www.mtv-ktv.net##div.softshow
+www.narutom.com##div#beitou,div#cg3.wraps.gt1
+www.nba98.com##div.sidepanel_ad
+www.portablesoft.org##div.postads
+xunlei.com##div.file_right.adv_right
+yesky.com##div#bdadv.bd_adv,div.wth200 > div.baidu,div.ad190
 !-------------其他-------------
+www1.downsx.pw##.Left-ad3_fixed
+www1.downsx.pw##.adbox.uk-text-center.uk-container-center.uk-width-1-1.uk-width-medium-10-10
+www.taohuayun.cn##tr[align="center"]
 ref.so##TABLE[width="300"]
 you85.cn##TABLE[bordercolor="#000000"]
 you85.cn##TABLE[align="center"]
