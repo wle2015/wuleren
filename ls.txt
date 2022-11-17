@@ -6522,6 +6522,13 @@ www.hezibuluo.com##[class="adsbygoogle"]
 |https://www.ea973.com/assets/js/common/art-template.js
 |https://www.ea973.com/assets/js/common/discor.js
 |http://aubop.com.cn/tu/*x*.png
+!------九酷音乐
+|https://s1.9ya.net/js9ku/aaa/9kumusic/*.js
+!------爱站网
+|https://dmm.aizhan.com/fbdheb.js
+|https://statics.aizhan.com/jsa/zone.js
+!-------电影先生
+|http://dyxs20.com/statics/recommend/*.gif$image
 !-------其它
 |http://www.bookbao.cc/js/xx.js
 |http://j.sc1369.com/s.php*
@@ -7942,6 +7949,13 @@ https://www.hhh266.com/js/indextop.js
 |http://www.fclub.cn/affiche.php?act=img&ad_id=*
 |http://www.54new.com/da/*
 |http://ccc.ba90e3d013.sdo.com/*.js
+www.mhqwe.xyz##P[id="hfad"]
+|https://398375178.com/*.gif
+|https://93261587768.com/*.gif
+|https://www.static04.top/data/images/*.gif
+|https://cdn.sm.cn$image,third-party
+|https://pic.rmb.bdstatic.com/bjh/*.gif$third-party
+|https://mwrmrt8.com/*.gif
 !=======================================白名单==============================
 !--------金山毒霸交流论坛
 @@|http://*.duba.net/static/image/common/ad_close.gif
