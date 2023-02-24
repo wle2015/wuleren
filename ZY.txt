@@ -1,33 +1,31 @@
-{"urls": [
- {"url": "https://wds.ecsxs.com/223843.txt",
-"name": "223843.txt" },
+{"urls": 
+[
+               {"url": "https://wds.ecsxs.com/223843.txt",
+                  "name": "223843.txt" },
 
- {"url": "http://52bsj.vip:98/wuai",
- "name": "吾爱接口"},
+               {"url": "http://52bsj.vip:98/wuai",
+                  "name": "吾爱接口"},
 
- {"url": "hhttps://hutool.ml/tang",
- "name": "唐三接口"},
+               {"url": "hhttps://hutool.ml/tang",
+                  "name": "唐三接口"},
 
- {"url": "https://神器每日推送.tk/pz.json",
- "name": "神器接口"},
+               {"url": "https://神器每日推送.tk/pz.json",
+                  "name": "神器接口"},
 
- {"url": "https://agit.ai/liucn/box/raw/branch/main/m.json",
- "name": "探索TV接口"},
+               {"url": "https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/260tv.txt",
+                  "name": "260TV接口"},
  
- {"url": "https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/260tv.txt",
- "name": "260TV接口"},
+               {"url": "https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/270tv.txt",
+                  "name": "270TV接口"},
  
- {"url": "https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/270tv.txt",
- "name": "270TV接口"},
+               {"url": "https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/ZYGB.txt",
+                  "name": "ZYGB接口"},
  
- {"url": "https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/ZYGB.txt",
- "name": "ZYGB接口"},
- 
- {"url": "https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/tvbox.txt",
- "name": "tvbox接口"},
- 
-   {"url": "https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/M.txt",
- "name": "M接口"},
+               {"url": "https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/tvbox.txt",
+                  "name": "tvbox接口"},
+
+                 {"url": "https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/M.txt",
+                  "name": "M接口"},
  
     ]
 }
