@@ -1,3 +1,4 @@
+//以下内容为互联网收集，只为自用……
 # CH猫友 配置地址 简易设定流程
 // 我的 --> 设置 -->  配置地址 --> 请输入 https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/tvbox.txt --> 确定
 
