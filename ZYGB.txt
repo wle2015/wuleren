@@ -1,3 +1,4 @@
+//以下内容为互联网收集，只为自用……
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 "spider": "http://fj365.ml/6/0.txt?raw=true",
