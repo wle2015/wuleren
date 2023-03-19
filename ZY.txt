@@ -2,18 +2,27 @@
 {"urls": 
 [
 
+               {"url": "https://notabug.org/yzzsjc/TVBox-Pro/raw/master/lib/唐三.txt",
+                  "name":"唐三线路"},
+
+               {"url": "https://notabug.org/yzzsjc/TVBox-Pro/raw/master/lib/云星家庭.json",
+                  "name":"云星家庭线路"},
+
+               {"url": "https://notabug.org/yzzsjc/TVBox-Pro/raw/master/lib/云星哔哩.json",
+                  "name":"云星哔哩线路"},
+               
+               {"url": "https://notabug.org/yzzsjc/TVBox-Pro/raw/master/lib/白嫖.json",
+                  "name":"白嫖线路"},
+                  
                {"url": "http://52bsj.vip:98/wuai",
                   "name": "吾爱接口"},
 
-               {"url": "hhttps://hutool.ml/tang",
-                  "name": "唐三接口"},
-
-               {"url": "https://神器每日推送.tk/pz.json",
-                  "name": "神器接口"},
-
                {"url": "https://agit.ai/ihymn/tvbox/raw/branch/master/tb.txt",
-                  "name":"ME接口"},
+                  "name":"TD接口"},
  
+               {"url": "https://agit.ai/superman/tvbox/raw/branch/master/sman/meowcf.json",
+                  "name":"ME接口"},
+                  
                {"url": "https://ghproxy.com/https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/260tv.txt",
                   "name": "260TV接口"},
  
@@ -28,6 +37,9 @@
 
                  {"url": "https://ghproxy.com/https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/M.txt",
                   "name": "M接口"},
+  
+                {"url": "https://ghproxy.com/https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/PRO.txt",
+                  "name": "PRO接口"},
  
     ]
 }
