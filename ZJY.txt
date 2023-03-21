@@ -7,7 +7,16 @@
  
                {"url": "https://agit.ai/superman/tvbox/raw/branch/master/sman/meowcf.json",
                   "name":"ME接口"},
+                
+               {"url": "https://agit.ai/zlzxq1/TVbox/raw/branch/master/YS.json",
+                  "name":"YS接口"},
                
+               {"url": "https://agit.ai/wekeyfisrt/TVBox/raw/branch/master/XC.json",
+                  "name":"XC接口"},
+               
+               {"url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/ali/ym.json",
+                  "name":"YM接口"}, 
+                  
                {"url": "http://52bsj.vip:98/wuai",
                   "name": "吾爱接口"},
 
@@ -59,7 +68,6 @@
  
                 {"url": "https://ghproxy.com/https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/WA18H.txt",
                   "name": "WA18H接口"},
- 
                 
                {"url": "https://agit.ai/lcx/TVBOXZY/raw/branch/main/18.json",
                   "name":"LCX18"},
@@ -68,7 +76,6 @@
                {"url": "https://agit.ai/lcx/TVBOXZY/raw/branch/main/tvbox.json",
                   "name":"LCX18TV接口"},
                   
-
                {"url": "https://notabug.org/yzzsjc/TVBox-Pro/raw/master/lib/无忧.json",
                   "name":"无忧线路"},
                
@@ -98,7 +105,7 @@
           "name":"🔞tvbox-line"
         },
         {
-          "url":"https://cdn.staticaly.com/gh/mmtekamu/tvbox/main/jiekou/18.json",
+          "url":"https://ghproxy.com/https://raw.githubusercontent.com/mmtekamu/tvbox/main/jiekou/18.json",
           "name":"🔞GGTV-18"
         },
 
