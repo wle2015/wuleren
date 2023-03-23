@@ -1,8 +1,4 @@
 {
-"spider":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JAR/Yoursmile2.jar",
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/TV/live.txt"]}]}],
-"wallpaper":"http://maoyingshi.cc/api.php",
-
 "sites":[
 
 {"key":"ASMR","name":"ASMR 19","type":1,"api":"http://www.asmr19.in/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
@@ -10,7 +6,6 @@
 {"key":"CK资源2","name":"CK资源2","type":1,"api":"http://www.feifei67.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"JAV名优","name":"JAV名优","type":0,"api":"http://mygzycj.com/api.php?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"乐播资源","name":"乐播资源","type":0,"api":"https://lbapi9.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
-
 {"key":"色南国资源","name":"色南国资源","type":1,"api":"https://api.sexnguon.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"狼友资源","name":"狼友资源","type":1,"api":"https://www.langyouzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"皇冠资源","name":"皇冠资源","type":1,"api":"https://hghhh.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
@@ -49,7 +44,7 @@
 {"key":"影库资源-伦理","name":"影库资源-伦理","type":1,"api":"https://api.ykapi.net/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"酷伦理","name":"酷伦理-伦理","type":1,"api":"https://api.kudian70.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"博天堂","name":"博天堂-伦理","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable":1},
-],
+]
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Web聚合","type":3,"url":"Web"},
