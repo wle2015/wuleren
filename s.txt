@@ -1,5 +1,6 @@
 {
 "spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA4.jar",
+"wallpaper":"https://picsum.photos/1280/720/?blur=5",
 "sites":[
 
 {"key":"csp_CZSPP","name":"厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
@@ -877,8 +878,9 @@
 {"key":"网民电影","name":"网民电影","type":1,"api":"https://www.prinevillesda.org/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"MBO影视","name":"MBO影视","type":0,"api":"https://www.mbomovie.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1},
 {"key":"胖猫影视","name":"胖猫影视","type":1,"api":"https://www.pangmaotv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"海外电影","name":"海外电影","type":1,"api":"https://www.2001 21.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"csp_xml_共青春","name":"共青春影院","type":1,"api":"https://gqcyy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1}
+{"key":"海外电影","name":"海外电影","type":1,"api":"https://www.2001 21.com/api.php/provide/vod/","searchable":1,"quickSearch":1}
+
+
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
@@ -1186,8 +1188,7 @@
 {"name": "ckflv","type": 1,"url": "http://api.ckflv.cn/?url=","ext": {  "flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"  ]}},
 {"name": "rx2","type": 1,"url": "http://rxjx.kuanjv.com/allm3u8.php?url="},
 {"name": "tkys","type": 1,"url": "https://rx.bt5v.com/json/jsonindex.php/?url=","ext": {  "flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"  ]}},
-{"name":"PM","type":1,"url":"https://www.playm3u8.cn/jiexi.php?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}}
-  ],
+{"name":"PM","type":1,"url":"https://www.playm3u8.cn/jiexi.php?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 {"name":"777","type":"0","url":"https://jx.777jiexi.com/player/?url="},
 {"name":"CK","type":"1","url":"http://lanlan.ckflv.cn/?url=","ext":{"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
 {"name":"XM","type":"0","url":"https://dm.xmflv.com:4433/?url="},
@@ -1196,7 +1197,7 @@
 {"name":"LK②","type":"0","url":"https://okjx.cc/?url="},
 {"name":"LK③","type":"0","url":"https://jx.zhanlangbu.com/?url="},
 {"name":"LK④","type":"0","url":"https://hxys.tv/bfq/?url="}
-
+  ],
 
 "lives": [
 {"name":"","type":"0","url":"https://ghproxy.com/https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/zb.txt","logo":"https://epg.112114.xyz/logo/{name}.png"},
