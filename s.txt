@@ -1,7 +1,7 @@
 //以下内容为互联网收集，只为自用……
 {
-"spider":"https://agit.ai/ihymn/tvbox/raw/branch/master/ts.jar",
-"wallpaper":"https://picsum.photos/1280/720/?blur=5",
+"wallpaper":"https://picsum.photos/1280/720/?blur=10",
+"spider":"https://raw.iqiq.io/liu673cn/box/main/sub/jar/2925.jar;md5;3BBE25C7A4BC9DD927D24258686517E1",
 "sites":[
 
 {"key":"csp_CZSPP","name":"厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
@@ -1201,7 +1201,7 @@
 {"name":"LK④","type":"0","url":"https://hxys.tv/bfq/?url="}
   ],
 
-"lives": [{"name":"","type":"0","url":"https://ghproxy.com/https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/zb.txt","logo":"https://epg.112114.xyz/logo/{name}.png"},],
+"lives": [{"name":"","type":"0","url":"https://ghproxy.com/https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/zb.txt"},],
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","le","duoduozy","renrenmi","优酷","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy"],
 
