@@ -1,5 +1,6 @@
+//以下内容为互联网收集，只为自用……
 {
-"spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA4.jar",
+"spider":"https://agit.ai/ihymn/tvbox/raw/branch/master/ts.jar",
 "wallpaper":"https://picsum.photos/1280/720/?blur=5",
 "sites":[
 
@@ -136,7 +137,7 @@
 {"key":"mtv_xp_奈飞中文","name":"奈飞中文","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mtv.weetai.cn/xpath/奈飞中文.json"},
 {"key":"mtv_pc_悟空影视","name":"悟空影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://mtv.weetai.cn/xpath/悟空影视.json"},
 {"key":"mtv_zh_暖光影视","name":"暖光影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app.bl210.com/api.php/v1.vod"},
-{"key":"mtv_zh_刺猬影视","name":"刺猬影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.cccvvv.top/api.php/iptv/vod/"}],
+{"key":"mtv_zh_刺猬影视","name":"刺猬影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.cccvvv.top/api.php/iptv/vod/"},
 {"key":"mtv_pc_儿童乐园","name":"哔哩┃儿童乐园","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/儿童乐园.json"},
 {"key":"mtv_xp_极品影视","name":"极品影视","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/极品影视.json"},
 {"key":"mtv_xp_极品直链","name":"极品直链","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/极品直链.json"},
@@ -199,7 +200,7 @@
 {"key":"mtv_xp_达龟影视","name":"达龟影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/达龟影视.json"},
 {"key":"mtv_pc_悟空影视","name":"悟空影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/悟空影视.json"},
 {"key":"mtv_zh_暖光影视","name":"综合┃暖光影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://app.bl210.com/api.php/v1.vod"},
-{"key":"mtv_zh_刺猬影视","name":"综合┃刺猬影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.cccvvv.top/api.php/iptv/vod/"}],
+{"key":"mtv_zh_刺猬影视","name":"综合┃刺猬影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.cccvvv.top/api.php/iptv/vod/"},
 {"key":"csp_xml_搬运工","name":"搬运工资源","type":1,"api":"https://cj.banyung.xyz/","playUrl":"","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","纪录","动作片","喜剧片","爱情片","科幻片","剧情片","悬疑片","惊悚片","恐怖片","犯罪片","冒险片","奇幻片","灾难片","战争片","动画片","歌舞片","历史片","传记片","其他片","国产剧","港台剧","日韩剧","欧美剧","海外剧","其他剧"]},
 {"key":"csp_xbb_影视工厂","name":"影视工厂","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXB/影视工厂.json"},
 {"key":"csp_xbb_555电影","name":"555影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXB/555电影.json"},
@@ -878,11 +879,12 @@
 {"key":"网民电影","name":"网民电影","type":1,"api":"https://www.prinevillesda.org/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"MBO影视","name":"MBO影视","type":0,"api":"https://www.mbomovie.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1},
 {"key":"胖猫影视","name":"胖猫影视","type":1,"api":"https://www.pangmaotv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"海外电影","name":"海外电影","type":1,"api":"https://www.2001 21.com/api.php/provide/vod/","searchable":1,"quickSearch":1}
-
-
+{"key":"海外电影","name":"海外电影","type":1,"api":"https://www.2001 21.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"csp_xml_共青春","name":"共青春影院","type":1,"api":"https://gqcyy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1}
+],
 "parses":[
-{"name":"解析聚合","type":3,"url":"Demo"},
+{"name":"自动解析","type":3,"url":"Demo"},
+{"name":"Web解析聚合","type":3,"url":"Web"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
 
@@ -1199,10 +1201,10 @@
 {"name":"LK④","type":"0","url":"https://hxys.tv/bfq/?url="}
   ],
 
-"lives": [
-{"name":"","type":"0","url":"https://ghproxy.com/https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/zb.txt","logo":"https://epg.112114.xyz/logo/{name}.png"},
+"lives": [{"name":"","type":"0","url":"https://ghproxy.com/https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/zb.txt","logo":"https://epg.112114.xyz/logo/{name}.png"},],
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","le","duoduozy","renrenmi","优酷","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy"],
+
 "ijk":[
 {"group":"软解码","options":[
 {"category":4,"name":"opensles","value":"0"},
