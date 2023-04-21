@@ -759,7 +759,8 @@
 {"name":"LK④","type":"0","url":"https://hxys.tv/bfq/?url="}
   ],
 
-"lives": [{"name":"","type":"0","url":"https://ghproxy.com/https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/zb.txt"},],
+"lives":[{"name":"live","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/zb.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","le","duoduozy","renrenmi","优酷","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy"],
 
