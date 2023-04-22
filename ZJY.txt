@@ -30,28 +30,19 @@
                   "name": "探索TV接口"},
  
                {"url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
-                  "name": "TVBox原接口"},
+                  "name": "MEOWCF接口"},
  
                 {"url": "https://agit.ai/guot54/ygbh/raw/branch/master/PRO.json",
                   "name": "PRO原接口"},
  
-               {"url": "https://ghproxy.com/https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/260tv.txt",
-                  "name": "260TV接口"},
- 
-               {"url": "https://ghproxy.com/https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/270tv.txt",
-                  "name": "270TV接口"},
+                {"url": "https://ghproxy.com/https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/tvbox.txt",
+                  "name": "tvbox接口"},
  
                {"url": "https://ghproxy.com/https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/ZYGB.txt",
                   "name": "ZYGB接口"},
  
-               {"url": "https://ghproxy.com/https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/tvbox.txt",
-                  "name": "tvbox接口"},
- 
                 {"url": "https://ghproxy.com/https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/PRO.txt",
                   "name": "PRO接口"},
- 
-                 {"url": "https://ghproxy.com/https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/M.txt",
-                  "name": "M接口"},
  
                {"url": "https://notabug.org/keke9088/TVBOX/raw/master/fuli0220.json",
                   "name": "FULI0220-18原接口"},
@@ -79,9 +70,7 @@
                {"url": "https://notabug.org/yzzsjc/TVBox-Pro/raw/master/lib/无忧.json",
                   "name":"无忧线路"},
                
-               {"url": "https://notabug.org/yzzsjc/TVBox-Pro/raw/master/lib/唐三.txt",
-                  "name":"唐三线路"},
-               
+
                {"url": "https://notabug.org/yzzsjc/TVBox-Pro/raw/master/lib/动漫.txt",
                   "name":"动漫线路"},
                
