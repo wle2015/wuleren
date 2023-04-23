@@ -192,7 +192,7 @@
 
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 
-"spider":"https://raw.iqiq.io/wle2015/wuleren/MYSTY/1215.jar",
+"spider":"https://raw.iqiq.io/wle2015/wuleren/MYSTY/JAR/1215.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=https://fastly.jsdelivr.net/gh/wle2015/wuleren@MYSTY/zb18.txt"]}]}],
 
