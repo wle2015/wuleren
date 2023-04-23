@@ -32,7 +32,6 @@
 {"key":"csp_XBiu_掏爱撸","name":"掏爱撸(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/ygbh1/box/-/raw/main/H/掏爱撸.json"},
 {"key":"csp_XBiu_国产屋","name":"国产屋(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/ygbh1/box/-/raw/main/H/国产屋.json"},
 {"key":"csp_XBiu_爱污传媒","name":"爱污传媒(XB)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://codeberg.org/ygbh8888/xingkongbujian/raw/branch/main/H/爱污传媒.json"},
-{"key":"csp_XBiu_猫咪","name":"猫咪(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/ygbh1/box/-/raw/main/H/%E7%8C%AB%E5%92%AA.json"},
 {"key":"XYQBiu_测试2","name":"zb(QXB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XB/zb.json","jar":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/1103.jar"},
 {"key":"XYQBiu_测试3","name":"cqzy(QXB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XB/cqzy.json","jar":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/1103.jar"},
 {"key":"XYQBiu_测试4","name":"nsss(QXB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XB/nsss.json","jar":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/1103.jar"},
