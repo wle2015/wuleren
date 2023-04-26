@@ -876,10 +876,8 @@
 
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 
-//"spider":"https://raw.iqiq.io/wle2015/wuleren/MYSTY/JAR/1215.jar",
-"spider":"./JAR/1215.jar",
-"spider":"./JAR/0820.jar",
-"spider":"./JAR/18.jar;",
+"spider":"https://raw.iqiq.io/wle2015/wuleren/MYSTY/JAR/1215.jar",
+"spider":"https://raw.iqiq.io/wle2015/wuleren/MYSTY/JAR/0820.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=https://ghproxy.com/https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/zb.txt"]}]}],
 
