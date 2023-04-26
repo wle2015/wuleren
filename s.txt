@@ -4,7 +4,7 @@
 "sites":[
 
 {"key":"csp_77","name":"酷云七七┃本接口免费,花钱买就是铁憨憨","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"小苹果","name":"小苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1"jar":"https://raw.iqiq.io/wle2015/wuleren/MYSTY//JAR/2925.jar"},
+{"key":"小苹果","name":"小苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/wle2015/wuleren/MYSTY/JAR/2925.jar"},
 {"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"图图","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
 {"key":"csp_Cokemv","name":"可乐","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
@@ -481,7 +481,7 @@
 {"key":"csp_xBPQ_玖爱视频","name":"IA玖爱视频","type":3,"api":"csp_xBPQ","searccsp_xBPQble":1,"searchable":1,"quickSearch":1,"ext":"./HA/玖爱视频.json"},
 {"key":"csp_xBPQ_四虎影院","name":"四虎影院","type":3,"api":"csp_xBPQ","searccsp_xBPQble":1,"searchable":1,"quickSearch":1,"ext":"./HA/四虎影院.json","jar":"https://agit.ai/SexTVBox/TVBox/raw/branch/master/1009_.jar"},
 {"key":"csp_xBPQ_幺妹好色","name":"幺妹好色","type":3,"api":"csp_xBPQ","searccsp_xBPQble":1,"searchable":1,"quickSearch":1,"ext":"./HA/幺妹好色.json"},
-{"key":"四虎影院","name":"四虎影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/42847/%E5%9B%9B%E8%99%8E%E5%BD%B1%E9%99%A2.json?sign=zwsM2CHQiQTJX443ZPGi1O_y6dKZEx1uvM27wRSRg_8%3D%3A0"","jar":"https://agit.ai/SexTVBox/TVBox/raw/branch/master/1009_.jar},
+{"key":"四虎影院","name":"四虎影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/42847/%E5%9B%9B%E8%99%8E%E5%BD%B1%E9%99%A2.json?sign=zwsM2CHQiQTJX443ZPGi1O_y6dKZEx1uvM27wRSRg_8%3D%3A0","jar":"https://agit.ai/SexTVBox/TVBox/raw/branch/master/1009_.jar"},
 
 
 {"key":"AIvin","name":"AIvin","type":0,"api":"http://lbapiby.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1},
