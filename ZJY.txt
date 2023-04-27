@@ -17,15 +17,6 @@
                {"url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/ali/ym.json",
                   "name":"YM接口"}, 
                   
-               {"url": "http://52bsj.vip:98/wuai",
-                  "name": "吾爱接口"},
-
-               {"url": "hhttps://hutool.ml/tang",
-                  "name": "唐三接口"},
-
-               {"url": "https://神器每日推送.tk/pz.json",
-                  "name": "神器接口"},
-
                {"url": "https://agit.ai/liucn/box/raw/branch/main/m.json",
                   "name": "探索TV接口"},
  
@@ -38,14 +29,9 @@
                 {"url": "https://ghproxy.com/https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/tvbox.txt",
                   "name": "tvbox接口"},
  
-               {"url": "https://ghproxy.com/https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/ZYGB.txt",
-                  "name": "ZYGB接口"},
- 
                 {"url": "https://ghproxy.com/https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/PRO.txt",
                   "name": "PRO接口"},
  
-               {"url": "https://notabug.org/keke9088/TVBOX/raw/master/fuli0220.json",
-                  "name": "FULI0220-18原接口"},
  
                {"url": "https://agit.ai/guot54/ygbh/raw/branch/master/dxwoai18+.txt",
                   "name": "吾爱18原接口"},
@@ -66,13 +52,7 @@
                
                {"url": "https://agit.ai/lcx/TVBOXZY/raw/branch/main/tvbox.json",
                   "name":"LCX18TV接口"},
-                  
-               {"url": "https://notabug.org/yzzsjc/TVBox-Pro/raw/master/lib/无忧.json",
-                  "name":"无忧线路"},
-               
-
-               {"url": "https://notabug.org/yzzsjc/TVBox-Pro/raw/master/lib/动漫.txt",
-                  "name":"动漫线路"},
+                
                
                {"url": "https://notabug.org/yzzsjc/TVBox-Pro/raw/master/lib/云星家庭.json",
                   "name":"云星家庭线路"},
@@ -81,14 +61,6 @@
                {"url": "https://notabug.org/yzzsjc/TVBox-Pro/raw/master/lib/云星哔哩.json",
                   "name":"云星哔哩线路"},
                
-               {"url": "https://notabug.org/yzzsjc/TVBox-Pro/raw/master/lib/白嫖.json",
-                  "name":"白嫖线路"},
-                
-
-               {"url": "https://notabug.org/yzzsjc/TVBox-Pro/raw/master/lib/老刘备.json",
-                  "name":"老刘备线路"},
-                
-                  
                   {
           "url":"https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fuli.json",
           "name":"🔞tvbox-line"
