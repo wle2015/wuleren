@@ -3,7 +3,7 @@
 
 "sites":[
 
-{"key":"csp_77","name":"酷云七七┃本接口免费,花钱买就是铁憨憨","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_77","name":"酷云七七 本接口免费,花钱买就是铁憨憨","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"小苹果","name":"小苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/wle2015/wuleren/MYSTY/JAR/2925.jar"},
 {"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"图图","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
@@ -447,6 +447,15 @@
 {"key":"1","name":"未成年人禁止访问，请止步！！","type":0,"api":""},
 {"key":"18","name":"分割线——————","type":0,"api":""},
 {"key":"91麻豆","name":"*91麻豆","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":1,"quickSearch":1},
+
+{"key":"drpy_js_喵了个咪","name":"喵了个咪","type":3,"api":"https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js","ext":"https://agit.ai/guot54/ygbh/raw/branch/master/JS/猫了个咪.js"},
+{"key":"裤兜","name":"裤兜采集","type":1,"api":"http://api.kdapi.info/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"categories":["日本无码","中文字幕","国产传媒","解说AV"]},
+{"key":"csp_xBPQ_香蕉超清","name":"香蕉超清","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XYQ/香蕉超清.json","jar":"https://agit.ai/guot54/TVBOXZY/raw/branch/main/JAR/Yoursmile2.jar"},
+{"key":"csp_xBPQ_香蕉国产","name":"香蕉国产","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XYQ/香蕉国产.json","jar":"https://agit.ai/guot54/TVBOXZY/raw/branch/main/JAR/Yoursmile2.jar"},
+{"key":"csp_xBPQ_香蕉搜索","name":"香蕉搜索","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XYQ/香蕉搜索.json","jar":"https://agit.ai/guot54/TVBOXZY/raw/branch/main/JAR/Yoursmile2.jar"},
+{"key":"csp_xBPQ_香蕉久久热g","name":"香蕉久久热g","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XYQ/香蕉久久热.json","jar":"https://agit.ai/guot54/TVBOXZY/raw/branch/main/JAR/Yoursmile2.jar"},
+
+
 {"key":"csp_xBPQ_香蕉久久热","name":"香蕉久久热","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jihulab.com/ygbh1/box/-/raw/main/H/香蕉久久热.json"},
 {"key":"csp_xBPQ_香蕉废柴","name":"香蕉废柴","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jihulab.com/ygbh1/box/-/raw/main/H/香蕉废柴.json"},
 {"key":"csp_xBPQ_香蕉直播","name":"香蕉直播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jihulab.com/ygbh1/box/-/raw/main/H/香蕉直播.json"},
@@ -457,8 +466,12 @@
 {"key":"csp_xBPQ_色华堂","name":"色花堂","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://codeberg.org/ygbh8888/xingkongbujian/raw/branch/main/H/色华堂.json"},
 {"key":"csp_xBPQ_黄瓜TV","name":"黄瓜TV","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://codeberg.org/ygbh8888/xingkongbujian/raw/branch/main/H/黄瓜TV.json"},
 {"key":"csp_xBPQ-爱看影院","name":"爱看影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://codeberg.org/ygbh8888/xingkongbujian/raw/branch/main/H/爱看影院.json"},
-{"key":"csp_xBPQ_麻豆映画","name":"麻豆映画","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/ygbh1/666/-/raw/main/H/麻豆映画.json"},
-{"key":"csp_xBPQ_香蕉","name":"香蕉","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jihulab.com/ygbh1/box/-/raw/main/H/香蕉.json"},
+//{"key":"csp_xBPQ_麻豆映画","name":"麻豆映画","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/ygbh1/666/-/raw/main/H/麻豆映画.json"},
+//{"key":"csp_xBPQ_香蕉","name":"香蕉","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jihulab.com/ygbh1/box/-/raw/main/H/香蕉.json"},
+
+{"key":"csp_xBPQ_麻豆映画","name":"麻豆映画","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XYQ/麻豆映画.json","jar":"https://agit.ai/guot54/TVBOXZY/raw/branch/main/JAR/Yoursmile2.jar"},
+{"key":"csp_xBPQ_香蕉","name":"香蕉","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XYQ/香蕉.json","jar":"https://agit.ai/guot54/TVBOXZY/raw/branch/main/JAR/Yoursmile2.jar"},
+
 {"key":"csp_xBPQ_性欲轮回","name":"性欲轮回","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jihulab.com/ygbh1/box/-/raw/main/H/性欲轮回.json"},
 {"key":"csp_xBPQ_性欲轮回[分类]","name":"性欲轮回[分类]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jihulab.com/ygbh1/box/-/raw/main/H/性欲轮回_分类_.json"},
 {"key":"csp_xBPQ_精东影业1","name":"精东影业1","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jihulab.com/ygbh1/box/-/raw/main/H/精东影业1.json"},
@@ -484,9 +497,9 @@
 {"key":"csp_xBPQ_仓库视频","name":"IA仓库视频","type":3,"api":"csp_xBPQ","searccsp_xBPQble":1,"searchable":1,"quickSearch":1,"ext":"./HA/仓库视频.json"},
 {"key":"csp_xBPQ_玉女色","name":"IA玉女色","type":3,"api":"csp_xBPQ","searccsp_xBPQble":1,"searchable":1,"quickSearch":1,"ext":"./HA/玉女色.json"},
 {"key":"csp_xBPQ_玖爱视频","name":"IA玖爱视频","type":3,"api":"csp_xBPQ","searccsp_xBPQble":1,"searchable":1,"quickSearch":1,"ext":"./HA/玖爱视频.json"},
-{"key":"csp_xBPQ_四虎影院","name":"四虎影院","type":3,"api":"csp_xBPQ","searccsp_xBPQble":1,"searchable":1,"quickSearch":1,"ext":"./HA/四虎影院.json","jar":"https://agit.ai/SexTVBox/TVBox/raw/branch/master/1009_.jar"},
+{"key":"csp_xBPQ_四虎影院","name":"四虎影院","type":3,"api":"csp_xBPQ","searccsp_xBPQble":1,"searchable":1,"quickSearch":1,"ext":"./HA/四虎影院.json","jar":"https://agit.ai/guot54/TVBOXZY/raw/branch/main/JAR/Yoursmile2.jar"},
 {"key":"csp_xBPQ_幺妹好色","name":"幺妹好色","type":3,"api":"csp_xBPQ","searccsp_xBPQble":1,"searchable":1,"quickSearch":1,"ext":"./HA/幺妹好色.json"},
-{"key":"四虎影院","name":"四虎影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/42847/%E5%9B%9B%E8%99%8E%E5%BD%B1%E9%99%A2.json?sign=zwsM2CHQiQTJX443ZPGi1O_y6dKZEx1uvM27wRSRg_8%3D%3A0","jar":"https://agit.ai/SexTVBox/TVBox/raw/branch/master/1009_.jar"},
+{"key":"四虎影院","name":"四虎影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/42847/四虎影院.json?sign=zwsM2CHQiQTJX443ZPGi1O_y6dKZEx1uvM27wRSRg_8%3D%3A0","jar":"https://agit.ai/SexTVBox/TVBox/raw/branch/master/1009_.jar"},
 
 
 {"key":"AIvin","name":"AIvin","type":0,"api":"http://lbapiby.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1},
@@ -511,7 +524,7 @@
 {"key":"淫水机资源","name":"淫水机资源","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":1,"quickSearch":1},
 {"key":"香奶儿资源","name":"香奶儿资源","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":1,"quickSearch":1},
 {"key":"白嫖资源","name":"白嫖资源","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":1,"quickSearch":1},
-{"key":"小湿妹资源","name":"小湿妹资源","type":0,"api":"https://www.afasu.com/api/xml.php","searchable":1,"quickSearch":1},
+//{"key":"小湿妹资源","name":"小湿妹资源","type":0,"api":"https://www.afasu.com/api/xml.php","searchable":1,"quickSearch":1},
 {"key":"大地资源","name":"大地资源","type":0,"api":"https://dadiapi.com/api.php","searchable":1,"quickSearch":1},
 {"key":"CK资源","name":"CK资源","type":1,"api":"http://www.feifei67.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"老鸭2","name":"老鸭2","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","playUrl":"json:https://player.77lehuo.com/aliplayer/?url=","searchable":1,"quickSearch":1,"filterable":0},
@@ -519,9 +532,8 @@
 {"key":"博天堂","name":"博天堂","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1},
 {"key":"环亚资源","name":"环亚资源","type":0,"api":"http://wmcj8.com/inc/sapi.php","searchable":1,"quickSearch":1},
 {"key":"(18+)天堂福利","name":"天堂福利","type":0,"api":"https://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"afasu","name":"小湿妹资源(已修复)","type":0,"api":"https://www.afasu.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"afasu","name":"小湿妹资源(已修复)","type":0,"api":"https://www.afasu.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"KpgxdyE","name":"黄AV资源(已修复)","type":0,"api":"https://www.pgxdy.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"AVZY6888资源","name":"AVZY6888资源","type":1,"api":"http://m.7777688.com/inc/apijson.php","searchable":1,"quickSearch":1},
 {"key":"色色资源","name":"色色资源","type":0,"api":"http://secj8.com/inc/sapi.php?ac=videolist","searchable":1,"quickSearch":1},
 {"key":"玖玖资源","name":"玖玖资源","type":0,"api":"http://99zywcj.com/inc/sapi.php?ac=videolist","searchable":1,"quickSearch":1},
 {"key":"佳丽资源","name":"佳丽资源","type":1,"api":"http://www.jializyzapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -541,7 +553,23 @@
 {"key":"JAV名优","name":"(18+)JAV名优","type":0,"api":"http://mygzycj.com/api.php?ac=list","searchable":1,"quickSearch":1},
 {"key":"(18+)天堂福利","name":"(18+)天堂福利","type":0,"api":"https://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1},
 {"key":"99资源","name":"99资源","type":1,"api":"http://99zy.pw/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"banan","name":"banan资源","type":3,"api":"https://agit.ai/lcx/TVBOXZY/raw/branch/main/xBPQ/banan.json","searchable":1,"quickSearch":1},
+//{"key":"banan","name":"banan资源","type":3,"api":"https://agit.ai/lcx/TVBOXZY/raw/branch/main/xBPQ/banan.json","searchable":1,"quickSearch":1},
+
+{"key":"drpy_js_banan","name":"banan","type":3,"api":"https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/js/banan.js"},
+{"key":"*蛋蛋视频","name":"蛋蛋视频","type":1,"api":"https://156.249.29.8/inc/apijson_vod.php","searchable":0,"quickSearch":1,"ext":"https://agit.ai/SexTVBox/TVBox/raw/branch/master/1009_.jar"},
+ {"key":"*亚洲成人在线","name":"亚洲成人在线","type":0,"api":"https://www.caiji01.com/home/cjapi/cfd2/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/SexTVBox/TVBox/raw/branch/master/1009_.jar"},
+{"key":"一本道资源","name":"一本道资源","type":0,"api":"https://www.caiji03.com/home/cjapi/cfg8/mc10/vod/xml","searchable":1,"quickSearch":1,"ext":"https://agit.ai/SexTVBox/TVBox/raw/branch/master/1009_.jar"},
+{"key":"快播盒子资源","name":"快播盒子资源","type":0,"api":"https://www.caiji09.com/home/cjapi/cfp0/mc10/vod/xml","searchable":1,"quickSearch":1,"ext":"https://agit.ai/SexTVBox/TVBox/raw/branch/master/1009_.jar"},
+{"key":"大香蕉资源","name":"大香蕉资源","type":0,"api":"https://www.caiji08.com/home/cjapi/cfkl/mc10/vod/xml","searchable":1,"quickSearch":1,"ext":"https://agit.ai/SexTVBox/TVBox/raw/branch/master/1009_.jar"},
+{"key":"日本AV在线","name":"日本AV在线","type":0,"api":"https://www.caiji07.com/home/cjapi/cfcf/mc10/vod/xml","searchable":1,"quickSearch":1,"ext":"https://agit.ai/SexTVBox/TVBox/raw/branch/master/1009_.jar"},
+{"key":"点点娱乐","name":"点点娱乐","type":0,"api":"https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/xml","searchable":1,"quickSearch":1,"ext":"https://agit.ai/SexTVBox/TVBox/raw/branch/master/1009_.jar"},
+{"key":"鲍鱼","name":"鲍鱼","type":0,"api":"http://caiji26.com/home/cjapi/p0g8/mc10/vod/xml","searchable":1,"quickSearch":1,"ext":"https://agit.ai/SexTVBox/TVBox/raw/branch/master/1009_.jar"},
+{"key":"集中淫","name":"集中淫","type":0,"api":"https://www.caiji22.com/home/cjapi/klp0/mc10/vod/xml","searchable":1,"quickSearch":1,"ext":"https://agit.ai/SexTVBox/TVBox/raw/branch/master/1009_.jar"},
+{"key":"我要啪啪","name":"我要啪啪","type":0,"api":"http://www.caiji21.com/home/cjapi/klkl/mc10/vod/xml","searchable":1,"quickSearch":1,"ext":"https://agit.ai/SexTVBox/TVBox/raw/branch/master/1009_.jar"},
+{"key":"*水蜜桃","name":"水蜜桃","type":1,"api":"http://51smt4.xyz/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/SexTVBox/TVBox/raw/branch/master/1009_.jar"},
+{"key":"523采集","name":"523av","type":0,"api":"https://caiji.523zyw.com/inc/api.php","playUrl":"https://api.523zyw.com/?url=","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/SexTVBox/TVBox/raw/branch/master/1009_.jar"},
+
+
 {"key":"花椒资源","name":"花椒资源","type":1,"api":"https://apihjzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"乐播资源","name":"乐播资源","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"博天堂","name":"博天堂","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1},
