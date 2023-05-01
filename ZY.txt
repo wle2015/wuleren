@@ -20,7 +20,7 @@
                {"url": "https://agit.ai/Jonwall/Box/raw/branch/a/T20.json",
                   "name": "T20接口"},
                   
-               {"url": "https://ghproxy.com/https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/tvbox.txt",
+               {"url": "https://raw.iqiq.io/wle2015/wuleren/MYSTY/tvbox.txt",
                   "name": "tvbox接口"},
 
                {"url": "https://agit.ai/liucn/box/raw/branch/main/m.json",
