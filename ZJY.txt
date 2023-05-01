@@ -17,6 +17,9 @@
                {"url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/ali/ym.json",
                   "name":"YM接口"}, 
                   
+                  {"url": "https://agit.ai/Jonwall/Box/raw/branch/a/T20.json",
+                  "name":"T20接口"}, 
+                  
                {"url": "https://agit.ai/liucn/box/raw/branch/main/m.json",
                   "name": "探索TV接口"},
  
@@ -26,24 +29,24 @@
                 {"url": "https://agit.ai/guot54/ygbh/raw/branch/master/PRO.json",
                   "name": "PRO原接口"},
  
-                {"url": "https://ghproxy.com/https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/tvbox.txt",
+                {"url": "https://raw.iqiq.io/wle2015/wuleren/MYSTY/tvbox.txt",
                   "name": "tvbox接口"},
  
-                {"url": "https://ghproxy.com/https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/PRO.txt",
+                {"url": "https://raw.iqiq.io/wle2015/wuleren/MYSTY/PRO.txt",
                   "name": "PRO接口"},
  
  
                {"url": "https://agit.ai/guot54/ygbh/raw/branch/master/dxwoai18+.txt",
                   "name": "吾爱18原接口"},
 
-                {"url": "https://ghproxy.com/https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/A18.txt",
-                  "name": "FA18.txt" },
+                {"url": "https://raw.iqiq.io/wle2015/wuleren/MYSTY/A18.txt",
+                  "name": "A18.txt" },
  
 
-                {"url": "https://ghproxy.com/https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/WA18.txt",
+                {"url": "https://raw.iqiq.io/wle2015/wuleren/MYSTY/WA18.txt",
                   "name": "WA18接口"},
  
-                {"url": "https://ghproxy.com/https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/WA18H.txt",
+                {"url": "https://raw.iqiq.io/wle2015/wuleren/MYSTY/WA18H.txt",
                   "name": "WA18H接口"},
                 
                {"url": "https://agit.ai/lcx/TVBOXZY/raw/branch/main/18.json",
@@ -62,17 +65,17 @@
                   "name":"云星哔哩线路"},
                
                   {
-          "url":"https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fuli.json",
-          "name":"🔞tvbox-line"
+          "url":"https://raw.iqiq.io/tv-player/tvbox-line/main/tv/fuli.json",
+          "name":"tvbox-line"
         },
         {
-          "url":"https://ghproxy.com/https://raw.githubusercontent.com/mmtekamu/tvbox/main/jiekou/18.json",
-          "name":"🔞GGTV-18"
+          "url":"https://raw.iqiq.io/mmtekamu/tvbox/main/jiekou/18.json",
+          "name":"GGTV-18"
         },
 
         {
            "url": "http://152.136.125.181:81/MM/dianbos/yeshijieC.json",
-           "name":"🔞dianbos夜世界"}
+           "name":"dianbos夜世界"}
       
  
     ]
