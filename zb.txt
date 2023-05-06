@@ -8665,6 +8665,24 @@ WANZ-862,https://video2.51daao.com/btt1/2021/08/20210804/dO0AIqzJ/2000kb/hls/ind
 MUDR-052,https://video2.51daao.com/btt1/2021/08/20210804/AeSyV7Ud/2000kb/hls/index.m3u8
 WANZ-828,https://video2.51daao.com/btt1/2021/07/20210715/4AReZJps/2000kb/hls/index.m3u8
 MIAA-031,https://video2.51daao.com/btt1/2021/07/20210708/Ea5dQ8Qq/2000kb/hls/index.m3u8
+MIMK-047,https://t21.cdn2020.com/video/m3u8/2023/03/24/ba385597/index.m3u8
+MIAE-108,https://t19.cdn2020.com/video/m3u8/2022/07/11/2b80b5eb/index.m3u8
+HMPD-10051,https://t19.cdn2020.com/video/m3u8/2022/06/18/aa508b7f/index.m3u8
+JUY-126,https://t16.cdn2020.com:12340/video/m3u8/2022/02/24/d91b940f/index.m3u8
+HND-410,https://t13.cdn2020.com:12338/video/m3u8/2021/11/28/c429a26a/index.m3u8
+BLK-299,https://t10.cdn2020.com:12335/video/m3u8/2021/07/23/ebc6ebd7/index.m3u8
+BLK-284,https://t7.cdn2020.com/video/m3u8/2021/04/10/13d6daac/index.m3u8
+MIAE-195,https://t7.cdn2020.com/video/m3u8/2021/03/25/6754b4b2/index.m3u8
+HND-489,https://t6s.cdn2020.com/video/m3u8/2021/02/03/f4aff332/index.m3u8
+SHKD-715,https://t6s.cdn2020.com/video/m3u8/2021/01/18/a3da5fa4/index.m3u8
+MIAE-056,https://t6s.cdn2020.com/video/m3u8/2021/01/17/f4a96264/index.m3u8
+MIAE-084,https://t6s.cdn2020.com/video/m3u8/2020/12/29/16b848a2/index.m3u8
+MEYD-338,https://t5s.cdn2020.com/video/m3u8/2020/11/20/3705a09d/index.m3u8
+MIAE-006,https://t5s.cdn2020.com/video/m3u8/2020/10/24/24b19ec1/index.m3u8
+MIAE-253,https://z100.cdn2020.com/video/m3u8/2020/07/10/8b69c88a/index.m3u8
+IPZ-948,https://z100.cdn2020.com/video/m3u8/2020/06/28/61317cb4/index.m3u8
+MIAA-131,https://z100.cdn2020.com/video/m3u8/2019/09/13/86dfc7f2/index.m3u8
+WANZ-881,https://z100.cdn2020.com/video/m3u8/2019/08/05/24635069/index.m3u8
 
 全体_6688,#genre#
 感谢祭,https://siwazywcdn2.com:5278/koubao/ArO0ZKyh/index.m3u8
