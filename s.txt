@@ -441,7 +441,7 @@
 {"key":"csp_XYQHiker_野荷塘影院","name":"野荷塘影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/野荷塘影院.json"},
 {"key":"csp_XBPQ_ 零零七","name":"零零七","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/零零七影视.json"},
 {"key":"csp_XBPQ_ 迪欧电影","name":"迪欧电影","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/wle2015/wuleren/MYSTY/HA/迪欧电影.json"},
-
+{"key":"csp_xbb_看看电影","name":"看看电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/yw88075/tvbox/main/看看电影.json"},
 
 {"key":"19","name":"请勿相信视频中的任何广告","type":0,"api":""},
 {"key":"1","name":"未成年人禁止访问，请止步！！","type":0,"api":""},
