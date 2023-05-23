@@ -4,7 +4,7 @@
 "sites":[
 
 {"key":"csp_77","name":"酷云七七 本接口免费,花钱买就是铁憨憨","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"小苹果","name":"小苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/wle2015/wuleren/MYSTY/JAR/2925.jar"},
+{"key":"小苹果","name":"小苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/JAR/2925.jar"},
 {"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"图图","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
 {"key":"csp_Cokemv","name":"可乐","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
