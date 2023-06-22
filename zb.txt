@@ -356,9 +356,8 @@ CNC,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
 江苏卫视,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240133_1/playlist.m3u8?CONTENTID=00000110240133_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 安徽卫视,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000298003.m3u8
 安徽卫视,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240256_1/playlist.m3u8?CONTENTID=00000110240256_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-湖南卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000296202.m3u8
-湖南卫视,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000296203.m3u8
-湖南卫视,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240130_1/playlist.m3u8?CONTENTID=00000110240130_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+湖南卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020c9ea4ce4bf3cfbbb7f8b8bb7.m3u8?bitrate=2300&pt=5
+湖南卫视,http://125.210.152.19:9120/live/hzgq-hnwsgq-h264.m3u8%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 深圳卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000292203.m3u8
 深圳卫视,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000292203.m3u8
 北京卫视,http://pull.dayuntongzhou.com/live/tztv.m3u8
@@ -432,8 +431,6 @@ CNC,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
 内蒙古卫视,http://1.204.169.243/live.aishang.ctlcdn.com/00000110240060_1/encoder/0/playlist.m3u8?CONTENTID=00000110240060_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 内蒙古卫视,http://120.204.20.48/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225511/index.m3u8
 江苏卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8?
-湖南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8
-湖南卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225745/1653109807-1-1648947278.m3u8
 深圳卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8?
 北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
 河北卫视,http://event.pull.hebtv.com/jishi/weishipindao.m3u8
@@ -498,7 +495,6 @@ CNC,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
 内蒙古卫视,http://39.135.138.60:18890/PLTV/88888888/224/3221225667/index.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=f35a89681647856030
 广东卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225701/1653140620-1-1651284060.m3u8
-湖南卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225704/1653109760-1-1651280942.m3u8
 广东卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225742/1653140709-1-1648950419.m3u8
 湖北卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225699/1653142328-1-1651284245.m3u8
 浙江卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225744/1653137040-1-1648950003.m3u8
@@ -547,7 +543,6 @@ CNC,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
 西藏卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 西藏卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225723/index.m3u8
-湖南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8
 山东卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225697/index.m3u8
 广东卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225742/index.m3u8
 广东卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225701/index.m3u8
@@ -561,7 +556,6 @@ CNC,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
 重庆卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225734/index.m3u8
 重庆卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225692/index.m3u8
 东方卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225659/index.m3u8
-湖南卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225704/index.m3u8
 山东卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225738/index.m3u8
 东南卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225657/index.m3u8
 广东卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225742/index.m3u8
@@ -569,7 +563,6 @@ CNC,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
 安徽卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225691/index.m3u8
 浙江卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225703/index.m3u8
 浙江卫视,http://39.135.138.58:18890/PLTV/88888910/224/3221225703/index.m3u8
-湖南卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225745/index.m3u8
 江苏卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225702/index.m3u8
 江苏卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225743/index.m3u8
 浙江卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225744/index.m3u8
@@ -665,7 +658,6 @@ CNC,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
 河北卫视,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240317_1/playlist.m3u8?CONTENTID=00000110240317_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 黑龙江卫视,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240131_1/playlist.m3u8?CONTENTID=00000110240131_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 湖北卫视,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240135_1/playlist.m3u8?CONTENTID=00000110240135_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-湖南卫视,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240130_1/playlist.m3u8?CONTENTID=00000110240130_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 吉林卫视,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240399_1/playlist.m3u8?CONTENTID=00000110240399_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 江苏卫视,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240133_1/playlist.m3u8?CONTENTID=00000110240133_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 江西卫视,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240398_1/playlist.m3u8?CONTENTID=00000110240398_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
@@ -681,7 +673,6 @@ CNC,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
 河北卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225732/index.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 陕西卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225729/index.m3u8
-湖南卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225745/index.m3u8
 山西卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225730/index.m3u8
 吉林卫视,http://stream4.jlntv.cn:80/jlwshd/playlist.m3u8
 云南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225664/index.m3u8
@@ -699,7 +690,6 @@ CNC,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
 江苏卫视,https://live.v1.mk/api/bestv.php?id=jswshd8m/8000000
 广西卫视,https://live.v1.mk/api/bestv.php?id=gxwshd8m/8000000
 四川卫视,https://live.v1.mk/api/bestv.php?id=scwshd/8000000
-湖南卫视,https://live.v1.mk/api/bestv.php?id=hunanwshd8m/8000000
 浙江卫视,https://live.v1.mk/api/bestv.php?id=zjwshd8m/8000000
 东方卫视,https://live.v1.mk/api/bestv.php?id=dfwshd8m/8000000
 北京卫视,https://live.v1.mk/api/bestv.php?id=bjwshd8m/8000000
@@ -736,7 +726,6 @@ CNC,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
 江苏卫视,https://live.v1.mk/api/ghyx.php?id=JiangSuHD_6000
 东方卫视,https://live.v1.mk/api/ghyx.php?id=DongFangHD_6000
 东南卫视,https://live.v1.mk/api/ghyx.php?id=FuJianHD_6000
-湖南卫视,https://live.v1.mk/api/ghyx.php?id=HuNanHD_6000
 湖北卫视,https://live.v1.mk/api/ghyx.php?id=HuBeiHD_6000
 广东卫视,https://live.v1.mk/api/ghyx.php?id=GuangDongHD_6000
 深圳卫视,https://live.v1.mk/api/ghyx.php?id=ShenZhenHD_6000
@@ -6588,6 +6577,7 @@ LYF55,https://askzybf.com/20221003/ywq0rDfD/2000kb/hls/index.m3u8
 LYF56,https://askzybf.com/20221003/ywq0rDfD/2000kb/hls/index.m3u8
 LYF57,https://cdn.aqd-tv.com/video/5a7b6ee2/playlist/5a7b6ee2.m3u8
 LYF58,https://play3.laoyacdn.com/20230427/JVWS8n8j/index.m3u8
+LYF59,https://play1.sewobofang.com/20230411/hW0sVd5b/index.m3u8
 AI幂_6688,#genre#
 YM1,https://askzybf.com/20230226/ERYTtEoI/1000kb/hls/index.m3u8
 YM2,https://askzybf.com/20230226/Ecv9Q1GX/1000kb/hls/index.m3u8
@@ -6753,6 +6743,10 @@ DLRB109,https://askzybf.com/20221108/RyeY6mNp/1000kb/hls/index.m3u8
 DLRB110,https://askzybf.com/20221108/zdXTYhJP/1000kb/hls/index.m3u8
 DLRB111,https://askzybf.com/20221107/rXPdemyl/1000kb/hls/index.m3u8
 DLRB112,https://askzybf.com/20221105/ICtFwEMG/1000kb/hls/index.m3u8
+
+IA其他_6688,#genre#
+陈妍希轻骑来袭,https://play1.sewocdn1.com/20220322/UxIPK6zt/1500kb/hls/index.m3u8
+金泰熙酒店黑丝诱惑 全套性爱,https://play1.sewocdn1.com/20220322/12CQWAoM/index.m3u8
 
 椎-名-空_6688,#genre#
 这三天姊姊是我的专属女僕,https://vod1.ttbfp2.com/20210821/WKO4e8Za/1553kb/hls/index.m3u8
@@ -7051,7 +7045,6 @@ RBD-950 に堕ちた人妻,https://z100.cdn2020.com/video/m3u8/2020/04/10/94a276
 ADN-221 義父の肉欲,https://z100.cdn2020.com/video/m3u8/2019/08/23/9b512e61/index.m3u8
 ADN-206 女教師と教え子,https://z100.cdn2020.com/video/m3u8/2019/07/24/0798332c/index.m3u8
 
-
 向-井=藍_6688,#genre#
 JUL-676 和学生时代的性骚扰教师,https://t21.cdn2020.com/video/m3u8/2023/04/19/b21a6b50/index.m3u8
 JUQ-205 不道德的交合方式,https://t21.cdn2020.com/video/m3u8/2023/04/07/bb759940/index.m3u8
@@ -7110,6 +7103,7 @@ JUL-231 地元へ帰省した三日間,https://z100.cdn2020.com/video/m3u8/2020/
 MIGD-716 人体固定中出し,https://z100.cdn2020.com/video/m3u8/2020/06/11/d56c2861/index.m3u8
 JUY-938 偶然を装い誘う人妻,https://z100.cdn2020.com/video/m3u8/2019/08/22/fddfa31b/index.m3u8
 SHKD-837 復讐者,https://z100.cdn2020.com/video/m3u8/2019/07/28/ea457dfd/index.m3u8
+
 
 河南-実=里_6688,#genre#
 RBK-062 一个疯狂的女性家族,https://t20.cdn2020.com/video/m3u8/2022/11/28/5f1e25f7/index.m3u8
@@ -7345,7 +7339,6 @@ XRW-716 女教師強姦,https://z100.cdn2020.com/video/m3u8/2019/08/12/7ce2aeb5/
 HEYZO-474 淫乱な女教師,https://z100.cdn2020.com/video/m3u8/2019/08/07/b453fcff/index.m3u8
 PPPD-749 失禁しちゃう敏感OL,https://z100.cdn2020.com/video/m3u8/2019/08/07/d18c5c14/index.m3u8
 
-
 君=岛=美-绪_6688,#genre#
 VEMA-197 公共卫生护士,https://t21.cdn2020.com/video/m3u8/2023/03/21/5823bbb9/index.m3u8
 FERA-167 爆炸性的汗水浸渍性交,https://t21.cdn2020.com/video/m3u8/2023/03/09/58dbc299/index.m3u8
@@ -7411,3 +7404,7 @@ ADN-150 義兄の肉欲2,https://z100.cdn2020.com/video/m3u8/2019/08/09/b8b46503
 BDA-067 潜入捜査官,https://z100.cdn2020.com/video/m3u8/2019/08/07/cd1abdb6/index.m3u8
 URE-049 奪姦 背徳の母子相姦,https://z100.cdn2020.com/video/m3u8/2019/08/06/3513b58e/index.m3u8
 MIAA-035 追撃ジュボレロ連射,https://z100.cdn2020.com/video/m3u8/2019/07/26/b1882062/index.m3u8
+
+其他_6688,#genre#
+MIDV-250 沉默寡言的义姐-八木奈奈,https://t22.cdn2020.com/video/m3u8/2023/06/21/b04d0dbf/index.m3u8
+JUQ-293 恶魔一般的ICUP-都丸梓,https://t22.cdn2020.com/video/m3u8/2023/06/21/c1f9a1d3/index.m3u8
