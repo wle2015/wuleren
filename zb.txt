@@ -358,6 +358,7 @@ CNC,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
 安徽卫视,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240256_1/playlist.m3u8?CONTENTID=00000110240256_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 湖南卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020c9ea4ce4bf3cfbbb7f8b8bb7.m3u8?bitrate=2300&pt=5
 湖南卫视,http://125.210.152.19:9120/live/hzgq-hnwsgq-h264.m3u8%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+湖南卫视,https://dispatchnew.ulivetv.net/v/live/cgwvl62c4og0.m3u8?stream_id=cgwvl62c4og0&timestamp=1686882475&rand=ztskwnhNqw&uuid=9b647b3816b2a66a&from=web&sign=d1f9b7a8cb6b156a181064b2a6a693f6
 深圳卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000292203.m3u8
 深圳卫视,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000292203.m3u8
 北京卫视,http://pull.dayuntongzhou.com/live/tztv.m3u8
@@ -6747,6 +6748,9 @@ DLRB112,https://askzybf.com/20221105/ICtFwEMG/1000kb/hls/index.m3u8
 IA其他_6688,#genre#
 陈妍希轻骑来袭,https://play1.sewocdn1.com/20220322/UxIPK6zt/1500kb/hls/index.m3u8
 金泰熙酒店黑丝诱惑 全套性爱,https://play1.sewocdn1.com/20220322/12CQWAoM/index.m3u8
+余霜丝袜诱惑51分钟长片,https://play1.sewocdn1.com/20220318/J0AfqAmy/index.m3u8
+余霜50分钟长片完整版,https://play1.sewocdn1.com/20220318/Bp1gtGXE/index.m3u8
+鞠婧祎女王爱调教,https://play1.sewocdn1.com/20220318/Hb2XJrH8/index.m3u8
 
 椎-名-空_6688,#genre#
 这三天姊姊是我的专属女僕,https://vod1.ttbfp2.com/20210821/WKO4e8Za/1553kb/hls/index.m3u8
@@ -7408,3 +7412,11 @@ MIAA-035 追撃ジュボレロ連射,https://z100.cdn2020.com/video/m3u8/2019/07
 其他_6688,#genre#
 MIDV-250 沉默寡言的义姐-八木奈奈,https://t22.cdn2020.com/video/m3u8/2023/06/21/b04d0dbf/index.m3u8
 JUQ-293 恶魔一般的ICUP-都丸梓,https://t22.cdn2020.com/video/m3u8/2023/06/21/c1f9a1d3/index.m3u8
+SSIS-465 美人教師-星宮一花,https://t19.cdn2020.com/video/m3u8/2022/08/09/40f4702c/index.m3u8
+JUC-661 监禁凌辱大哥的女人-水菜丽,https://t22.cdn2020.com/video/m3u8/2023/06/21/7dc39d6c/index.m3u8
+IPX-433 欺骗巨乳女优-初音みのり,https://t22.cdn2020.com/video/m3u8/2023/06/22/b1d3d151/index.m3u8
+SSNI-770 出道九点的可爱女优-小島みなみ,https://t22.cdn2020.com/video/m3u8/2023/06/22/1eb8a9dc/index.m3u8
+SNIS-674 欺骗可爱女优-小島みなみ,https://t22.cdn2020.com/video/m3u8/2023/06/22/abd058e1/index.m3u8
+MVSD-421 老爸再婚对象-高坂あいり,https://t22.cdn2020.com/video/m3u8/2023/06/22/d6400270/index.m3u8
+STARS-241 其实是M属性-戸田真琴,https://t22.cdn2020.com/video/m3u8/2023/06/22/34d5c988/index.m3u8
+STARS-234 一直暗恋的青梅竹马-小倉由菜,https://t22.cdn2020.com/video/m3u8/2023/06/22/580760ef/index.m3u8
