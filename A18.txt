@@ -61,7 +61,6 @@
 {"key":"四虎影院","name":"四虎影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/42847/四虎影院.json?sign=zwsM2CHQiQTJX443ZPGi1O_y6dKZEx1uvM27wRSRg_8%3D%3A0","jar":"https://agit.ai/SexTVBox/TVBox/raw/branch/master/1009_.jar"},
 
 
-
 {"key":"AIvin","name":"AIvin","type":0,"api":"http://lbapiby.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1},
 {"key":"csp_biubiu_GAOAA","name":"GAOAA(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/42848/GAOAA.json?sign=RTEogEmpqCt7cdlDCudsxV_SNXZR11Qx11Z5_bDuEYE%3D%3A0"},
 {"key":"(18+)SS资源","name":"SS资源","type":0,"api":"http://secj8.com/inc/sapi.php?ac=videolist","searchable":1,"quickSearch":1,"filterable":0},
@@ -175,7 +174,6 @@
 {"key":"caiji23.com","name":"成人40","type":0,"api":"https://www.caiji23.com/home/cjapi/kls6/mc10/vod/xml","searchable":1,"filterable":1,"ext":"https://raw.iqiq.io/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
 {"key":"jgczyapi.com","name":"成人41","type":0,"api":"https://jgczyapi.com/home/cjapi/kld2/mc10/vod/xml","searchable":1,"filterable":1,"ext":"https://raw.iqiq.io/FongMi/CatVodSpider/main/jar/custom_spider.jar"}
 
-
 ],
 
 "parses":[
@@ -199,7 +197,6 @@
             "type": 0,
             "url": "http://www.miaoys.cc/vip/?url="
         },
-  {"name":"橘猫","type":0,"url":"https://to.to-long.com/bo/?url="},
   {"name":"lk","type":1,"url":"https://k.json.icu/home/api?type=ys&uid=6399107&key=bdlmrswBDHIKZ01238&url="},
  { "name": "TVB云播","type": 1,"url": "https://jxm.qwrev534.top/?url="},
 {
