@@ -1,39 +1,6 @@
 //以下内容为互联网收集，只为自用……
 
 央视直播,#genre#
-CCTV1,http://125.210.152.19:9120/live/hzgq-cctv1gq-h264.m3u8
-CCTV2,http://125.210.152.19:9120/live/hzgq-cctv2gq-h264.m3u8
-CCTV3,http://125.210.152.19:9120/live/hzgq-cctv3gq-h264.m3u8
-CCTV4,http://125.210.152.19:9120/live/hzgq-cctv4gq-h264.m3u8
-CCTV5,http://125.210.152.19:9120/live/hzgq-cctv5gq-h264.m3u8
-CCTV6,http://125.210.152.19:9120/live/hzgq-cctv6gq-h264.m3u8
-CCTV7,http://125.210.152.19:9120/live/hzgq-cctv7gq-h264.m3u8
-CCTV8,http://125.210.152.19:9120/live/hzgq-cctv8gq-h264.m3u8
-CCTV9,http://125.210.152.19:9120/live/hzgq-cctv9gq-h264.m3u8
-CCTV10,http://125.210.152.19:9120/live/hzgq-cctv10gq-h264.m3u8
-CCTV11,http://125.210.152.19:9120/live/hzgq-cctv11gq-h264.m3u8
-CCTV12,http://125.210.152.19:9120/live/hzgq-cctv12gq-h264.m3u8
-CCTV13,http://125.210.152.19:9120/live/hzgq-cctvnewsgq-h264.m3u8
-CCTV14,http://125.210.152.19:9120/live/hzgq-cctvsegq-h264.m3u8
-CCTV15,http://125.210.152.19:9120/live/hzgq-cctvmusicgq-h264.m3u8
-CCTV16,http://125.210.152.19:9120/live/hzgq-cctv16gq-h264.m3u8
-CCTV17,http://125.210.152.19:9120/live/hzgq-cctv17gq-h264.m3u8
-CCTV1,https://cctv.dwdad.buzz/v/live/cgn2nfkwmp4w.m3u8?stream_id=cgn2nfkwmp4w&timestamp=1686224520&rand=30lJLyUusZ&uuid=9b647b3816b2a66a&from=web&sign=bf9aee17d5f8a3347ea74baa039368a3
-CCTV2,https://dispatch.ulivetv.net/v/live/c9vu0827ucao.m3u8?stream_id=c9vu0827ucao&timestamp=1686883508&rand=YogeFSi1im&uuid=9b647b3816b2a66a&from=web&sign=bc373c42bb647ab9080c0a0d9c62b9b0
-CCTV3,https://cctv.dwdad.buzz/v/live/c9vu0ly50rls.m3u8?stream_id=c9vu0ly50rls&timestamp=1686224659&rand=9VOylMuMWD&uuid=9b647b3816b2a66a&from=web&sign=ea079ecff6563ad76c5bd22752b99ba3
-CCTV4,https://cctv.dwdad.buzz/v/live/c9vu1clej000.m3u8?stream_id=c9vu1clej000&timestamp=1686224686&rand=7JnRGL6ifJ&uuid=9b647b3816b2a66a&from=web&sign=38743ce6f0d985400aeb634011814b83
-CCTV5,https://cctv.dwdad.buzz/v/live/c9vu1o0ob5j4.m3u8?stream_id=c9vu1o0ob5j4&timestamp=1686224781&rand=b5Yr4mKmMg&uuid=9b647b3816b2a66a&from=web&sign=95acb45b7f84cc349f92c73fb6bd2c4b
-CCTV6,https://cctv.dwdad.buzz/v/live/cgn10iblu2f4.m3u8?stream_id=cgn10iblu2f4&timestamp=1686224851&rand=vfsEml7sPT&uuid=9b647b3816b2a66a&from=web&sign=78cb4699b2bc64d771bc937e52738fee
-CCTV7,https://cctv.dwdad.buzz/v/live/cgn1c6p2o2io.m3u8?stream_id=cgn1c6p2o2io&timestamp=1686224870&rand=0c1O7bGqyF&uuid=9b647b3816b2a66a&from=web&sign=8a44341e140fcafc4e4ed6cb9b937b4f
-CCTV8,https://cctv.dwdad.buzz/v/live/cgn1g1rn5k8w.m3u8?stream_id=cgn1g1rn5k8w&timestamp=1686224884&rand=DAnwuQjfuF&uuid=9b647b3816b2a66a&from=web&sign=4085a7cbcae317f4debe8b47a1a8f5ec
-CCTV9,http://cyz32.livehbindex.hbcatv.cn/live/50000020edf54f6c92778d0ccdfcca30.m3u8?bitrate=2300&pt=5
-CCTV10,https://cctv.dwdad.buzz/v/live/cgn1mnc500qo.m3u8?stream_id=cgn1mnc500qo&timestamp=1686224914&rand=bVmfNoU7xp&uuid=9b647b3816b2a66a&from=web&sign=3416e9dc474e3c42d258beb716889c4a
-CCTV11,https://cctv.dwdad.buzz/v/live/cgn1qxe3k6gw.m3u8?stream_id=cgn1qxe3k6gw&timestamp=1686224929&rand=qtHWKxCDCP&uuid=9b647b3816b2a66a&from=web&sign=cecf269c350174088fcd8dd5f4c19266
-CCTV12,https://cctv.dwdad.buzz/v/live/cgn1u1zurzy8.m3u8?stream_id=cgn1u1zurzy8&timestamp=1686224949&rand=FAvNkqzx2g&uuid=9b647b3816b2a66a&from=web&sign=e93ff8a00b7bc79f4a1546d0904a4816
-CCTV13,https://cctv.dwdad.buzz/v/live/cgn1x0999zgg.m3u8?stream_id=cgn1x0999zgg&timestamp=1686048802&rand=NQDvyMocM3&uuid=9b647b3816b2a66a&from=web&sign=98bad341978d3b3186d1c308191e8a1e
-CCTV14,https://cctv.dwdad.buzz/v/live/cgn20xip2280.m3u8?stream_id=cgn20xip2280&timestamp=1686224978&rand=SepTTDysw7&uuid=9b647b3816b2a66a&from=web&sign=6750fab7bb67285d7bbf8199b12e2f0a
-CCTV15,https://cctv.dwdad.buzz/v/live/cgn240uqmrwg.m3u8?stream_id=cgn240uqmrwg&timestamp=1686224995&rand=6TSO6jncv8&uuid=9b647b3816b2a66a&from=web&sign=9bc789419e63e223580e327e9e5787ae
-CCTV16,https://cctv.dwdad.buzz/v/live/cgn277dnje0w.m3u8?stream_id=cgn277dnje0w&timestamp=1686225020&rand=hTPbDf2u4m&uuid=9b647b3816b2a66a&from=web&sign=5e24adc6f18db9aee8258c788af212bf
 CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?
 CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?
 CCTV3,http://39.135.138.58:18890/PLTV/88888888/224/3221225634/index.m3u8
@@ -6613,6 +6580,14 @@ YM49,https://askzybf.com/20221003/a7352ZPv/2000kb/hls/index.m3u8
 YM50,https://askzybf.com/20221003/yF6mr0ls/2000kb/hls/index.m3u8
 YM51,https://askzybf.com/20221003/lN1REgjN/2000kb/hls/index.m3u8
 YM52,https://media-vip-s.99b15.com/remote_control.php?time=1687748305&cv=9c0c27bdbd9367ce5c0941a29727a160&lr=0&cv2=9ea6c3bad8dd0952f86389f27f2be354&file=%2Fvideos%2F181000%2F181218%2F181218.mp4&cv3=5f53cbaa1b0ca0ffe17fe658cc53a82a&cv4=0c44f2324114ba0366ac6074fb4ae38b
+YM53,https://cs.hgw36.com/videos/202307/02/64a1292c7f32e10ae5a9efa4/ea70b3/index.m3u8
+YM54,https://cs.hgw36.com/videos/202307/03/64a22e457f32e10ae5f00d19/ebba4b/index.m3u8
+YM55,https://cs.hgw36.com/videos/202307/03/64a22e607f32e10ae5f016e7/g528b0/index.m3u8
+YM56,https://cs.hgw36.com/videos/202307/05/64a4c7a304b6cb1038daffcd/ffga4a/index.m3u8
+YM57,https://cs.hgw36.com/videos/202307/05/64a4c83e04b6cb1038db1a9d/db869c/index.m3u8
+YM58,https://cs.hgw36.com/videos/202307/06/64a6258904b6cb1038299d9b/589dfg/index.m3u8
+YM59,https://cs.hgw36.com/videos/202307/06/64a6256404b6cb10382995ab/dg8g77/index.m3u8
+YM60,https://cs.hgw36.com/videos/202307/06/64a625807f32e10ae5e157cd/91660g/index.m3u8
 
 
 IA热_6688,#genre#
@@ -6728,6 +6703,7 @@ DLRB109,https://askzybf.com/20221108/RyeY6mNp/1000kb/hls/index.m3u8
 DLRB110,https://askzybf.com/20221108/zdXTYhJP/1000kb/hls/index.m3u8
 DLRB111,https://askzybf.com/20221107/rXPdemyl/1000kb/hls/index.m3u8
 DLRB112,https://askzybf.com/20221105/ICtFwEMG/1000kb/hls/index.m3u8
+DLRB113,https://cdn.aqd-tv.com/video/a49ae078/playlist/a49ae078.m3u8
 
 IA其他_6688,#genre#
 陈妍希轻骑来袭,https://play1.sewocdn1.com/20220322/UxIPK6zt/1500kb/hls/index.m3u8
@@ -6764,6 +6740,25 @@ IA其他_6688,#genre#
 白百何 封杀去了日本,https://play1.sewocdn1.com/20220318/svplUH3Y/index.m3u8
 蔡文静 学生凌辱女教师,https://play1.sewocdn1.com/20220318/qX1BJt1t/index.m3u8
 蔡依林 对榜一的回馈,https://play1.sewocdn1.com/20220318/ZER9RgVV/index.m3u8
+杨超越 性爱高潮不断抽插,https://cs.hgw36.com/videos/202307/02/64a1292c7f32e10ae5a9efa4/ea70b3/index.m3u8
+蔡依林 一日女友租借,https://play1.sewocdn1.com/20220318/1pv0t4PZ/index.m3u8
+赵丽颖 掰穴电动震穴性爱,https://cs.hgw36.com/videos/202307/03/64a22e3104b6cb10383e90d1/6dd6e1/index.m3u8
+袁冰妍 白嫩淫穴性爱抽插高潮,https://cs.hgw36.com/videos/202307/03/64a22f4604b6cb10383ecbcf/e7bb89/index.m3u8
+陈乔恩 偶像剧女王黑丝网袜激情,https://play1.sewocdn1.com/20220318/sUSHv6mj/1500kb/hls/index.m3u8
+陈乔恩 表情销魂,https://play1.sewocdn1.com/20220318/XBb5RRZr/index.m3u8
+李沁 迷人的男神收割机51分钟,https://play1.sewocdn1.com/20220318/p6tR9IvD/index.m3u8
+陈都灵 性感兔女郎的亲密服务,https://play1.sewocdn1.com/20220318/qrcfeBgH/index.m3u8
+陈都灵 姐姐喜欢主动进攻,https://play1.sewocdn1.com/20220318/OAdls4iQ/index.m3u8
+陈都灵 孙娜恩 双姝温柔缠,https://play1.sewocdn1.com/20220318/y5Rj9AwH/index.m3u8
+陈都灵 黑丝女仆被主人口爆插入,https://play1.sewocdn1.com/20220318/10PErvhG/index.m3u8
+陈都灵 迷人的激情性爱,https://play1.sewocdn1.com/20220318/0cAg9LwF/index.m3u8
+陈乔恩 偶像剧女王黑丝网袜激情,https://play1.sewocdn1.com/20220318/sUSHv6mj/index.m3u8
+韩雪 48分钟长片被白人老外拘束凌辱还用手机强,https://play1.laoyacdn.com/20220306/Mcx64hmJ/index.m3u8
+江疏影 渴望性爱体验,https://play1.laoyacdn.com/20220306/apunk9uV/index.m3u8
+江疏影 烈焰红唇无码中出两连发,https://play1.laoyacdn.com/20220306/rwIUxKf2/index.m3u8
+江疏影 黑丝连裤袜诱惑激情中出,https://play1.laoyacdn.com/20220306/ADRkaDWF/index.m3u8
+江疏影 男友视角中出,https://play1.laoyacdn.com/20220306/H7bcmCQ1/index.m3u8
+古力娜扎 激情性爱中出大片54分钟秘书和社长的,https://play1.laoyacdn.com/20220306/2dyQNZmU/index.m3u8
 
 苍_6688,#genre#
 cjk01,https://m3u8.40cdn.com/movie-hls/161130/cjk1/index.m3u8
@@ -7055,6 +7050,7 @@ IPX-509 絶頂93回,https://z100.cdn2020.com/video/m3u8/2020/06/22/bd7e2bf6/inde
 JUL-227 寝室の顔面,https://z100.cdn2020.com/video/m3u8/2020/06/11/0fd5aaff/index.m3u8
 MEYD-518 同居生活,https://z100.cdn2020.com/video/m3u8/2019/09/13/4e558beb/index.m3u8
 MEYD-476 妻の残業NTRわたし,https://z100.cdn2020.com/video/m3u8/2019/07/24/bac71518/index.m3u8
+IPX-492 黑丝美女人妻OL,https://t22.cdn2020.com/video/m3u8/2023/06/24/21bc98ac/index.m3u8
 
 夏-目=彩=春_6688,#genre#
 ADN-463 半夜起来发现妻子不在旁边,https://t22.cdn2020.com/video/m3u8/2023/05/19/c7a8fc15/index.m3u8
@@ -7101,6 +7097,8 @@ ADN-254 兄嫁NTR,https://z100.cdn2020.com/video/m3u8/2020/07/16/da2e9ab1/index.
 RBD-950 に堕ちた人妻,https://z100.cdn2020.com/video/m3u8/2020/04/10/94a27696/index.m3u8
 ADN-221 義父の肉欲,https://z100.cdn2020.com/video/m3u8/2019/08/23/9b512e61/index.m3u8
 ADN-206 女教師と教え子,https://z100.cdn2020.com/video/m3u8/2019/07/24/0798332c/index.m3u8
+ADN-287 嫂子的汗水,https://t6s.cdn2020.com/video/m3u8/2021/01/20/229f311a/index.m3u8
+SSPD-158 和一起在便利店打工欲求不满的人妻,https://t22.cdn2020.com/video/m3u8/2023/06/13/4bd26610/index.m3u8
 
 向-井=藍_6688,#genre#
 JUL-676 和学生时代的性骚扰教师,https://t21.cdn2020.com/video/m3u8/2023/04/19/b21a6b50/index.m3u8
@@ -7487,3 +7485,37 @@ VENX-037 誘惑母親-篠田ゆう,https://t10.cdn2020.com:12335/video/m3u8/2021
 DASD-617 不能告訴丈夫處理投訴的工作 向井藍,https://www.1cs8vf0f25k4fs2a6.com/sise/sise/haofeng_20230629010/hls/1/index.m3u8
 DASD-616 唾液交纏自己扭腰暴露本性的一夜旅行,https://www.1cs8vf0f25k4fs2a6.com/sise/sise/haofeng_20230629009/hls/1/index.m3u8
 CJOD-222 汗水淋漓性慾癡女!被越獄犯強制內射侵犯的我,https://www.1cs8vf0f25k4fs2a6.com/sise/sise/haofeng_20230629001/hls/1/index.m3u8
+ADN-245 巨乳色情人妻小说家-永井マリア,https://t22.cdn2020.com/video/m3u8/2023/06/30/13416868/index.m3u8
+ADN-248 被他的弟弟抽插的人妻-森沢かな,https://t22.cdn2020.com/video/m3u8/2023/06/30/f065bc99/index.m3u8
+MEYD-594 欲求不满的人妻-瀬崎彩音,https://t22.cdn2020.com/video/m3u8/2023/06/30/9b14fa94/index.m3u8
+MIAA-267 绝顶高潮的巨乳痴女技师-蓮実クレア,https://t22.cdn2020.com/video/m3u8/2023/06/30/f003d98e/index.m3u8
+MIDE-302 女教師-初川みなみ,https://t22.cdn2020.com/video/m3u8/2023/06/30/762d3dfd/index.m3u8
+ABP-919 空灵女优-涼森れむ,https://t22.cdn2020.com/video/m3u8/2023/06/30/64a55485/index.m3u8
+DASD-675 失忆巨乳少女-深田えいみ,https://t22.cdn2020.com/video/m3u8/2023/06/30/6ec13923/index.m3u8
+FSDSS-030 美女姐姐-友田彩也香,https://t22.cdn2020.com/video/m3u8/2023/06/30/c54ddb17/index.m3u8
+IPX-480 美乳女优-梓ヒカリ,https://t22.cdn2020.com/video/m3u8/2023/06/30/71c11d03/index.m3u8
+CLUB-611 每晚都举行联谊会的宅男,https://t22.cdn2020.com/video/m3u8/2023/06/30/af81ffd1/index.m3u8
+SNIS-803 超可爱人气女优-橋本ありな,https://t22.cdn2020.com/video/m3u8/2023/06/30/67300ffe/index.m3u8
+SSNI-866 暴雨中的嫂子-葵つかさ,https://t4s.cdn2020.com/video/m3u8/2020/09/24/15914a9c/index.m3u8
+ABW-204 学校由最可爱的学生-八掛海,https://t22.cdn2020.com/video/m3u8/2023/07/03/88f80415/index.m3u8
+DVAJ-427 明知我在偷窥她做爱却不为所动的嫂子,https://t20.cdn2020.com/video/m3u8/2022/09/30/7212aef1/index.m3u8
+ROYD-079 我和那放荡的嫂子发生了关系,https://t16.cdn2020.com:12340/video/m3u8/2022/02/11/3a8caf7e/index.m3u8
+ABW-283 我的温顺宠物候补生-八掛海,https://t22.cdn2020.com/video/m3u8/2023/06/30/657b531d/index.m3u8
+WAAA-263 排成长队的油腻大叔追击20连发配种大乱交,https://t22.cdn2020.com/video/m3u8/2023/05/19/bfe1fd7c/index.m3u8
+WAAA-273 喝醉后性欲解放-日下部加奈,https://t22.cdn2020.com/video/m3u8/2023/07/05/365bd00f/index.m3u8
+WAAA-266 绝伦肉棒-斋藤艾米丽,https://t22.cdn2020.com/video/m3u8/2023/07/05/c3e82114/index.m3u8
+WAAA-267 小恶魔主导的饮尿舔阴性交-花柳杏奈,https://t22.cdn2020.com/video/m3u8/2023/07/05/9ad79468/index.m3u8
+MIAA-860 AV界天才痴女双人组的天堂,https://t22.cdn2020.com/video/m3u8/2023/07/05/988bd8b2/index.m3u8
+MVSD-413 高雅三十歲貴婦姊妹妻的逆3P三明治內射性交,https://www.1cs8vf0f25k4fs2a6.com/sise/sise/haofeng_20230705002/hls/1/index.m3u8
+OKP-049 神褲襪！完全穿衣品嚐從腳底到腳尖的褲襪,https://www.1cs8vf0f25k4fs2a6.com/sise/sise/haofeng_20230705007/hls/1/index.m3u8
+WAAA-013 欲求不满最喜欢姐姐和射精的麻佐 深田えいみ ,https://play1.sewocdn1.com/20220313/dx5GKRaW/index.m3u8
+SSNI-674 巨乳黑丝OL女上司-三上悠亚,https://t22.cdn2020.com/video/m3u8/2023/07/06/51bb9c62/index.m3u8
+VEC-592 教训丈夫的媳妇的好朋友-友野彩美,https://t22.cdn2020.com/video/m3u8/2023/07/06/512b43b4/index.m3u8
+IPX-482 和爸爸一样年龄的大叔-広瀬なるみ,https://t22.cdn2020.com/video/m3u8/2023/07/06/cbacbbaf/index.m3u8
+ABW-097 天然成分由来-八掛海,https://t22.cdn2020.com/video/m3u8/2023/07/06/530d3d53/index.m3u8
+JUI-217 和老公做爱之后-春咲りょう,https://t22.cdn2020.com/video/m3u8/2023/07/06/e74f5733/index.m3u8
+IPZZ-041 有巨乳露出兔女郎的学园祭-庵姬花,https://t22.cdn2020.com/video/m3u8/2023/07/06/9797b017/index.m3u8
+JUI-207 已经两年的人妻-香坂のあ,https://t22.cdn2020.com/video/m3u8/2023/07/06/7c74a716/index.m3u8
+IPZZ-048 班導的我跟女同學不倫-桃乃木香奈,https://t22.cdn2020.com/video/m3u8/2023/07/06/6ee44257/index.m3u8
+IPX-486 巨乳黑丝皮衣女搜查官-桃乃木かな,https://t22.cdn2020.com/video/m3u8/2023/07/06/ffdc8d4e/index.m3u8
+MDYD-898 隔壁没带胸罩的妻子-神波多一花,https://t22.cdn2020.com/video/m3u8/2023/07/06/3e8d33a8/index.m3u8
