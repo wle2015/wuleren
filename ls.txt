@@ -1,6 +1,6 @@
 [Adblock Plus2.0]
 ! title: wuleren 过滤规则
-! Version: 20220805
+! Version: 20230705
 *&adid=*
 *&dartsite=*
 *&foiffs=*
@@ -6529,6 +6529,8 @@ www.hezibuluo.com##[class="adsbygoogle"]
 |https://statics.aizhan.com/jsa/zone.js
 !-------电影先生
 |http://dyxs20.com/statics/recommend/*.gif$image
+!------3DM游戏网
+|https://61.chushoushijian.cn/alikes.php?id=*
 !-------其它
 |http://www.bookbao.cc/js/xx.js
 |http://j.sc1369.com/s.php*
@@ -6548,6 +6550,40 @@ www.hezibuluo.com##[class="adsbygoogle"]
 |http://bmp*.ali213.net/*.js
 |https://kkk916.cc/api/hengfu.js
 */resources/js/content.js
+|https://cdn.sm.cn$image,third-party
+|https://pic.rmb.bdstatic.com/bjh/*.gif$third-party
+|https://xcdn.rltdxt.com/files/h5/appdownv5.js?v=20*
+|https://xcdn.rltdxt.com/files/h5/kadvs.js?v=20*
+|https://xcdn.rltdxt.com/files/h5/videoRandom.js?v=20*
+|https://qq54321.vip/html/dd*.js
+|https://qq54321.vip/html/hff*.js
+|https://qq54321.vip/html/pp*.js
+|https://qq54321.vip/html/zb*.js
+|https://www.ycnzudkyenu.buzz:55443/Public/js/myjs.js
+|https://js520.xyz/html/ddx.js
+|https://js520.xyz/html/*x.js
+|https://apixj.vip/html/*.js
+|https://*gaoaa.com/template/23ttav/js/aa.htm
+|https://to.to-long.com/img/*.gif
+|https://to.to-long.com/img/topnav.png
+|https://midoushe.c*/wp-content/uploads/20*/*/*.gif
+|https://e.resaa.cc/*/*.js
+|http://154.37.60.109/*/*.js
+|https://ggt999.oss-cn-hangzhou.aliyuncs.com/*.gif
+|https://*.xxdd63.cc/need/bottom.js?*
+||tu.fengshengshui.cn/IMG/*x*.png
+||666783.xyz/images/20*/*/*/*.png
+|https://fafa.*.com/*/*-*.png
+||666579.xyz/images/20*/*.gif
+||65688qp.com/tp/*.gif
+||uu99k.com/image/*x*.gif
+|https://vip301.vip/html/*/*.js
+|https://cdn.sm.cn$image,third-party
+|https://pic.rmb.bdstatic.com/bjh/*.gif$third-party
+|https://mwrmrt8.com/*.gif
+|https://ncfun59.xyz/js/f*.js
+|http://naryl.com/static/js/*.js
+|https://xnai69.com:12121/oklist/vars.js
 |https://90158js.com/960.js
 |https://90158js.com/head*.js
 |https://www.cdx5.com/discor_list.js
@@ -8281,7 +8317,7 @@ user.qzone.qq.com##._qbs_img
 www.cnbeta.com###fm_r
 www.cnbeta.com###userInfo
 bbs.jkcing.com##.a_t
-user.qzone.qq.com###quick_mode_qz5year
+user.qzone.qq.com###quick_mode_qz5 年之前
 user.qzone.qq.com##fn_shuoshuo_ear
 mp3.baidu.com###ecom_A_inner
 dsa.zenlane.com###ad_footerbanner1
@@ -8432,6 +8468,7 @@ www.portablesoft.org##div.postads
 xunlei.com##div.file_right.adv_right
 yesky.com##div#bdadv.bd_adv,div.wth200 > div.baidu,div.ad190
 !-------------其他-------------
+kdd996.com##li[class="content-tb"]
 www1.downsx.pw##.Left-ad3_fixed
 www1.downsx.pw##.adbox.uk-text-center.uk-container-center.uk-width-1-1.uk-width-medium-10-10
 www.taohuayun.cn##tr[align="center"]
@@ -8559,11 +8596,11 @@ www.mydrivers.com##.top + .hang1
 myfiles.com.cn##[id^="ad_"]
 newhua.com##[class^="ad_ritht_"]
 appledaily.com.tw##.ads
-nownews.com##[id^="focus_"]
-nownews.com###hotchannel > .block_content:nth-child(3)
-nownews.com###index_headline_box + .page_title
-nownews.com###nownews_pickup
-nownews.com##.site_collection
+现在news.com##[id^="focus_"]
+现在news.com###hotchannel > .block_content:nth-child(3)
+现在news.com###index_headline_box + .page_title
+现在news.com###nownews_pickup
+现在news.com##.site_collection
 tv.on.cc###superbanner
 tv.on.cc###large
 bbs.pcbeta.com###pt + div[style] > div[style^="clear:both;"]
@@ -8741,7 +8778,7 @@ www.jstv.com##.delayadv
 www.jstv.com##.jadv
 19lou.com##.ad
 19lou.com##.head-ad
-2500sz.com##[id^="Layer"]
+2500秒z.com##[id^="Layer"]
 5dlinux.com##[class^="ggadtext"]
 admin5.com##.notice
 cnmo.com##[id^="AD"]
@@ -13754,7 +13791,7 @@ newsday.co.zw,~pregecko2##div[style="width: 300px; height: 250px;"]
 newsfactor.com,~pregecko2##td[style="border-left: 1px solid rgb(192, 192, 192); padding-top: 3px; padding-bottom: 3px;"]
 newsniche.com,~pregecko2##a[style="font-size: 12px; color: rgb(255, 166, 23);"]
 newzimsituation.com,~pregecko2##div[style="float: right; width: 254px; height: 250px;"]
-nowtoronto.com,~pregecko2##div[style="width: 300px; height: 250px;"]
+现在toronto.com,~pregecko2##div[style="width: 300px; height: 250px;"]
 opendiary.com,~pregecko2##div[style="width: 300px; height: 250px; border: 1px solid black; margin: 0px; padding: 0px;"]
 opendiary.com,~pregecko2##div[style="width: 728px; height: 90px; margin: 0px auto; padding: 0px;"]
 ourfamilygenes.ca,~pregecko2##div[style="width: 100%; display: block; margin-bottom: 10px; height: 90px;"]
