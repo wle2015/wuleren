@@ -5,20 +5,30 @@
                {"url": "https://agit.ai/ihymn/tvbox/raw/branch/master/tb.txt",
                   "name":"TD接口"},
  
+               {"url": "https://agit.ai/wekeyfisrt/TVBox/raw/branch/master/XC.json",
+                  "name":"XC接口"},
+            
+               { "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+                  "name": "高天流云js"},
+
+               { "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+                    "name": "高天流云XYQ"},
+
+               {"url": "https://yydsys.top/duo",
+                  "name":"应用多多家庭版线路"},
+
                {"url": "https://agit.ai/superman/tvbox/raw/branch/master/sman/meowcf.json",
                   "name":"ME接口"},
                 
                {"url": "https://agit.ai/zlzxq1/TVbox/raw/branch/master/YS.json",
                   "name":"YS接口"},
                
-               {"url": "https://agit.ai/wekeyfisrt/TVBox/raw/branch/master/XC.json",
-                  "name":"XC接口"},
                
                {"url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/ali/ym.json",
-                  "name":"YM接口"}, 
+                  "name":"YM接口"},
                   
                   {"url": "https://agit.ai/Jonwall/Box/raw/branch/a/T20.json",
-                  "name":"T20接口"}, 
+                  "name":"T20接口"},
                   
                {"url": "https://agit.ai/liucn/box/raw/branch/main/m.json",
                   "name": "探索TV接口"},
