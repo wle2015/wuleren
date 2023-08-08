@@ -8,9 +8,6 @@
                {"url": "https://agit.ai/wekeyfisrt/TVBox/raw/branch/master/XC.json",
                   "name":"XC接口"},
             
-               { "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-                  "name": "高天流云js"},
-
                { "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
                     "name": "高天流云XYQ"},
 
