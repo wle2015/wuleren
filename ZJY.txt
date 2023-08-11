@@ -1,114 +1,67 @@
 //以下内容为互联网收集，只为自用……
-{"urls": 
-      [
-                        
-               {"url": "https://agit.ai/ihymn/tvbox/raw/branch/master/tb.txt",
-                  "name":"TD接口"},
- 
-               {"url": "https://agit.ai/wekeyfisrt/TVBox/raw/branch/master/XC.json",
-                  "name":"XC接口"},
-            
-               { "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
-                    "name": "高天流云XYQ"},
+{"urls":
+[
 
-               {"url": "https://yydsys.top/duo",
-                  "name":"应用多多家庭版线路"},
+{"url":"https://agit.ai/ihymn/tvbox/raw/branch/master/tb.txt","name":"TD接口"},
 
-               {"url": "https://agit.ai/superman/tvbox/raw/branch/master/sman/meowcf.json",
-                  "name":"ME接口"},
-                
-               {"url": "https://agit.ai/zlzxq1/TVbox/raw/branch/master/YS.json",
-                  "name":"YS接口"},
-               
-               
-               {"url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/ali/ym.json",
-                  "name":"YM接口"},
-                  
-                  {"url": "https://agit.ai/Jonwall/Box/raw/branch/a/T20.json",
-                  "name":"T20接口"},
-                  
-               {"url": "https://agit.ai/liucn/box/raw/branch/main/m.json",
-                  "name": "探索TV接口"},
- 
-               {"url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
-                  "name": "MEOWCF接口"},
- 
-                {"url": "https://agit.ai/guot54/ygbh/raw/branch/master/PRO.json",
-                  "name": "PRO原接口"},
- 
-                {"url": "https://ghproxy.com/https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/tvbox.txt",
-                  "name": "tvbox接口"},
- 
-                {"url": "https://ghproxy.com/https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/PRO.txt",
-                  "name": "PRO接口"},
- 
- 
-                {"url": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木自用.json",
-                  "name": "一木接口"},
+{"url":"https://agit.ai/wekeyfisrt/TVBox/raw/branch/master/XC.json","name":"XC接口"},
 
-                {"url": "https://notabug.org/yzzsjc/TVBox-Pro/raw/master/lib/云星家庭.json",
-                  "name":"云星家庭线路"},
-                
-               {"url": "https://notabug.org/yzzsjc/TVBox-Pro/raw/master/lib/云星哔哩.json",
-                  "name":"云星哔哩线路"},
-               
-               {"url": "https://agit.ai/guot54/ygbh/raw/branch/master/dxwoai18+.txt",
-                  "name": "吾爱-18原接口"},
+{"url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json","name":"高天流云XYQ"},
 
-                {"url": "https://ghproxy.com/https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/A18.txt",
-                  "name": "A-18.txt" },
- 
-                {"url": "https://ghproxy.com/https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/WA18.txt",
-                  "name": "WA18接口"},
- 
-                {"url": "https://ghproxy.com/https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/WA18H.txt",
-                  "name": "WA18H接口"},
-                 
-                {"url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/18cj.json",
-                  "name": "CJ-18接口" },
-              
-               //{"url": "https://agit.ai/lcx/TVBOXZY/raw/branch/main/18.json",
-                  "name":"LCX-18"}，
-               
-               //{"url": "https://agit.ai/lcx/TVBOXZY/raw/branch/main/tvbox.json",
-                  "name":"LCX-18TV接口"}，
-                
-                {"url": "https://agit.ai/box/TVBox/raw/branch/main/h/h.json",
-                  "name": "H-18接口" },
-                  
-                {"url": "https://ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/fuli.json",
-                  "name": "FULI-18接口" },
-                  
-                {"url": "https://agit.ai/guard/f/raw/branch/main/c.json",
-                  "name": "C-18接口" }，
-                   
-                {"url": "https://agit.ai/kuku/tvbox/raw/branch/master/18.json",
-                  "name": "18接口" },
-                   
-                {"url": "https://agit.ai/kuku/tvbox/raw/branch/master/tvbox.json",
-                  "name": "TvBox-18接口" },
-                   
-                {"url": "https://agit.ai/guot54/ygbh/raw/branch/master/pro原.json",
-                  "name": "PRO-18原接口" },
-                  
-                {"url": "https://agit.ai/pinghui/xinghe/raw/branch/master/慎用TVBOX福利接口.txt",
-                  "name": "福利接口" },
-                  
-                {"url": "https://ghproxy.com/https://raw.githubusercontent.com/nbwzlyd/CatVodSpider/main/json/adult.json",
-                  "name": "ADULT-18原接口" },
-                  
-                //{"url": "https://gitlab.com/ygbh1/666/-/raw/main/PRO.json",
-                  "name": "YGHH1-PRO-18原接口" }，
-                  
-               //{"url":"https://ghproxy.com/https://raw.githubusercontent.com/https://gitlab.com/tv-player/tvbox-line/main/tv/fuli.json",
-                  "name":"tvbox-line"}，
-        
-               {"url":"https://ghproxy.com/https://raw.githubusercontent.com/mmtekamu/tvbox/main/jiekou/18.json",
-                  "name":"GGTV-18"},
+{"url":"https://yydsys.top/duo","name":"应用多多家庭版线路"},
 
-               //{"url": "http://152.136.125.181:81/MM/dianbos/yeshijieC.json",
-                  "name":"dianbos夜世界"}
-      
- 
-    ]
+{"url":"https://agit.ai/superman/tvbox/raw/branch/master/sman/meowcf.json","name":"ME接口"},
+
+{"url":"https://agit.ai/zlzxq1/TVbox/raw/branch/master/YS.json","name":"YS接口"},
+
+{"url":"https://agit.ai/138001380000/MHQTV/raw/branch/master/ali/ym.json","name":"YM接口"},
+
+{"url":"https://agit.ai/Jonwall/Box/raw/branch/a/T20.json","name":"T20接口"},
+
+{"url":"https://agit.ai/liucn/box/raw/branch/main/m.json","name":"探索TV接口"},
+
+{"url":"https://freed.yuanhsing.cf/TVBox/meowcf.json","name":"MEOWCF接口"},
+
+{"url":"https://agit.ai/guot54/ygbh/raw/branch/master/PRO.json","name":"PRO原接口"},
+
+{"url":"https://ghproxy.com/https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/tvbox.txt","name":"tvbox接口"},
+
+{"url":"https://ghproxy.com/https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/PRO.txt","name":"PRO接口"},
+
+{"url":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木自用.json","name":"一木接口"},
+
+{"url":"https://notabug.org/yzzsjc/TVBox-Pro/raw/master/lib/云星家庭.json","name":"云星家庭线路"},
+
+{"url":"https://notabug.org/yzzsjc/TVBox-Pro/raw/master/lib/云星哔哩.json","name":"云星哔哩线路"},
+
+{"url":"https://agit.ai/guot54/ygbh/raw/branch/master/dxwoai18+.txt","name":"吾爱-18原接口"},
+
+{"url":"https://ghproxy.com/https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/A18.txt","name":"A-18.txt"},
+
+{"url":"https://ghproxy.com/https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/WA18.txt","name":"WA18接口"},
+
+{"url":"https://ghproxy.com/https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/WA18H.txt","name":"WA18H接口"},
+
+{"url":"https://agit.ai/138001380000/MHQTV/raw/branch/master/18cj.json","name":"CJ-18接口"},
+
+{"url":"https://agit.ai/box/TVBox/raw/branch/main/h/h.json","name":"H-18接口"},
+
+{"url":"https://ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/fuli.json","name":"FULI-18接口"},
+
+{"url":"https://agit.ai/guard/f/raw/branch/main/c.json","name":"C-18接口"},
+
+{"url":"https://agit.ai/kuku/tvbox/raw/branch/master/18.json","name":"18接口"},
+
+{"url":"https://agit.ai/kuku/tvbox/raw/branch/master/tvbox.json","name":"TvBox-18接口"},
+
+{"url":"https://agit.ai/guot54/ygbh/raw/branch/master/pro原.json","name":"PRO-18原接口"},
+
+{"url":"https://agit.ai/pinghui/xinghe/raw/branch/master/慎用TVBOX福利接口.txt","name":"福利接口"},
+
+{"url":"https://ghproxy.com/https://raw.githubusercontent.com/nbwzlyd/CatVodSpider/main/json/adult.json","name":"ADULT-18原接口"},
+
+{"url":"https://ghproxy.com/https://raw.githubusercontent.com/mmtekamu/tvbox/main/jiekou/18.json","name":"GGTV-18"}
+
+
+]
 }
