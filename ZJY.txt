@@ -4,7 +4,7 @@
 
 {"url":"https://agit.ai/ihymn/tvbox/raw/branch/master/tb.txt","name":"TD接口"},
 
-{"url":"https://agit.ai/wekeyfisrt/TVBox/raw/branch/master/XC.json","name":"XC接口"},
+{"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name":"XC接口"},
 
 {"url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json","name":"高天流云XYQ"},
 
