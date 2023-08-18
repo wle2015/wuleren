@@ -58,6 +58,7 @@
 {"key":"奇奇","name":"奇奇","type":1,"api":"http://www.csykkj.club/api.php/provide/vod/from/qiqi","playUrl":"json:http://lgg.llwwwll.com:5477/home/api?type=ys&uid=387611&key=ahnrvxyzCDGJKPY137&url=","searchable":1,"quickSearch":1,"categories":["电影","连续剧","综艺","动漫"]},
 {"key":"哈喽","name":"哈喽","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
 {"key":"zxzj","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzj.pro/"},
+{"key":"极客","name":"极客","type":3,"api":"csp_XBPQ","playerType":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/HA/极客影院.json"},
 
 {"key":"Auete","name":"奥特","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","ext":"b04b15448ad5bd4312f1fa1fb9aa9b1b","jar":"https://agit.ai/ihymn/tvbox/raw/branch/master/ts0620.jar"},
 {"key":"狐狸","name":"狐狸","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
@@ -108,10 +109,13 @@
 {"key":"XYQH_电影港","name":"港口磁力","type":3,"playerType":1,"api":"csp_XYQHiker","jar":"https://jihulab.com/duomv/duo/-/raw/main/spider.txt;md5;8B4D7815240224E910848D075A884058","ext":"https://bitbucket.org/xduo/json/raw/master/港口.json"},
 {"key":"csp_Ysgc","name":"影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc.fun"},
 {"key":"csp_fantuan","name":"饭团直连","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.fantuan3.com"},
+{"key":"非凡","name":"非凡","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产剧","香港剧","韩国剧","日本剧","欧美剧","泰国剧","台湾剧","海外剧","国产动漫","日韩动漫","动漫片","综艺片","电影片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫"]},
 {"key":"新片热播","name":"新片热播","type":1,"api":"https://api.iku.cool/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0,"categories":["连续剧","动漫"]},
-{"key":"js_菜狗","name":"菜狗","type":3,"api":"https://gitee.com/WLRWT/GRSC/raw/GRZY/JS/drpymin2.js","searchable":1,"quickSearch":1,"filterable":1,"ext":".https://gitee.com/WLRWT/GRSC/raw/GRZY/JS/caigou.js"},
-
 {"key":"T4_888","name":"888T4","type":4,"api":"https://public.t4tv.hz.cz/888","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"爱城影视","name":"爱城影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://90hd.top/api.php/v1.vod"},
+{"key":"嘟嘟电影","name":"嘟嘟电影","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://m.dududy.app/lvdou_api.php/v1.vod"},
+{"key":"csp_XBPQ_feifei","name":"飞飞影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"1\",\"演员\":\"主演：&&</div>\",\"简介\":\"class=\\\"video-info-itemvideo-info-contentvod_content\\\"&&</div>\",\"副标题\":\"class=\\\"module-item-text\\\">&&</div>\",\"数组\":\"class=\\\"module-item-pic&&</div>\",\"线路数组\":\"class=\\\"module-tab-itemtab-item&&</div>\",\"线路标题\":\"<span>&&</small>\",\"播放数组\":\"class=\\\"scroll-content&&</div>\",\"分类\":\"电影$dianying#剧集$fenlei2#国产剧$guochanju#港台剧$ganju#综艺$zongyi#动漫$dongman\",\"分类url\":\"https://www.kaixinfang.com/vodshow/{cateId}--------{catePg}---/\"}"},
+
 {"key":"csp_XYQBiu_七小时影院","name":"七小时影院","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/laohankeji/tvbox/raw/master/xiangyaqing/lib/七小时影院.json"},
 {"key":"csp_XYQBiu_花猫TV","name":"花猫TV","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/laohankeji/tvbox/raw/master/xiangyaqing/lib/花猫TV.json"},
 {"key":"csp_XYQBiu_1985电影网","name":"1985电影网","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/laohankeji/tvbox/raw/master/xiangyaqing/lib/1985电影网.json"},
