@@ -65,7 +65,9 @@
 {"key":"zxzj","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzj.pro/"},
 {"key":"极客","name":"极客","type":3,"api":"csp_XBPQ","playerType":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/HA/极客影院.json"},
 
-{"key":"Auete","name":"奥特","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","ext":"b04b15448ad5bd4312f1fa1fb9aa9b1b","jar":"https://agit.ai/ihymn/tvbox/raw/branch/master/ts0620.jar"},
+//{"key":"Auete","name":"奥特","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","ext":"b04b15448ad5bd4312f1fa1fb9aa9b1b","jar":"https://agit.ai/ihymn/tvbox/raw/branch/master/ts0620.jar"},
+{"key":"csp_Auete","name":"奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"狐狸","name":"狐狸","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
 {"key":"爱迪","name":"爱迪","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
 {"key":"鸭鸭","name":"鸭鸭","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
@@ -103,6 +105,7 @@
 {"key":"csp_XYQHiker_爱看影视","name":"爱看影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/laohankeji/tvbox/raw/master/xiangyaqing/lib/爱看影视.json"},
 {"key":"csp_XYQHiker_锐行加速影院","name":"锐行加速影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/laohankeji/tvbox/raw/master/xiangyaqing/lib/锐行加速影院.json"},
 {"key":"河马","name":"河马","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://m.hmys.tv/show/{cateId}-{area}-------{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
+{"key":"酷酷","name":"酷酷","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.realdou.cn:2683/api.php/app/"},
 
 {"key":"app_轻简","name":"轻简影视","type":1,"api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/","categories":["电影","电视剧","综艺","动漫"]},
 {"key":"鲸落","name":"鲸落影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://bitbucket.org/xduo/json/raw/master/jingluo.json"},
@@ -124,6 +127,7 @@
 {"key":"csp_lgz_feifei","name":"开心坊","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"1\",\"演员\":\"主演：&&</div>\",\"简介\":\"class=\\\"video-info-item video-info-content vod_content\\\"&&</div>\",\"副标题\":\"class=\\\"module-item-text\\\">&&</div>\",\"数组\":\"class=\\\"module-item-pic&&</div>\",\"线路数组\":\"class=\\\"module-tab-item tab-item&&</div>\", \"线路标题\":\"<span>&&</small>\",   \"播放数组\": \"class=\\\"scroll-content&&</div>\",\"分类\":\"电影$dianying#剧集$fenlei2#国产剧$guochanju#综艺$zongyi#动漫$dongman\",\"分类url\":\"https://www.kaixinfang.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html/\"}"},
 {"key":"drpy_js_eew","name":"四个圈影视","type":3,"api":"https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js","ext":"http://xn--kwra9540c.love/数据/内置/奥迪影视"},
 {"key":"秒看资源","name":"秒看资源","type":1,"api":"https://mkzy.vip/api.php/provide/vod","searchable":1,"quickSearch":1,"categories":["电视剧","电影","动漫","综艺"]},
+{"key":"彩虹","name":"彩虹","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://jh.dytt996.com:996/api.php/app/"},
 
 {"key":"csp_XYQBiu_七小时影院","name":"七小时影院","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/laohankeji/tvbox/raw/master/xiangyaqing/lib/七小时影院.json"},
 {"key":"csp_XYQBiu_花猫TV","name":"花猫TV","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/laohankeji/tvbox/raw/master/xiangyaqing/lib/花猫TV.json"},
