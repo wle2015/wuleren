@@ -3,6 +3,7 @@
 央视直播,#genre#
 CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?
 CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?
+CCTV3,http://111.20.40.172/PLTV/88888893/224/3221226397/index.m3u8
 CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
 CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?
@@ -566,6 +567,13 @@ CETV-4,http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
 延边卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226220/index.m3u8
 兵团卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
 农林卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
+
+自定义直播,#genre#
+斗鱼胡八一,http://maomao.kandiantv.cn/douyu1.php?id=7701735
+斗鱼咸鱼,http://maomao.kandiantv.cn/douyu1.php?id=442280
+斗鱼李子柒,http://maomao.kandiantv.cn/douyu1.php?id=2901080
+名侦探柯南国语,http://maomao.kandiantv.cn/douyu1.php?id=6484910
+YY音乐,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=54880976
 
 台湾香港澳门,#genre#
 翡翠台,http://113.117.74.20:8081/hls/25/index.m3u8
@@ -32068,6 +32076,7 @@ LYF64,http://ee.hghhh.com/videos/202307/24/64bdf2dd2564aa0e9ae29ff0/d9ab60/index
 LYF65,http://ee.hghhh.com/videos/202307/24/64bdf2df2564aa0e9ae2a026/a57ag3/index.m3u8
 LYF66,http://ee.hghhh.com/videos/202307/24/64bdf2f02564aa0e9ae2a12b/548db2/index.m3u8
 LYF67,http://ee.hghhh.com/videos/202307/24/64bdf2aeb91fb00eaf94dea4/f358aa/index.m3u8
+LYF68,https://ee.hghhh.com/videos/202308/26/64e963a4eb1f056cf9f4a0d2/a20317/index.m3u8
 
 AI幂_6688,#genre#
 YM1,https://askzybf.com/20230226/ERYTtEoI/1000kb/hls/index.m3u8
@@ -32298,6 +32307,10 @@ IA其他_6688,#genre#
 刘涛 被双鸡巴快速抽插,https://cs.hgw36.com/videos/202306/24/649646ae7f32e10ae55edcda/a22617/index.m3u8
 刘涛 夺取了俩学生的第一次 上部,http://ee.hghhh.com/videos/202307/23/64bc82ddb91fb00eaf6bcbf3/b4bad2/index.m3u8
 刘涛 夺取了俩学生的第一次 下部,http://ee.hghhh.com/videos/202307/24/64bdf2afb91fb00eaf94decb/99d0a3/index.m3u8
+刘涛 为满足粉丝亲自到家里第一段,https://ee.hghhh.com/videos/202308/25/64e80568eb1f056cf97f3fcd/28c988/index.m3u8
+刘涛 为满足粉丝亲自到家里第二段,https://ee.hghhh.com/videos/202308/24/64e6b9b0eb1f056cf91fff3e/72d78a/index.m3u8
+刘涛 为满足粉丝亲自到家里第三段,https://ee.hghhh.com/videos/202308/24/64e6ba35eb1f056cf92019af/c0d77f/index.m3u8
+刘涛 为满足粉丝亲自到家里第四段,https://ee.hghhh.com/videos/202308/24/64e6ba64aaf5fd461eb38388/af839d/index.m3u8
 杨颖 掰穴邀请鸡巴慢弄,https://cs.hgw36.com/videos/202307/09/64aa409e04b6cb1038227dfe/68cgf3/index.m3u8
 杨颖 白鸡巴疯狂抽插高潮,https://cs.hgw36.com/videos/202307/09/64aa4033198521368b65cac0/67g4b8/index.m3u8
 杨颖 大鸡巴疯狂抽插颜射,https://cs.hgw36.com/videos/202307/11/64acade804b6cb1038b00aa6/1ef533/index.m3u8
@@ -32451,6 +32464,10 @@ IPZ-948,https://z100.cdn2020.com/video/m3u8/2020/06/28/61317cb4/index.m3u8
 MIAA-131,https://z100.cdn2020.com/video/m3u8/2019/09/13/86dfc7f2/index.m3u8
 WANZ-881,https://z100.cdn2020.com/video/m3u8/2019/08/05/24635069/index.m3u8
 MIAE-033,https://t22.cdn2020.com/video/m3u8/2023/06/01/16d2ccce/index.m3u8
+HDKA-150 全裸家政妇介绍所,https://t22.cdn2020.com/video/m3u8/2023/06/10/14f975a2/index.m3u8
+MUDR-014 被侵犯伤口的女孩,https://t22.cdn2020.com/video/m3u8/2023/06/22/168a171c/index.m3u8
+ZUKO-118 和她的女性朋友们在一起聚会,https://t22.cdn2020.com/video/m3u8/2023/08/12/1359ae84/index.m3u8
+
 
 絵色千佳_6688,#genre#
 淫語リッシュ！絵色先生絵色千佳,https://bobolj.com/20210120/lntU08Sk/index.m3u8
@@ -33066,6 +33083,7 @@ ADN-150 義兄の肉欲2,https://z100.cdn2020.com/video/m3u8/2019/08/09/b8b46503
 BDA-067 潜入捜査官,https://z100.cdn2020.com/video/m3u8/2019/08/07/cd1abdb6/index.m3u8
 URE-049 奪姦 背徳の母子相姦,https://z100.cdn2020.com/video/m3u8/2019/08/06/3513b58e/index.m3u8
 MIAA-035 追撃ジュボレロ連射,https://z100.cdn2020.com/video/m3u8/2019/07/26/b1882062/index.m3u8
+VENX-220 发情的母亲要求中出,https://t22.cdn2020.com/video/m3u8/2023/08/23/7bac16cb/index.m3u8
 
 河南実里_6688,#genre#
 RKI-508 世界第一早泄男,https://t22.cdn2020.com/video/m3u8/2023/07/13/7ec9ebd4/index.m3u8
@@ -33264,3 +33282,8 @@ DASS-160 兒子是性慾怪獸-森澤佳奈,https://t22.cdn2020.com/video/m3u8/2
 CJOD-388 淫蕩姐姐痴女可中出-森澤佳奈,https://t22.cdn2020.com/video/m3u8/2023/07/14/c3b750f8/index.m3u8
 PPPD-968 我女朋友的妹妹-木下ひまり,https://t12.cdn2020.com:12337/video/m3u8/2021/10/30/d6d0f151/index.m3u8
 FSDSS-059 嫁の絶倫妹-天使もえ,https://z100.cdn2020.com/video/m3u8/2020/07/24/af6b4caa/index.m3u8
+IPX-516 婚約者のM性 桜空もも,https://z100.cdn2020.com/video/m3u8/2020/07/21/f5e87deb/index.m3u8
+ABF-011 绝对性教育-八掛海,https://t22.cdn2020.com/video/m3u8/2023/08/22/76d39f2a/index.m3u8
+MIAA-892 对欺侮我是处男的青梅竹马J系辣妹肉食,https://kmi.522n.com/20230822/OTY1ZTlmN2/114601/1280/hls/decrypt/index.m3u8
+DASS-203 无法拒绝处男弟弟的请求,https://t22.cdn2020.com/video/m3u8/2023/08/22/b813764d/index.m3u8
+IPZZ-084 超短裙痴女教师-西宫梦,https://t22.cdn2020.com/video/m3u8/2023/08/22/f5c7c07f/index.m3u8
