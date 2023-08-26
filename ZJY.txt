@@ -1,6 +1,5 @@
 //以下内容为互联网收集，只为自用……
 
-//以下内容为互联网收集，只为自用……
 {"urls":
 [
 {"url":"https://ghproxy.com/https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/tvbox.txt","name":"tvbox接口"},
@@ -39,7 +38,7 @@
 
 {"url":"https://agit.ai/Jonwall/Box/raw/branch/a/T20.json","name":"T20接口"},
 
-{"url":"https://agit.ai/guot54/ygbh/raw/branch/master/pro原.json","name":"月光宝盒-福利接口"},
+{"url":"https://agit.ai/guot54/ygbh/raw/branch/master/h/prox.json","name":"月光宝盒-福利接口"},
 
 {"url":"https://agit.ai/guot54/ygbh/raw/branch/master/dxwoai18+.txt","name":"吾爱-18接口"},
 
