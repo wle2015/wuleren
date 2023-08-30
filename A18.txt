@@ -5,8 +5,8 @@
 {"key":"量子","name":"量子","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["伦理片"]},
 {"key":"91麻豆","name":"*91麻豆","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_xBPQ_91色","name":"91色","type":3,"api":"csp_xBPQ","searchable":0,"quickSearch":0,"filterable":0, "ext":"./HA/91s.json","jar":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/xb.jar"},
-{"key":"csp_JavDb","name":"JavDb","type":3,"api":"csp_JavDb","searchable":0,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/guot54/ygbh/raw/branch/master/h/javbus.jpg"},
-{"key":"csp_Alist1_lhg","name":"罗汉果","type":3,"api":"csp_AList","searchable":0,"quickSearch":0,"filterable":0,"changeable":1,"ext":"./HA/H18.txt","jar":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/lh.jar"},
+{"key":"csp_JavDb","name":"JavDb","type":3,"api":"csp_JavDb","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/guot54/ygbh/raw/branch/master/h/javbus.jpg"},
+{"key":"csp_Alist1_lhg","name":"罗汉果","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./HA/H18.txt","jar":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/lh.jar"},
 {"key":"csp_CandyMuj_fuliji","name":"福利姬","type":3,"api":"csp_CandyMuj_fuliji","searchable":1,"quickSearch":1,"filterable":0,"ext":"91.108.56.145:80","jar":"https://agit.ai/guot54/ygbh/raw/branch/master/h/muj.jar"},
 
 {"key":"drpy_js_喵了个咪","name":"喵了个咪","type":3,"api":"https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js","ext":"https://agit.ai/guot54/ygbh/raw/branch/master/JS/猫了个咪.js"},
