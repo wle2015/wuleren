@@ -44,6 +44,8 @@
 
 {"url":"https://ghproxy.com/https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/A18.txt","name":"A-18.txt"},
 
+{"url":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json","name":"蜂蜜-18.txt"},
+
 {"url":"https://agit.ai/138001380000/MHQTV/raw/branch/master/18cj.json","name":"CJ-18接口"},
 
 {"url":"https://agit.ai/box/TVBox/raw/branch/main/h/h.json","name":"H-18接口"},
