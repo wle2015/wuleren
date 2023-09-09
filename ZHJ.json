@@ -1,3 +1,4 @@
+//部分接口来自 南风 多多 肥猫 饭佬 荷城 网上 等 如有侵权联系删除，只为自用……
 {
 
 "sites":[
@@ -77,7 +78,8 @@
 {"key":"csp_XYQHiker_?dyx","name":"电影磁力4k","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JQ/dyg.json","jar":"./JAR/spider.txt"},
 {"key":"csp_XYQHiker_蓝光影院","name":"蓝光影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JQ/蓝光影院.json"},
 
-
+{"key":"csp_毛子","name":"毛子影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JQ/毛毛子影视.json"},
+{"key":"csp_熊猫","name":"熊猫影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JQ/熊猫影视.json"},
 {"key":"csp_beijihu","name":"极狐影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
 {"key":"csp_蘑菇影视","name":"蘑菇影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://guan.yy365.vip/api.php/app/"},
 {"key":"csp_XYQHiker_歪片星球","name":"歪片星球","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JQ/歪片星球.json"},
