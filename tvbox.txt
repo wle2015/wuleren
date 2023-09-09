@@ -40,7 +40,6 @@
 //{"key":"Auete","name":"奥特","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","ext":"b04b15448ad5bd4312f1fa1fb9aa9b1b","jar":"https://agit.ai/ihymn/tvbox/raw/branch/master/ts0620.jar"},
 {"key":"csp_Auete","name":"奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"毛驴","name":"毛驴剧院","type":3,"api":"csp_XBPQ","ext":{"请求头":"手机","数组":"class=\"public-list-divpublic-list-bj\"&&</div>","图片":"data-src=\"&&\"","链接":"href=\"&&\"","播放数组":"<ulclass=\"anthology-list-playsize\">&&</ul>","线路数组":"class=\"fads-dianying&&</a>","线路标题":"&nbsp;&&</span>","播放链接":"href=\"&&\"","分类":"电影$1#电视剧$2#综艺$3#动漫$4","分类url":"https://www.maolvys.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/year/{year}/"}},
 {"key":"hanju","name":"天天韩剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext":{"分类url":"https://hanju2.yingdouw.com/hanju/{cateId}.html","分类":"电影$2#国产剧$29#港台剧$33#韩剧$1#美剧$26#日剧$27#泰剧$30#海外剧$32#动漫$28"}},
 {"key":"萌猫影视","name":"萌猫影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./HA/萌猫影视.json"},
 {"key":"蛋蛋影视","name":"蛋蛋影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./HA/蛋蛋影视.json"},
