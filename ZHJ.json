@@ -64,7 +64,7 @@
 {"key":"csp_KubaCL","name":"酷吧电影","type":3,"api":"csp_KubaCL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./JAR/cili.jar"},
 {"key":"csp_MeijuTT","name":"美剧天堂","type":3,"api":"csp_MeijuTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./JAR/cili.jar"},
 {"key":"csp_MeijuMi","name":"美剧迷","type":3,"api":"csp_MeijuMi","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./JAR/cili.jar"},
-{"key": "csp_XYQHiker_?dyx","name": "宙磁高清","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./JQ/dyg.json","jar":"./JQ/spider.txt"},
+{"key": "csp_XYQHiker_?dyx","name": "宙磁高清","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./JQ/dyg.json","jar":"./JAR/spider.txt"},
 {"key":"csp_Ikanbot","name":"Ikanbot","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"jar":"./JAR/XYQ.jar"},
 
 {"key":"星影1080cms","name":"星影1080","type":1,"api":"https://www.xy1080.net/api.php/provide/vod","searchable":1,"quickSearch":1},
@@ -105,7 +105,7 @@
 {"key":"csp_mdd","name":"蛋蛋影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.mengdandan.com/xgapp.php/v1/"},
 {"key":"csp_yayaya","name":"耐菲影视","api":"csp_AppYsV2","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
 {"key":"cjzy_暴风资源","name":"暴风影视","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/?ac=list","playUrl":"","categories":["国产剧","国产动漫","大陆综艺","港台综艺","香港剧","台湾剧","日本剧","欧美剧","泰国剧","日本动漫","日本综艺","综艺频道","新马泰综艺","纪录片","科幻片","喜剧片","战争片"]},
-{"key":"XYQH_电影港","name":"港口磁力","type":3,"playerType":1,"api":"csp_XYQHiker","jar":"https://jihulab.com/duomv/duo/-/raw/main/spider.txt","ext":"./JQ/港口.json"},
+{"key":"XYQH_电影港","name":"港口磁力","type":3,"playerType":1,"api":"csp_XYQHiker","jar":"./JAR/spider.txt","ext":"./JQ/港口.json"},
 {"key":"csp_Ysgc","name":"影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc.fun"},
 {"key":"csp_fantuan","name":"饭团直连","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.fantuan3.com"},
 {"key":"新片热播","name":"新片热播","type":1,"api":"https://api.iku.cool/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0,"categories":["连续剧","动漫"]},
@@ -143,7 +143,6 @@
 {"key":"api_虎牙采集","name":"虎牙","type":1,"api":"https://www.huyaapi.com/api.php/provide/vod/","playUrl":"","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"categories":["内地剧","香港剧","台湾剧","欧美剧","日剧","韩剧","马泰剧","记录片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","中国动漫","日本动漫","欧美动漫","综艺","体育赛事"]},
 {"key":"api_金鹰采集","name":"金鹰","type":1,"api":"https://jyzyapi.com/provide/vod/","playUrl":"","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"categories":["内地剧","香港剧","台湾剧","欧美剧","日剧","韩剧","马泰剧","记录片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","动画片","中国动漫","日本动漫","欧美动漫","综艺","体育赛事"]},
 {"key":"潇洒综合","name":"潇洒综合","type": 3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"./JQ/哔哩哔哩.json"},
-{"key":"黑狐","name":"黑狐","type":3,"searchable":1,"quickSearch":1,"playerType":"1","jar":"./JAR/xm.jar","api":"csp_XBPQ","ext":"./JQ/黑狐影院.json"},
 
 {"key":"mtv_xp_酷奇视频","name":"酷奇视频","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"./JQ/酷奇视频.json"},
 {"key":"mtv_zh_暖光影视","name":"综合 暖光影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://app.bl210.com/api.php/v1.vod"},
