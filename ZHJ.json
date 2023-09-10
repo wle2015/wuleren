@@ -4,7 +4,7 @@
 "sites":[
 
 {"key":"csp_DouDou","name":"🔍豆瓣 本接口免费,花钱买就是铁憨","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
-{"key":"直播转点播","name":"电视直播","type":3,"api":"./JS/直播转点播.js","ext":"./JQ/直播点播仓.json"},
+{"key":"直播转点播","name":"电视直播","type":3,"api":"./JS/直播转点播.js","ext":"./HA/直播点播仓.json"},
 //{"key":"js豆瓣","name":"豆瓣 本接口免费,花钱买就是铁憨憨","type":3,"api":"./JS/drpymin2.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./JS/douban.js"},
 {"key":"csp_77","name":"酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
