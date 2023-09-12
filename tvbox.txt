@@ -316,7 +316,7 @@
 {"key":"Zhaozy","name":"阿里找片2(搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt$$$自己去注册$$$qq112233"},
 {"key":"csp_TuGou","name":"阿里土狗[4K](搜索)","type":3,"api":"csp_TuGou","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt"},
 //
-{"key":"csp_LocalFile","name":"本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":0,"jar":"https://gitee.com/laohankeji/tvbox/raw/master/xiangyaqing/XYQ.jar"},
+{"key":"csp_LocalFile","name":"本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":0,"jar":"./JAR/XYQ.jar"},
 {"key":"直播转点播","name":"电视直播","type":3,"api":"./HA/直播转点播.js","ext":"./HA/直播点播仓18.json"},
 {"key":"csp_xml_共青春","name":"共青春影院","type":1,"api":"https://gqcyy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1}
 ],
