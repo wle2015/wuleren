@@ -12,6 +12,7 @@
 {"key":"视频分享","name":"视频分享","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.kuin.one/api.php/app/"},
 {"key":"乐猪影视","name":"乐猪影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./HA/lezhu.json"},
 {"key":"suying影视","name":"速映影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./HA/suying.json"},
+{"key":"胖虎","name":"胖虎","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext":{"分类url":"https://www.panghuys.com/vodshow/{cateId}/{area}/page/{catePg}/year/{year}.html","分类":"电影$1#剧集$2#综艺$3#动漫$4"}},
 {"key":"lggys","name":"落攻阁","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.lggys.cn/api.php/app/"},
 {"key":"baoxian","name":"宝仙","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://webdillo.com/api.php/app/"},
 {"key":"shaozeyy","name":"少泽","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://yk.shaozeyy.com/api.php/app/"},
