@@ -2,33 +2,45 @@
 {"urls":
 [
 
-{"url":"https://ghproxy.com/https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/ZHJ.json","name":"ZHJ接口"},
+{"url":"https://raw.kgithub.com/wle2015/wuleren/MYSTY/ZHJ.json","name":"ZHJ线路"},
 
-{"url":"https://agit.ai/ihymn/tvbox/raw/branch/master/tb.txt","name":"TD接口"},
+{"url":"https://agit.ai/ihymn/tvbox/raw/branch/master/tb.txt","name":"TD线路"},
 
-{"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name":"南风接口"},
+{"url":"https://raw.kgithub.com/PizazzGY/TVBox_warehouse/main/影视/api.json","name":"GY线路"},
 
-{"url":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json","name":"高天流云XYQ"},
+{"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name":"南风线路"},
+
+{"url":"https://raw.kgithub.com/gaotianliuyun/gao/master/XYQ.json","name":"高天流云线路"},
 
 {"url":"http://我不是.肥猫.love:63/接口禁止贩卖","name":"肥猫线路"},
 
 {"url":"http://饭太硬.top/tv","name":"饭太硬线路"},
 
-{"url":"https://la.kstore.space/download/2863/01.txt","name":"潇洒线路"},
-
 {"url":"http://rihou.cc:88/荷城茶秀","name":"荷城茶秀线路"},
+
+{"url":"https://raw.kgithub.com/XiaoYiChaHang/tvbox/main/ysj.json","name":"荷城茶秀备用"},
+
+{"url":"https://yydsys.top/duo","name":"应用多多家庭版"},
+
+{"url":"https://la.kstore.space/download/2863/01.txt","name":"潇洒线路"},
 
 {"url":"https://yydsys.top/duo","name":"应用多多家庭版线路"},
 
-{"url":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydf.json","name":"业余接口"},
+{"url":"https://raw.kgithub.com/yydfys/yydf/main/yydf/yydf.json","name":"业余接口"},
 
-{"url":"http://itvbox.cc/tvbox/云星日记/1.m3u8","name":"云星日记线路"},
+{"url":"https://raw.kgithub.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E8%87%AA%E7%94%A8.json","name":"一木线路"},
 
 {"url":"https://jihulab.com/ygbh1/box/-/raw/main/%E6%9C%88%E5%85%89%E5%AE%9D.json","name":"月光宝盒"},
+
+{"url":"https://tvbox.cainisi.cf","name":"菜妮丝线路"},
+
+{"url":"https://yydsys.top/duo/ali","name":"阿里精品专线"},
 
 {"url":"https://agit.ai/gk0746/pxy/raw/branch/master/时光机.json","name":"时光机"},
 
 {"url":"https://agit.ai/ddx/TVBox/raw/branch/master/m.json","name":"白虾"},
+
+{"url":"http://itvbox.cc/tvbox/云星日记/1.m3u8","name":"云星日记线路"},
 
 {"url":"https://agit.ai/superman/tvbox/raw/branch/master/sman/meowcf.json","name":"ME接口"},
 
