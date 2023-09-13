@@ -31,6 +31,7 @@
 {"key":"hoho","name":"HOHO","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://hoho.tv/api.php/app/"},
 {"key":"wxtv","name":"无限","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.wxtv.net/api.php/app/"},
 {"key":"heyik","name":"何以","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://www.heyik.cn/api.php/v1.vod"},
+{"key":"jisu","name":"极速","type":1,"api":"https://jszyapi.com/api.php/provide/vod/from/jsm3u8/","searchable":1,"changeable":1,"categories":["内地剧","欧美剧","香港剧","台湾剧","韩剧","日剧","马泰剧","动作片","爱情片","恐怖片","剧情片","战争片","灾难片","悬疑片","犯罪片","奇幻片","动漫","动画片","中国动漫","日本动漫","欧美动漫","综艺","大陆综艺","日韩综艺","港台综艺","欧美综艺","纪录片","体育赛事"]},
 
 {"key":"csp_SP33","name":"三三","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"Qtv","name":"腾腾","type":3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
@@ -51,6 +52,7 @@
 {"key":"csp_Xinsj","name":"新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080yy3.com/"},
 {"key":"奈飞狗","name":"奈飞狗","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://netflixdog.club/api.php/app/"},
 {"key":"看看剧","name":"看看剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://kankanju.cc/api.php/app/"},
+{"key":"毛驴","name":"毛驴","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext":{"图片":"data-src=\"&&\"","分类url":"https://www.maolvys.com/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}/","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
 
 {"key":"萌猫影视","name":"萌猫影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JQ/萌猫影视.json"},
 {"key":"蛋蛋影视","name":"蛋蛋影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JQ/蛋蛋影视.json"},
