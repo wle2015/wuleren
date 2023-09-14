@@ -31,7 +31,7 @@
 {"key":"wxtv","name":"无限","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.wxtv.net/api.php/app/"},
 {"key":"heyik","name":"何以","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://www.heyik.cn/api.php/v1.vod"},
 {"key":"jisu","name":"极速","type":1,"api":"https://jszyapi.com/api.php/provide/vod/from/jsm3u8/","searchable":1,"changeable":1,"categories":["内地剧","欧美剧","香港剧","台湾剧","韩剧","日剧","马泰剧","动作片","爱情片","恐怖片","剧情片","战争片","灾难片","悬疑片","犯罪片","奇幻片","动漫","动画片","中国动漫","日本动漫","欧美动漫","综艺","大陆综艺","日韩综艺","港台综艺","欧美综艺","纪录片","体育赛事"]},
-{"key":"csp_AppMr","name":"明明","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1,"changeable":1"},
+{"key":"耐看点播","name":"耐看点播","type":3,"viewType":2,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":{"分类":"电影$1#电视剧$2#综艺$3#动漫$4","分类url":"https://www.nkvod.us/show/{cateId}--------{catePg}---{year}.html"}},{"key":"csp_AppMr","name":"明明","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1,"changeable":1"},
 {"key":"csp_SP33","name":"三三","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"Qtv","name":"腾腾","type":3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"Itv","name":"爱爱","type":3,"api":"csp_Itv","quickSearch":1,"searchable":1,"filterable":1,"changeable":0},
@@ -97,6 +97,8 @@
 {"key":"csp_XYQHiker_电影牛影院","name":"电影牛影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQHiker/电影牛影院.json"},
 {"key":"csp_XYQHiker_爱看影视","name":"爱看影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQHiker/爱看影视.json"},
 {"key":"csp_XYQHiker_锐行加速影院","name":"锐行加速影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQHiker/锐行加速影院.json"},
+
+{"key":"csp_追剧达人","name":"追剧达人","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":{"分类":"电影$1#电视剧$2#综艺$3#动漫$4","分类url":"https://www.teknowebs.com/tevodshow/{cateId}-{area}-------{catePg}---{year}.html"}},
 {"key":"河马","name":"河马","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://m.hmys.tv/show/{cateId}-{area}-------{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
 {"key":"酷酷","name":"酷酷","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.realdou.cn:2683/api.php/app/"},
 {"key":"酷影视","name":"酷影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
