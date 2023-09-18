@@ -2,14 +2,14 @@
 
 {"urls":
 [
-{"url":"https://ghproxy.com/https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/tvbox.txt","name":"tvbox接口"},
+{"url":"https://gh-proxy.com/https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/tvbox.txt","name":"tvbox接口"},
 
 {"url":"https://agit.ai/ihymn/tvbox/raw/branch/master/tb.txt","name":"TD接口"},
 
 {"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name":"南风接口"},
 
-{"url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json","name":"高天流云XYQ"},
-   
+{"url":"https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json","name":"高天流云XYQ"},
+
 {"url": "http://我不是.肥猫.love:63/接口禁止贩卖","name": "肥猫线路"},
 
 {"url": "http://饭太硬.top/tv","name": "饭太硬线路"},
@@ -24,7 +24,7 @@
 
 {"url": "https://jihulab.com/ygbh1/box/-/raw/main/%E6%9C%88%E5%85%89%E5%AE%9D.json","name": "月光宝盒"},
 
-{"url":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木自用.json","name":"一木接口"},
+{"url":"https://gh-proxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木自用.json","name":"一木接口"},
 
 {"url":"https://notabug.org/yzzsjc/TVBox-Pro/raw/master/lib/云星家庭.json","name":"云星家庭线路"},
 
@@ -42,15 +42,15 @@
 
 {"url":"https://agit.ai/guot54/ygbh/raw/branch/master/dxwoai18+.txt","name":"吾爱-18接口"},
 
-{"url":"https://ghproxy.com/https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/A18.txt","name":"A-18.txt"},
+{"url":"https://gh-proxy.com/https://raw.githubusercontent.com/wle2015/wuleren/MYSTY/A18.txt","name":"A-18.txt"},
 
-{"url":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json","name":"蜂蜜-18.txt"},
+{"url":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json","name":"蜂蜜-18.txt"},
 
 {"url":"https://agit.ai/138001380000/MHQTV/raw/branch/master/18cj.json","name":"CJ-18接口"},
 
 {"url":"https://agit.ai/box/TVBox/raw/branch/main/h/h.json","name":"H-18接口"},
 
-{"url":"https://ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/fuli.json","name":"FULI-18接口"},
+{"url":"https://gh-proxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/fuli.json","name":"FULI-18接口"},
 
 {"url":"https://agit.ai/guard/f/raw/branch/main/c.json","name":"C-18接口"},
 
@@ -60,9 +60,9 @@
 
 {"url":"https://agit.ai/pinghui/xinghe/raw/branch/master/慎用TVBOX福利接口.txt","name":"福利接口"},
 
-{"url":"https://ghproxy.com/https://raw.githubusercontent.com/nbwzlyd/CatVodSpider/main/json/adult.json","name":"ADULT-18原接口"},
+{"url":"https://gh-proxy.com/https://raw.githubusercontent.com/nbwzlyd/CatVodSpider/main/json/adult.json","name":"ADULT-18原接口"},
 
-{"url":"https://ghproxy.com/https://raw.githubusercontent.com/mmtekamu/tvbox/main/jiekou/18.json","name":"GGTV-18"}
+{"url":"https://gh-proxy.com/https://raw.githubusercontent.com/mmtekamu/tvbox/main/jiekou/18.json","name":"GGTV-18"}
 
 ]
 }
