@@ -1,0 +1,8 @@
+﻿{
+"数组":"class=\"li_all\"&&</li>",
+"链接":"href=\"&&\"",
+"图片":"src=\"&&\"",
+"标题":"title=\"&&\"",
+"分类":"电影$1#电视剧$2#综艺$3#动漫$4",
+"分类url":"https://www.88dyw.net/search.php?page={catePg}&searchtype=5&tid={cateId}&year={year}&jq={class}"
+}
