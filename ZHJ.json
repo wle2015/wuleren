@@ -15,7 +15,7 @@
 {"key":"lggys","name":"落攻阁","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.lggys.cn/api.php/app/"},
 {"key":"shaozeyy","name":"少泽","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://yk.shaozeyy.com/api.php/app/"},
 {"key":"胖虎","name":"胖虎","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext":{"分类url":"https://www.panghuys.com/vodshow/{cateId}/{area}/page/{catePg}/year/{year}.html","分类":"电影$1#剧集$2#综艺$3#动漫$4"}},
-{"key":"十品","name":"十品剧院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组":"class=\"v-pic\">&&</div>","链接":"href=\"&&\"","图片":"data-src=\"&&\"","标题":"title=\"&&\"","副标题":"class=\"v-tips\">&&</div>","首页":"电视剧","分类":"电影$1#电视剧$2#动漫$3#综艺$4","分类url":"http://www.sh5187.com/spshow/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html"}},
+{"key":"十品","name":"十品剧院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JQ/十品剧.json"},
 {"key": "看B站","name": "看B站","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":{"分类url": "https://kanb.tv/Show/{cateId}KKK{class}KKKKK{catePg}KKK{year}.html[http://https://kanb.tv/category/{cateId}.html]","分类": "电影$Movie#电视剧$lianxuju#综艺$Variety#动漫$bilibili#国产$ChinaComics#番剧$fanju"}},
 
 {"key":"csp_DiDuan","name":"低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
