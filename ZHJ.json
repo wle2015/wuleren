@@ -38,6 +38,9 @@
 {"key":"csp_神马影视","name":"神马视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JQ/神马视.json"},
 {"key":"csp_XBPQ_JOJO","name":"JOJO","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JQ/JOJO.json"},
 {"key":"88","name":"88剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JQ/88剧.json"},
+{"key":"OK","name":"OK电影","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JQ/OK.json"},
+{"key":"csp_YYDS","name":"YYDS","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JQ/YYDS.json"},
+{"key":"csp_AppYsV2_无心","name":"无心","type":3,"api":"csp_AppYsV2","ext":"https://suoniapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_SP33","name":"三三","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"Qtv","name":"腾腾","type":3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
@@ -50,6 +53,7 @@
 {"key":"zxzj","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzj.pro/"},
 {"key":"极客","name":"极客","type":3,"api":"csp_XBPQ","playerType":1,"ext":"./JQ/极客影院.json"},
 {"key":"csp_Bdys","name":"哔嘀影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":"./JAR/XYQ.jar"},
+{"key":"快帆","name":"快帆","type":1,"api":"https://api.kuaifan.tv/api.php/provide/vod","categories":["国产剧","香港剧","台湾剧","韩国剧","日本剧","欧美剧","动作片","动画片","短片","喜剧片","爱情片","科幻片","古装片","历史片","大陆综艺","港台综艺","日韩综艺","国产动漫","欧美动漫","日本动漫"]},
 
 {"key":"狐狸","name":"狐狸","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
 {"key":"爱迪","name":"爱迪","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
@@ -60,6 +64,7 @@
 {"key":"看看剧","name":"看看剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://kankanju.cc/api.php/app/"},
 {"key":"毛驴","name":"毛驴","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext":{"图片":"data-src=\"&&\"","分类url":"https://www.maolvys.com/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}/","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
 {"key":"csp_明帝","name":"明帝","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JQ/明帝.json"},
+{"key":"全看","name":"全看影视","type":3,"api":"csp_XBPQ","ext":{"分类":"电影$1#电视剧$2#动漫$4#综艺$3","分类url":"https://www.quankanw.cc/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"}},
 
 {"key":"耐看点播","name":"耐看点播","type":3,"viewType":2,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":{"分类":"电影$1#电视剧$2#综艺$3#动漫$4","分类url":"https://www.nkvod.us/show/{cateId}--------{catePg}---{year}.html"}},
 {"key":"萌猫影视","name":"萌猫影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JQ/萌猫影视.json"},
@@ -118,6 +123,7 @@
 {"key":"Nike网","name":"Nike","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JQ/Nike网.json"},
 {"key":"kkju","name":"kk剧院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JQ/kk剧.json"},
 {"key":"星脉","name":"星脉","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JQ/星脉.json"},
+{"key":"不休","name":"不休影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JQ/不休.json"},
 
 {"key":"app_轻简","name":"轻简影视","type":1,"api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/","categories":["电影","电视剧","综艺","动漫"]},
 {"key":"鲸落","name":"鲸落影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JQ/jingluo.json"},
@@ -141,6 +147,7 @@
 {"key":"drpy_js_eew","name":"四个圈影视","type":3,"api":"./JS/drpymin2.js","ext":"./JQ/四个圈影视.json"},
 {"key":"秒看资源","name":"秒看资源","type":1,"api":"https://mkzy.vip/api.php/provide/vod","searchable":1,"quickSearch":1,"categories":["电视剧","电影","动漫","综艺"]},
 {"key":"彩虹","name":"彩虹","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://jh.dytt996.com:996/api.php/app/"},
+{"key":"YQKAPP","name":"一起App","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://api-aws.11ty.top"},
 
 
 {"key":"csp_XYQBiu_七小时影院","name":"七小时影院","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JQ/七小时影院.json"},
