@@ -13,6 +13,8 @@
 {"key":"乐猪影视","name":"乐猪影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./HA/lezhu.json"},
 {"key":"suying影视","name":"速映影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./HA/suying.json"},
 {"key":"胖虎","name":"胖虎","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext":{"分类url":"https://www.panghuys.com/vodshow/{cateId}/{area}/page/{catePg}/year/{year}.html","分类":"电影$1#剧集$2#综艺$3#动漫$4"}},
+{"key":"OK","name":"OK电影","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JQ/ok.json"},
+{"key":"csp_YYDS","name":"YYDS","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JQ/YYDS.json"},
 {"key":"lggys","name":"落攻阁","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.lggys.cn/api.php/app/"},
 {"key":"baoxian","name":"宝仙","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://webdillo.com/api.php/app/"},
 {"key":"shaozeyy","name":"少泽","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://yk.shaozeyy.com/api.php/app/"},
@@ -35,6 +37,8 @@
 {"key":"十品","name":"十品剧院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JQ/十品剧.json"},
 {"key":"落攻阁","name":"落攻阁","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lggys.cn/api.php/app/"},
 {"key": "看B站","name": "看B站","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":{"分类url": "https://kanb.tv/Show/{cateId}KKK{class}KKKKK{catePg}KKK{year}.html[http://https://kanb.tv/category/{cateId}.html]","分类": "电影$Movie#电视剧$lianxuju#综艺$Variety#动漫$bilibili#国产$ChinaComics#番剧$fanju"}},
+{"key":"csp_AppYsV2_无心","name":"无心","type":3,"api":"csp_AppYsV2","ext":"https://suoniapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"全看","name":"全看影视","type":3,"api":"csp_XBPQ","ext":{"分类":"电影$1#电视剧$2#动漫$4#综艺$3","分类url":"https://www.quankanw.cc/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"}},
 
 {"key":"csp_AppMr","name":"明明","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1,"changeable":1"},
 {"key":"csp_SP33","name":"三三","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
@@ -56,6 +60,7 @@
 {"key":"csp_神马影视","name":"神马视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JQ/神马视.json"},
 {"key":"csp_XBPQ_JOJO","name":"JOJO","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JQ/JOJO.json"},
 {"key":"88","name":"88剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JQ/88剧.json"},
+{"key":"不休","name":"不休影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JQ/不休.json"},
 
 //{"key":"Auete","name":"奥特","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","ext":"b04b15448ad5bd4312f1fa1fb9aa9b1b","jar":"https://agit.ai/ihymn/tvbox/raw/branch/master/ts0620.jar"},
 {"key":"csp_Auete","name":"奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
@@ -108,6 +113,7 @@
 {"key":"csp_XYQHiker_爱看影视","name":"爱看影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQHiker/爱看影视.json"},
 {"key":"csp_XYQHiker_锐行加速影院","name":"锐行加速影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQHiker/锐行加速影院.json"},
 
+{"key":"YQKAPP","name":"一起App","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://api-aws.11ty.top"},
 {"key":"csp_追剧达人","name":"追剧达人","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":{"分类":"电影$1#电视剧$2#综艺$3#动漫$4","分类url":"https://www.teknowebs.com/tevodshow/{cateId}-{area}-------{catePg}---{year}.html"}},
 {"key":"河马","name":"河马","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://m.hmys.tv/show/{cateId}-{area}-------{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
 {"key":"酷酷","name":"酷酷","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.realdou.cn:2683/api.php/app/"},
