@@ -10,6 +10,10 @@
       "server": "https://lala-ofbip.run.goorm.site/"
     },
     {
+      "name": "18a",
+      "server": "http://69.161.221.160:5244/"
+    },
+    {
       "name": "星梦",
       "server": "https://pan.bashroot.top"
     }
