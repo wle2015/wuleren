@@ -131,6 +131,10 @@
 {"key":"星脉","name":"星脉","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JQ/星脉.json"},
 {"key":"皮皮","name":"皮皮","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JQ/皮皮.json"},
 {"key":"圈圈","name":"圈圈","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JQ/圈圈.json"},
+{"key":"csp_Bttwoo","name":"比特","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Mayiys","name":"蚂蚁","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://rzys.xyz"},
+{"key":"csp_Maolv","name":"毛驴","type":3,"api":"csp_Maolv","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
+{"key": "drpy_js_爱看机器人","name": "🎭整合资源","type": 3,"api": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/爱看机器人.js"},
 
 {"key":"app_轻简","name":"轻简影视","type":1,"api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/","categories":["电影","电视剧","综艺","动漫"]},
 {"key":"鲸落","name":"鲸落影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://bitbucket.org/xduo/json/raw/master/jingluo.json"},
@@ -320,6 +324,7 @@
 {"key":"csp_Yj1211","name":"在线直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xpath_huya","name":"虎牙","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/huya2.json"},
 {"key":"csp_xp_huya","name":"虎牙直播","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/liu673cn/box/main/sub/MeowXP/虎牙.json"},
+{"key":"Aid","name":"🚑急救教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"filterable":0,"changeable":0},
 {"key":"mtv_pc_小学课堂","name":"小学课堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mtv.weetai.cn/xpath/小学课堂.json"},
 {"key":"mtv_pc_初中课堂","name":"初中课堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mtv.weetai.cn/xpath/初中课堂.json"},
 {"key":"mtv_pc_高中课堂","name":"高中课堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mtv.weetai.cn/xpath/高中课堂.json"},
