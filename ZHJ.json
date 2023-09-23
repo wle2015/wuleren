@@ -157,6 +157,10 @@
 {"key":"秒看资源","name":"秒看资源","type":1,"api":"https://mkzy.vip/api.php/provide/vod","searchable":1,"quickSearch":1,"categories":["电视剧","电影","动漫","综艺"]},
 {"key":"彩虹","name":"彩虹","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://jh.dytt996.com:996/api.php/app/"},
 {"key":"YQKAPP","name":"一起App","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://api-aws.11ty.top"},
+{"key":"csp_Bttwoo","name":"比特","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Mayiys","name":"蚂蚁","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://rzys.xyz"},
+{"key":"csp_Maolv","name":"毛驴","type":3,"api":"csp_Maolv","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
+{"key": "drpy_js_爱看机器人","name": "🎭┃整合资源","type": 3,"api": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/爱看机器人.js"},
 
 
 {"key":"csp_XYQBiu_七小时影院","name":"七小时影院","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JQ/七小时影院.json"},
@@ -318,6 +322,7 @@
 {"key":"csp_Yj1211","name":"在线直播","type":3,"api":"csp_Yj1211","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"csp_xp_huya","name":"虎牙直播","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JQ/虎牙.json"},
 {"key":"csp_xpath_huya","name":"虎牙","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"./JQ/huya2.json"},
+{"key":"Aid","name":"🚑急救教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"filterable":0,"changeable":0},
 {"key":"mtv_pc_小学课堂","name":"小学课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"./JQ/小学课堂.json"},
 {"key":"mtv_pc_初中课堂","name":"初中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"./JQ/初中课堂.json"},
 {"key":"mtv_pc_高中课堂","name":"高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"./JQ/高中课堂.json"},
