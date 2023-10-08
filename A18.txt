@@ -3,6 +3,13 @@
   "sites": [
 {"key":"非凡","name":"非凡","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["伦理片"]},
 {"key":"量子","name":"量子","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["伦理片"]},
+{"key":"卧龙这样","name":"卧龙这样","type":1,"searchable":1,"quickSearch":1,"filterable":1,"api": "https://collect.wolongzy.cc/api.php/provide/vod/?ac=list","categories":["伦理片"]},
+{"key":"JYZY","name":"金鹰","type":1,"api":"https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/json","searchable":1,"quickSearch":1,"categories":["伦理片"]},
+{"key":"色窝","name":"色窝","type":1,"api":"https://sewozyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫里番","AI换脸","明星偶像","日本无码","日本有码","少女萝莉","中文字幕","强奸乱伦","巨乳美乳","熟女人妻","变态调教","制服黑丝","强奸乱伦","欧美性爱","国产情色","主播直播","日韩综合","自拍偷拍","美女模特","三级伦理","国产传媒"]},
+{"key":"老鸭","name":"老鸭","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫精品","AI换脸","海外明星","日本无码","日本有码","少女萝莉","中文字幕","强奸乱伦","巨乳美乳","熟女人妻","变态另类","制服诱惑","极品少妇","学生系列","欧美极品","女同性恋","美女模特","三级伦理","国产传媒","国产情色","自拍偷拍"]},
+{"key":"橘猫","name":"橘猫","type":1,"api":"https://to.to-long.com/api.php/provide/vod","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫里番","AI--换脸","明星偶像","日本无码","日本有码","少女萝莉","中文字幕","强奸乱伦","巨乳美乳","熟女人妻","变态调教","制服黑丝","日韩综合","欧美性爱","国产情色","主播直播","自拍偷拍","美女模特","三级伦理"]},
+{"key":"皇冠","name":"皇冠","type":1,"api":"https://www.partnersky-horoskop.com/api.php/provide/vod","playUrl":"https://player.77lehuo.com/aliplayer/?url=","searchable":1,"quickSearch":1,"filterable":1,"图片":"data-src=\"&&\"","categories":["动漫","VR","3D精品","AI换脸","无码破解","高清无码","高清中文","一本道","东京热","高清欧美","高清伦理","重口味","JAV精品","名优","加勒比","SWAG","FC2","UP精选","ASMR","SM","SPA养生","网曝黑料","国产精品","国产乱伦","传媒机构","探花系列","美女主播","麻豆传媒","韩国主播","暴力禁片","人妖","人兽","水果派","网红少女"]},
+
 {"key":"91麻豆","name":"*91麻豆","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_xBPQ_91色","name":"91色","type":3,"api":"csp_xBPQ","searchable":0,"quickSearch":0,"filterable":0, "ext":"./HA/91s.json","jar":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/xb.jar"},
 {"key":"csp_JavDb","name":"JavDb","type":3,"api":"csp_JavDb","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/guot54/ygbh/raw/branch/master/h/javbus.jpg"},
