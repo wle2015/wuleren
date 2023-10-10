@@ -314,8 +314,8 @@ CETV-4,http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
 北京卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/beijingHD/__op/default/__f/index.m3u8
 浙江卫视,https://iptv.luas.edu.cn/liverespath/f650ba03bb4883fe67a1fb7c193a00a4c0c93881/a2d2162784-0-0-56b13eabd03cd0ff33e9bc019e1fb073/index.m3u8
 安徽卫视,https://iptv.luas.edu.cn/liverespath/6e91e17de838dbf7c77f9ed8e41726bd4a1516f5/494a63d492-0-0-94541fa104bd30ce82410455ab950402/index.m3u8
-湖南卫视,https://iptv.luas.edu.cn/liverespath/9b1ccba5a2c611bb5d7c96243695572090cca5fd/3777bfb47d-0-0-654e705fbb80feea4c6f5105072a6d33/index.m3u8
 湖南卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/hunanHD/__op/default/__f/index.m3u8
+湖南卫视,https://iptv.luas.edu.cn/liverespath/9b1ccba5a2c611bb5d7c96243695572090cca5fd/3777bfb47d-0-0-654e705fbb80feea4c6f5105072a6d33/index.m3u8
 深圳卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8?
 北京卫视,http://pull.dayuntongzhou.com/live/tztv.m3u8
 河北卫视,http://event.pull.hebtv.com/jishi/weishipindao.m3u8
@@ -8750,6 +8750,7 @@ cjk35,https://m3u8.40cdn.com/movie-hls/161130/cjk35/index.m3u8
 cjk36,https://m3u8.40cdn.com/movie-hls/161130/cjk36/index.m3u8
 cjk37,https://play2.laoyacdn.com/20220624/MRDS8OEy/index.m3u8
 cjk38,https://vip5.3sybf.com/20210502/DaigjTSe/index.m3u8
+cjk39,https://video7.avnyg.com/video/20211101/b18cfdc2873d661738ee36a461f158ff/index.m3u8
 
 椎名空_6688,#genre#
 这三天姊姊是我的专属女僕,https://vod1.ttbfp2.com/20210821/WKO4e8Za/1553kb/hls/index.m3u8
@@ -9644,3 +9645,5 @@ FSDSS-034 超可爱的学生妹-東條なつ,https://t22.cdn2020.com/video/m3u8/
 IPX-977 美脚痴女-菜美まい,https://t21.cdn2020.com/video/m3u8/2022/12/23/850eb879/index.m3u8
 GVG-732 不穿胸罩妈妈-樱结奈,https://t23.cdn2020.com/video/m3u8/2023/09/16/e8c17bd7/index.m3u8
 ABF-001 最高级辣妹中出性爱-八挂海,https://t23.cdn2020.com/video/m3u8/2023/09/18/898f7f36/index.m3u8
+CJOD-393 超下流的两位情人-松本一花 月乃露娜,https://t23.cdn2020.com/video/m3u8/2023/10/05/958a8533/index.m3u8
+SSNI-468 エロス最大覚醒-坂道みるhttps://z100.cdn2020.com/video/m3u8/2019/08/02/820c92b8/index.m3u8
