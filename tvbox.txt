@@ -142,6 +142,7 @@
 {"key": "drpy_js_爱看机器人","name": "🎭整合资源","type": 3,"searchable":1,"quickSearch":1,"filterable":1,"api": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/爱看机器人.js"},
 {"key":"子子","name":"子子影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JQ/子子.json"},
 {"key": "腐剧","name": "腐剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"ext": {"链接":"href=\"&&\"","分类url":"https://www.bl210.one/frim/{cateId}-{catePg}.html;[https://www.tj8.top/frim/{cateId}-{catePg}.html]","分类": "电影$index1#动漫$index4#电视剧$index2#泰剧$index3"}},
+{"key":"dubok","name":"星星独播库","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://u.duboku.io/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}------{year}.html","分类":"电视剧$2#综艺$3#动漫$4#大陆剧$13#日韩剧$15#短剧$21#台泰剧$14#港剧$20"}},
 
 {"key":"app_轻简","name":"轻简影视","type":1,"searchable":1,"quickSearch":1,"changeable":1,"api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/","categories":["电影","电视剧","综艺","动漫"]},
 {"key":"鲸落","name":"鲸落影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://bitbucket.org/xduo/json/raw/master/jingluo.json"},
@@ -396,7 +397,7 @@
 
 "wallpaper":"https://bing.img.run/rand.php",
 
-"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
+"spider":"./JAR/Yoursmile.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIubW9leXkueHl6L2h0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS93bGUyMDE1L3d1bGVyZW4vTVlTVFkvemIudHh0"]}]}],
 
