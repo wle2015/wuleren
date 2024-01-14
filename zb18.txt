@@ -181,7 +181,7 @@ CGTN Русский,http://liveru.cgtn.com/1000r/prog_index.m3u8
 江苏卫视,https://iptv.luas.edu.cn/liverespath/0be64515076e489456de2f33e7b58ff1b392d3b3/8c0352e42d-0-0-2529f61c8f420136013f1ab8a93169c3/index.m3u8
 浙江卫视,https://iptv.luas.edu.cn/liverespath/f650ba03bb4883fe67a1fb7c193a00a4c0c93881/a2d2162784-0-0-56b13eabd03cd0ff33e9bc019e1fb073/index.m3u8
 安徽卫视,https://iptv.luas.edu.cn/liverespath/6e91e17de838dbf7c77f9ed8e41726bd4a1516f5/494a63d492-0-0-94541fa104bd30ce82410455ab950402/index.m3u8
-湖南卫视,https://iptv.luas.edu.cn/liverespath/9b1ccba5a2c611bb5d7c96243695572090cca5fd/3777bfb47d-0-0-654e705fbb80feea4c6f5105072a6d33/index.m3u8
+湖南卫视,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/hunanwshd8m/8000000/mnf.m3u8
 深圳卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8?
 北京卫视,http://pull.dayuntongzhou.com/live/tztv.m3u8
 河南卫视,http://media.hndyjyfw.gov.cn/live/jz-hnweishi/live.m3u8
@@ -31914,6 +31914,8 @@ LYF103,https://play4.laoyacdn.com/20231103/kxgrvUS9/index.m3u8
 LYF104,https://play4.laoyacdn.com/20231105/ZNbBQPv4/index.m3u8
 LYF105,https://play4.laoyacdn.com/20231105/ZDukko3D/index.m3u8
 LYF106,https://play4.laoyacdn.com/20231105/m85j1672/index.m3u8
+LYF107,https://www.hgzyavgroup.top/videos/202311/24/65605b5d204735a99c7ca38f/cg038a/index.m3u8
+
 
 AI幂_6688,#genre#
 YM1,https://askzybf.com/20230226/ERYTtEoI/1000kb/hls/index.m3u8
@@ -32235,6 +32237,8 @@ Angelababy杨颖上门服,https://ee.hghhh.com/videos/202308/12/64d6eb78d713b346
 宋轶 JK制服 潮水四溅性爱3连发,https://play4.laoyacdn.com/20231211/Y1mYVhWI/index.m3u8
 宋轶 激情后颜射,https://play4.laoyacdn.com/20231213/6O347WKh/index.m3u8
 宋轶 粉丝感谢祭和大家轮流做,https://play4.laoyacdn.com/20231213/Z5BkdpRy/index.m3u8
+宋祖儿 足球宝贝,https://play4.laoyacdn.com/20231219/wg7RyqNR/index.m3u8
+
 
 
 苍_6688,#genre#
@@ -32540,6 +32544,8 @@ IPZZ-066 你的口交实在太棒了,https://t22.cdn2020.com/video/m3u8/2023/07/
 ADN-482 沙龙店员的耻辱,https://t22.cdn2020.com/video/m3u8/2023/08/16/db5ba1fe/index.m3u8
 SHKD-755 办公室女士的连裤袜,https://t7.cdn2020.com/video/m3u8/2021/07/17/f9c419f6/index.m3u8
 IPZ-376 完全主观恋人性爱,https://t23.cdn2020.com/video/m3u8/2023/09/13/3d518845/index.m3u8
+IPZZ-012 强奸美丽未亡人,https://t21.cdn2020.com/video/m3u8/2023/05/05/a1636c58/index.m3u8
+
 
 夏目彩春_6688,#genre#
 ADN-463 半夜起来发现妻子不在旁边,https://t22.cdn2020.com/video/m3u8/2023/05/19/c7a8fc15/index.m3u8
@@ -32592,6 +32598,8 @@ ADN-472 比常人性欲强一倍的人妻,https://t22.cdn2020.com/video/m3u8/202
 ADN-467 用視訊電話跟愛人打炮,https://t22.cdn2020.com/video/m3u8/2023/07/28/a0295554/index.m3u8
 ADN-486 嫂子只允许我插入3厘米,https://t23.cdn2020.com/video/m3u8/2023/10/20/0226a4ca/index.m3u8
 ADN-496 堕入孕期美容院的人妻,https://t23.cdn2020.com/video/m3u8/2023/10/28/93a5d7f7/index.m3u8
+ADN-504 透过裙子看到的内裤,https://t23a.cdn2020.com/video/m3u8/2023/12/24/edb75a18/index.m3u8
+
 
 
 向井藍_6688,#genre#
@@ -32894,8 +32902,7 @@ WANZ-634 杀人还要诛心究极NTR老婆,https://t20.cdn2020.com/video/m3u8/20
 NACR-684 我的上司妻子,https://t22.cdn2020.com/video/m3u8/2023/08/02/e4f82bc6/index.m3u8
 MOT-023 出色的内射做爱,https://t22.cdn2020.com/video/m3u8/2023/08/31/9960e0bf/index.m3u8
 TYOD-289 贤淑的妻子,https://t22.cdn2020.com/video/m3u8/2023/08/31/1fecd1de/index.m3u8
-
-
+WANZ-687 化装公主,https://t4t5t6t7.cdn2020.com/video/m3u8/2020/11/20/f54f8628/index.m3u8
 
 君岛美绪_6688,#genre#
 VEMA-197 公共卫生护士,https://t21.cdn2020.com/video/m3u8/2023/03/21/5823bbb9/index.m3u8
@@ -33021,8 +33028,7 @@ IPX-342 禁欲四个月的最佳女优,https://t22.cdn2020.com/video/m3u8/2023/0
 IPX-571 极品痴女风俗娘,https://t22.cdn2020.com/video/m3u8/2023/08/27/dd6ca7fb/index.m3u8
 IPX-543 究极痴女技师,https://t22.cdn2020.com/video/m3u8/2023/08/28/01c55ca0/index.m3u8
 IPZZ-054 人妻自家性愛按摩院,https://t22.cdn2020.com/video/m3u8/2023/07/08/18b0450c/index.m3u8
-
-
+IPX-697 禁欲的最后极品女优,https://t22a.cdn2020.com/video/m3u8/2023/07/22/df32716a/index.m3u8
 
 小岛南_6688,#genre#
 SSNI-879 裸体派对-葵つかさ,https://t5s.cdn2020.com/video/m3u8/2020/10/16/4bf4252f/index.m3u8
@@ -33213,4 +33219,12 @@ SSIS-117 清纯妻口交直到让我蛋蛋射空-葵司,https://t23a.cdn2020.com
 DASS-263 被久違不見的兒子強姦的我-黑川堇,https://t23a.cdn2020.com/video/m3u8/2023/11/30/0558c9e2/index.m3u8
 IPZZ-134 发射无制限-桜空もも,https://t23a.cdn2020.com/video/m3u8/2023/12/04/0731a246/index.m3u8
 BF-342 黑丝美女教师-林由奈,https://t23a.cdn2020.com/video/m3u8/2023/12/13/4ec06f8d/index.m3u8
-SSNI-940 全身吮吸唾液的特别版-葵司https://t23a.cdn2020.com/video/m3u8/2023/12/16/9f3dabbe/index.m3u8
+SSNI-940 全身吮吸唾液的特别版-葵司,https://t23a.cdn2020.com/video/m3u8/2023/12/16/9f3dabbe/index.m3u8
+SSNI-866 巨乳嫂子-葵司,https://t23a.cdn2020.com/video/m3u8/2023/12/28/4fa70151/index.m3u8
+SSIS-554 交融体液-葵司https://t23a.cdn2020.com/video/m3u8/2023/12/29/ae28cd84/index.m3u8
+XVSR-713 整天做爱吧-大槻响,https://t22a.cdn2020.com/video/m3u8/2023/08/26/41e1a807/index.m3u8
+DASS-302 妖怪级性欲大姐姐-黑川堇,https://t23a.cdn2020.com/video/m3u8/2024/01/07/0c06924c/index.m3u8
+IPZ-789 直播做爱超珍贵影像大放送-桃乃木香奈,https://t23a.cdn2020.com/video/m3u8/2024/01/08/f015f1f2/index.m3u8
+SSIS-419 童貞喪失-三上悠亜,https://t19.cdn2020.com/video/m3u8/2022/06/22/be47d555/index.m3u8
+DASS-124 双亲不在的两天 和妹妹欲望释出的中出记录 东条夏,https://video.a1y6.com/decry/vd/20240112/NmU3MjY4YzY5/143013/1920_1080/libx/hls/decrypt/index.m3u8
+ROYD-156 无内巨乳大姐姐-橘玛丽,https://t23a.cdn2020.com/video/m3u8/2024/01/10/6bce47b6/index.m3u8
